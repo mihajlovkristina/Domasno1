@@ -1,0 +1,7709 @@
+[
+	{
+		"lat" : "41.9919017",
+		"lon" : "21.4266878",
+		"name" : "Рамстор",
+		"category" : "supermarket",
+		"opening_hours" : "Mo-Su 08:00-22:00"
+	},
+	{
+		"lat" : "42.0068279",
+		"lon" : "21.3649348",
+		"name" : "SP Planet",
+		"category" : "supermarket"
+	},
+	{
+		"lat" : "41.9947408",
+		"lon" : "20.9810165",
+		"name" : "G8",
+		"category" : "bakery"
+	},
+	{
+		"lat" : "42.0070862",
+		"lon" : "21.3634616",
+		"name" : "Тинекс Ѓорче Петров",
+		"category" : "supermarket",
+		"phone" : "+389 2 2045680",
+		"website" : "http://tinex.com.mk",
+		"addr:street" : "Булевар Ѓорче Петров",
+		"opening_hours" : "Mo-Sa 08:00-22:00; Su 08:00-20:00"
+	},
+	{
+		"lat" : "41.4336677",
+		"lon" : "22.0125082",
+		"name" : "Tinex",
+		"category" : "supermarket"
+	},
+	{
+		"lat" : "41.9897959",
+		"lon" : "21.5034896",
+		"name" : "Kvantashki Pazar",
+		"category" : "outdoor"
+	},
+	{
+		"lat" : "42.052108",
+		"lon" : "21.0560365",
+		"name" : "G8",
+		"category" : "bakery"
+	},
+	{
+		"lat" : "41.5131208",
+		"lon" : "21.2162734",
+		"name" : "Александрија",
+		"category" : "supermarket"
+	},
+	{
+		"lat" : "41.9897519",
+		"lon" : "21.4548174",
+		"name" : "Тинекс",
+		"category" : "supermarket"
+	},
+	{
+		"lat" : "41.5139095",
+		"lon" : "21.2164115",
+		"name" : "Filipos",
+		"category" : "supermarket"
+	},
+	{
+		"lat" : "41.4371805",
+		"lon" : "22.0106521",
+		"name" : "Butik Dani",
+		"category" : "clothes"
+	},
+	{
+		"lat" : "41.9957633",
+		"lon" : "21.5040709",
+		"name" : "Фурна Облат",
+		"category" : "bakery"
+	},
+	{
+		"lat" : "41.9947806",
+		"lon" : "21.5045452",
+		"name" : "Hedi’s Market 657",
+		"category" : "convenience"
+	},
+	{
+		"lat" : "41.9845218",
+		"lon" : "21.4688286",
+		"name" : "Веро",
+		"category" : "supermarket"
+	},
+	{
+		"lat" : "41.4382823",
+		"lon" : "22.6414839",
+		"name" : "Tinex",
+		"category" : "supermarket"
+	},
+	{
+		"lat" : "41.43816",
+		"lon" : "22.6419646",
+		"name" : "Horizont",
+		"category" : "supermarket"
+	},
+	{
+		"lat" : "41.4415567",
+		"lon" : "22.6513455",
+		"name" : "My Market",
+		"category" : "supermarket"
+	},
+	{
+		"lat" : "41.4389708",
+		"lon" : "22.6390034",
+		"name" : "Global Trade Center",
+		"category" : "department_store"
+	},
+	{
+		"lat" : "41.4409897",
+		"lon" : "22.6485615",
+		"name" : "Technomarket",
+		"category" : "supermarket"
+	},
+	{
+		"lat" : "42.2058039",
+		"lon" : "22.3364342",
+		"name" : "Плод",
+		"category" : "convenience"
+	},
+	{
+		"lat" : "41.9925332",
+		"lon" : "21.4370214",
+		"name" : "Tinex",
+		"category" : "supermarket"
+	},
+	{
+		"lat" : "41.9903083",
+		"lon" : "21.411176",
+		"name" : "Tinex",
+		"category" : "supermarket"
+	},
+	{
+		"lat" : "42.0003611",
+		"lon" : "21.4268596",
+		"name" : "Жито Леб",
+		"category" : "bakery"
+	},
+	{
+		"lat" : "41.9930176",
+		"lon" : "21.4222126",
+		"name" : "Кики Сервис",
+		"category" : "car_repair"
+	},
+	{
+		"lat" : "41.995491",
+		"lon" : "21.4119012",
+		"name" : "Cilas",
+		"category" : "car"
+	},
+	{
+		"lat" : "41.9954575",
+		"lon" : "21.4121635",
+		"name" : "Cilas",
+		"category" : "car_repair"
+	},
+	{
+		"lat" : "41.4368647",
+		"lon" : "22.0107086",
+		"name" : "Avtodelovi Manas",
+		"category" : "car"
+	},
+	{
+		"lat" : "41.4341813",
+		"lon" : "22.013761",
+		"name" : "Cvekara",
+		"category" : "florist"
+	},
+	{
+		"lat" : "41.4341732",
+		"lon" : "22.0136146",
+		"name" : "Disney",
+		"category" : "toys"
+	},
+	{
+		"lat" : "41.4339454",
+		"lon" : "22.0136146",
+		"name" : "NICOM",
+		"category" : "computer"
+	},
+	{
+		"lat" : "41.4341081",
+		"lon" : "22.0132241",
+		"name" : "Mesarnica MEGA",
+		"category" : "butcher"
+	},
+	{
+		"lat" : "41.4337894",
+		"lon" : "22.0126691",
+		"name" : "T-Mobile",
+		"category" : "electronics"
+	},
+	{
+		"lat" : "41.434227",
+		"lon" : "22.011622",
+		"name" : "Prosvetno Delo",
+		"category" : "books"
+	},
+	{
+		"lat" : "41.4351343",
+		"lon" : "22.0113044",
+		"name" : "T-Mobile",
+		"category" : "electronics"
+	},
+	{
+		"lat" : "41.4360062",
+		"lon" : "22.0112696",
+		"name" : "Cityshop",
+		"category" : "electronics"
+	},
+	{
+		"lat" : "41.4345745",
+		"lon" : "22.0168577",
+		"name" : "Javor",
+		"category" : "butcher"
+	},
+	{
+		"lat" : "42.0071705",
+		"lon" : "21.4113722",
+		"name" : "Паркови и Зеленило",
+		"category" : "garden_centre"
+	},
+	{
+		"lat" : "41.6613792",
+		"lon" : "20.7337561",
+		"name" : "Аце",
+		"category" : "supermarket"
+	},
+	{
+		"lat" : "41.6504797",
+		"lon" : "20.7362141",
+		"name" : "Лазе",
+		"category" : "supermarket"
+	},
+	{
+		"lat" : "41.9775755",
+		"lon" : "21.4471569",
+		"name" : "Расадник",
+		"category" : "garden_centre"
+	},
+	{
+		"lat" : "41.9801204",
+		"lon" : "21.4752382",
+		"name" : "Рептил Маркет",
+		"category" : "supermarket",
+		"addr:city" : "Skopje",
+		"addr:street" : "Булевар Видое Смилевски Бато"
+	},
+	{
+		"lat" : "41.1810562",
+		"lon" : "20.680569",
+		"name" : "Тинекс",
+		"category" : "supermarket"
+	},
+	{
+		"lat" : "42.0197651",
+		"lon" : "21.4350123",
+		"name" : "Prince",
+		"category" : "supermarket"
+	},
+	{
+		"lat" : "41.0857428",
+		"lon" : "21.0151314",
+		"name" : "KAM market",
+		"category" : "supermarket"
+	},
+	{
+		"lat" : "41.9913718",
+		"lon" : "21.5851057",
+		"name" : "Дарксофт Компјутери",
+		"category" : "convenience"
+	},
+	{
+		"lat" : "41.0979585",
+		"lon" : "21.0114216",
+		"name" : "Макпетрол",
+		"category" : "kiosk"
+	},
+	{
+		"lat" : "41.4327823",
+		"lon" : "22.0046288",
+		"name" : "CodEx - computers",
+		"category" : "convenience"
+	},
+	{
+		"lat" : "41.4399919",
+		"lon" : "22.0097653",
+		"name" : "TD",
+		"category" : "supermarket"
+	},
+	{
+		"lat" : "41.439429",
+		"lon" : "22.009204",
+		"name" : "Bako&Stojna",
+		"category" : "supermarket"
+	},
+	{
+		"lat" : "41.4394773",
+		"lon" : "22.0089787",
+		"name" : "DTS Market  Silvana & Dobri",
+		"category" : "supermarket"
+	},
+	{
+		"lat" : "41.4409129",
+		"lon" : "22.0104271",
+		"name" : "TD - supermarket",
+		"category" : "supermarket"
+	},
+	{
+		"lat" : "41.9866616",
+		"lon" : "21.4675141",
+		"name" : "Жито Маркет",
+		"category" : "supermarket"
+	},
+	{
+		"lat" : "41.0107058",
+		"lon" : "21.3537257",
+		"name" : "Автонова",
+		"category" : "car_repair",
+		"addr:street" : "Краварски пат"
+	},
+	{
+		"lat" : "41.0101843",
+		"lon" : "21.3547613",
+		"name" : "Аутомобиле СК",
+		"category" : "car_repair",
+		"addr:street" : "Краварски пат"
+	},
+	{
+		"lat" : "41.02582",
+		"lon" : "21.3089047",
+		"name" : "MARKET IN",
+		"category" : "supermarket",
+		"addr:street" : "Тодор Паница"
+	},
+	{
+		"lat" : "41.1815124",
+		"lon" : "20.6788926",
+		"name" : "Балкопром",
+		"category" : "supermarket"
+	},
+	{
+		"lat" : "41.8820514",
+		"lon" : "22.3332827",
+		"name" : "GALIJA :D",
+		"category" : "convenience"
+	},
+	{
+		"lat" : "41.99775",
+		"lon" : "21.3252696",
+		"name" : "Ta2",
+		"category" : "convenience"
+	},
+	{
+		"lat" : "41.9972876",
+		"lon" : "21.3246903",
+		"name" : "Ta2",
+		"category" : "convenience"
+	},
+	{
+		"lat" : "41.9986909",
+		"lon" : "21.3263168",
+		"name" : "Ta2",
+		"category" : "convenience"
+	},
+	{
+		"lat" : "41.9991055",
+		"lon" : "21.3268253",
+		"name" : "Ta2",
+		"category" : "convenience"
+	},
+	{
+		"lat" : "41.9997513",
+		"lon" : "21.3276407",
+		"name" : "Ta2",
+		"category" : "convenience"
+	},
+	{
+		"lat" : "42.0000224",
+		"lon" : "21.3268682",
+		"name" : "Ta2",
+		"category" : "convenience"
+	},
+	{
+		"lat" : "42.0002456",
+		"lon" : "21.3266966",
+		"name" : "Ta2",
+		"category" : "convenience"
+	},
+	{
+		"lat" : "42.0030999",
+		"lon" : "21.3317928",
+		"name" : "Ta2",
+		"category" : "convenience"
+	},
+	{
+		"lat" : "41.9998709",
+		"lon" : "21.32866",
+		"name" : "Ta2",
+		"category" : "convenience"
+	},
+	{
+		"lat" : "41.9961066",
+		"lon" : "21.322989",
+		"name" : "Ta2",
+		"category" : "convenience"
+	},
+	{
+		"lat" : "41.9923852",
+		"lon" : "21.3162182",
+		"name" : "Ta2",
+		"category" : "convenience"
+	},
+	{
+		"lat" : "41.9949146",
+		"lon" : "21.3229071",
+		"name" : "Ta2 Gold Market",
+		"category" : "convenience"
+	},
+	{
+		"lat" : "41.0115392",
+		"lon" : "21.3520867",
+		"name" : "Аутомакедонија",
+		"category" : "car"
+	},
+	{
+		"lat" : "42.0046326",
+		"lon" : "21.5033827",
+		"name" : "Жито Маркет",
+		"category" : "supermarket"
+	},
+	{
+		"lat" : "41.8821533",
+		"lon" : "22.5150152",
+		"name" : "Mak Progres",
+		"category" : "convenience"
+	},
+	{
+		"lat" : "41.881051",
+		"lon" : "22.5146289",
+		"name" : "Nasev",
+		"category" : "bakery"
+	},
+	{
+		"lat" : "41.8866184",
+		"lon" : "22.5004347",
+		"name" : "Mak Progres",
+		"category" : "supermarket"
+	},
+	{
+		"lat" : "41.8853963",
+		"lon" : "22.5041576",
+		"name" : "Zito",
+		"category" : "supermarket"
+	},
+	{
+		"lat" : "41.993755",
+		"lon" : "20.9786298",
+		"name" : "продавница",
+		"category" : "supermarket",
+		"addr:street" : "Nikola Karev 4"
+	},
+	{
+		"lat" : "41.0109082",
+		"lon" : "21.3534044",
+		"name" : "Автонова",
+		"category" : "car",
+		"website" : "https://www.citroen.com.mk/",
+		"addr:street" : "Краварски пат"
+	},
+	{
+		"lat" : "41.995119",
+		"lon" : "21.4257098",
+		"name" : "Фото Здравко",
+		"category" : "photo"
+	},
+	{
+		"lat" : "42.0019909",
+		"lon" : "21.423239",
+		"name" : "BIKE MARKET",
+		"category" : "bicycle",
+		"addr:city" : "Cкoпje",
+		"addr:street" : "Булевар Илинден",
+		"opening_hours" : "Mo-Fr 10:00-20:00; Sa 10:00-18:00"
+	},
+	{
+		"lat" : "42.0011544",
+		"lon" : "21.496741",
+		"name" : "Сервис Колевски",
+		"category" : "car_repair"
+	},
+	{
+		"lat" : "41.9939066",
+		"lon" : "21.5043477",
+		"name" : "Кам Маркет",
+		"category" : "convenience"
+	},
+	{
+		"lat" : "41.9834992",
+		"lon" : "21.4387505",
+		"name" : "Бурекџилница Круна",
+		"category" : "bakery"
+	},
+	{
+		"lat" : "41.9813069",
+		"lon" : "21.4383256",
+		"name" : "Рептил",
+		"category" : "supermarket"
+	},
+	{
+		"lat" : "41.9754943",
+		"lon" : "21.4387489",
+		"name" : "Фарина",
+		"category" : "bakery"
+	},
+	{
+		"lat" : "42.0208332",
+		"lon" : "21.4300428",
+		"name" : "Сервис Љоки",
+		"category" : "doityourself"
+	},
+	{
+		"lat" : "41.9930311",
+		"lon" : "21.4025784",
+		"name" : "Спаткарница Канела Прима",
+		"category" : "bakery",
+		"addr:city" : "Скопје",
+		"addr:street" : "Милан Марковиќ"
+	},
+	{
+		"lat" : "42.0153377",
+		"lon" : "21.3804303",
+		"name" : "Мега Ауто Партс",
+		"category" : "doityourself"
+	},
+	{
+		"lat" : "42.0143173",
+		"lon" : "21.381235",
+		"name" : "Агромеханика",
+		"category" : "doityourself"
+	},
+	{
+		"lat" : "42.0077722",
+		"lon" : "21.3659086",
+		"name" : "Kam Market",
+		"category" : "convenience"
+	},
+	{
+		"lat" : "42.0063093",
+		"lon" : "21.3655868",
+		"name" : "Gigo",
+		"category" : "convenience"
+	},
+	{
+		"lat" : "42.0078582",
+		"lon" : "21.3688239",
+		"name" : "Asura Market",
+		"category" : "convenience"
+	},
+	{
+		"lat" : "42.009279",
+		"lon" : "21.3644066",
+		"name" : "Ribarnica",
+		"category" : "seafood"
+	},
+	{
+		"lat" : "42.0074692",
+		"lon" : "21.3836919",
+		"name" : "Special",
+		"category" : "bakery"
+	},
+	{
+		"lat" : "41.9794894",
+		"lon" : "21.4764231",
+		"name" : "Рамстор",
+		"category" : "supermarket"
+	},
+	{
+		"lat" : "42.0034268",
+		"lon" : "21.3989021",
+		"name" : "КОСМО Тинекс",
+		"category" : "supermarket"
+	},
+	{
+		"lat" : "42.0038529",
+		"lon" : "21.3990578",
+		"name" : "Канела",
+		"category" : "confectionery"
+	},
+	{
+		"lat" : "41.7175431",
+		"lon" : "21.761961",
+		"name" : "Туш",
+		"category" : "supermarket"
+	},
+	{
+		"lat" : "41.9975092",
+		"lon" : "21.487832",
+		"name" : "De-Ta",
+		"category" : "clothes",
+		"website" : "www.detasocks.com",
+		"addr:street" : "Перо Наков"
+	},
+	{
+		"lat" : "42.1388936",
+		"lon" : "21.7248163",
+		"name" : "Му Маркет",
+		"category" : "supermarket"
+	},
+	{
+		"lat" : "41.7493514",
+		"lon" : "22.1995983",
+		"name" : "Нада Меркур",
+		"category" : "supermarket"
+	},
+	{
+		"lat" : "42.0076504",
+		"lon" : "21.3396463",
+		"name" : "Жито маркет",
+		"category" : "supermarket"
+	},
+	{
+		"lat" : "41.986975",
+		"lon" : "21.4308935",
+		"name" : "Вегера",
+		"category" : "bakery"
+	},
+	{
+		"lat" : "41.9904388",
+		"lon" : "21.4205283",
+		"name" : "Sveti Nikole",
+		"category" : "bakery"
+	},
+	{
+		"lat" : "42.0002366",
+		"lon" : "21.417579",
+		"name" : "Staedtler",
+		"category" : "books"
+	},
+	{
+		"lat" : "41.9870802",
+		"lon" : "21.4314029",
+		"name" : "Tony’s Bakery",
+		"category" : "bakery"
+	},
+	{
+		"lat" : "41.9999501",
+		"lon" : "21.4153258",
+		"name" : "Клучар Шани",
+		"category" : "doityourself"
+	},
+	{
+		"lat" : "42.1332104",
+		"lon" : "21.7163337",
+		"name" : "Венцо 2",
+		"category" : "photo"
+	},
+	{
+		"lat" : "41.0103539",
+		"lon" : "21.3544178",
+		"name" : "Аутомобиле СК",
+		"category" : "car",
+		"website" : "www.fiat.com.mk",
+		"addr:street" : "Краварски пат"
+	},
+	{
+		"lat" : "41.3798835",
+		"lon" : "22.8139526",
+		"name" : "Sulo Vanco Janky",
+		"category" : "alcohol"
+	},
+	{
+		"lat" : "41.3812351",
+		"lon" : "22.8136456",
+		"name" : "Колид",
+		"category" : "convenience"
+	},
+	{
+		"lat" : "41.3812029",
+		"lon" : "22.8153569",
+		"name" : "Dana",
+		"category" : "kiosk"
+	},
+	{
+		"lat" : "41.9810056",
+		"lon" : "21.4323628",
+		"name" : "Кам Маркет",
+		"category" : "supermarket"
+	},
+	{
+		"lat" : "42.1158085",
+		"lon" : "21.7386693",
+		"name" : "Stena Mag",
+		"category" : "convenience"
+	},
+	{
+		"lat" : "42.0528304",
+		"lon" : "21.449974",
+		"name" : "Орашец",
+		"category" : "supermarket"
+	},
+	{
+		"lat" : "41.988882",
+		"lon" : "21.4282537",
+		"name" : "Кам Маркет",
+		"category" : "supermarket"
+	},
+	{
+		"lat" : "42.0026311",
+		"lon" : "21.4623331",
+		"name" : "КАМ Маркет",
+		"category" : "supermarket"
+	},
+	{
+		"lat" : "41.992983",
+		"lon" : "21.4416852",
+		"name" : "Џамбо",
+		"category" : "baby_goods"
+	},
+	{
+		"lat" : "41.9930392",
+		"lon" : "21.4414652",
+		"name" : "Веро 9",
+		"category" : "supermarket",
+		"phone" : "+389 2 3088400",
+		"website" : "https://vero.com.mk/Marketi/Vero9",
+		"addr:city" : "Cкoпje",
+		"addr:street" : "Koco Racin",
+		"opening_hours" : "09:00-22:00"
+	},
+	{
+		"lat" : "42.0026068",
+		"lon" : "21.4644629",
+		"name" : "Аристократ кафе",
+		"category" : "confectionery"
+	},
+	{
+		"lat" : "42.1368204",
+		"lon" : "21.715513",
+		"name" : "Венцо 1",
+		"category" : "photo"
+	},
+	{
+		"lat" : "42.1330452",
+		"lon" : "21.7350929",
+		"name" : "Тинекс",
+		"category" : "supermarket"
+	},
+	{
+		"lat" : "42.1371766",
+		"lon" : "21.7272851",
+		"name" : "КАМ",
+		"category" : "supermarket"
+	},
+	{
+		"lat" : "42.0002017",
+		"lon" : "21.4251226",
+		"name" : "Спачва",
+		"category" : "furniture"
+	},
+	{
+		"lat" : "41.9993974",
+		"lon" : "21.426528",
+		"name" : "Агровита МК",
+		"category" : "convenience"
+	},
+	{
+		"lat" : "42.0538936",
+		"lon" : "21.4522939",
+		"name" : "Еци",
+		"category" : "convenience"
+	},
+	{
+		"lat" : "41.7368407",
+		"lon" : "22.1920509",
+		"name" : "Тинекс",
+		"category" : "supermarket"
+	},
+	{
+		"lat" : "41.3740068",
+		"lon" : "22.9190506",
+		"name" : "Supero",
+		"category" : "supermarket"
+	},
+	{
+		"lat" : "41.4099477",
+		"lon" : "22.2430597",
+		"name" : "Zito",
+		"category" : "convenience"
+	},
+	{
+		"lat" : "41.4091129",
+		"lon" : "22.2420807",
+		"name" : "Sani",
+		"category" : "convenience"
+	},
+	{
+		"lat" : "42.0048803",
+		"lon" : "21.3922837",
+		"name" : "Ramstore",
+		"category" : "supermarket",
+		"website" : "http://ramstore.com.mk",
+		"addr:city" : "Skopje",
+		"addr:street" : "Љубљанска",
+		"opening_hours" : "08:00-22:00"
+	},
+	{
+		"lat" : "41.3726393",
+		"lon" : "22.2257574",
+		"name" : "Doshnica Fish Farm",
+		"category" : "seafood"
+	},
+	{
+		"lat" : "41.4874572",
+		"lon" : "22.0923577",
+		"name" : "Супермаркет Дијана",
+		"category" : "supermarket"
+	},
+	{
+		"lat" : "41.79495",
+		"lon" : "20.907855",
+		"name" : "boss",
+		"category" : "supermarket",
+		"addr:street" : "braka"
+	},
+	{
+		"lat" : "41.9973587",
+		"lon" : "21.483821",
+		"name" : "Електрометал",
+		"category" : "supermarket",
+		"website" : "http://www.elektroelement.com.mk",
+		"addr:street" : "Перо Наков",
+		"opening_hours" : "Mo-Sa 08:00-21:00"
+	},
+	{
+		"lat" : "42.0050437",
+		"lon" : "21.3832243",
+		"name" : "PAMS Shoe Store 2",
+		"category" : "department_store",
+		"website" : "http://www.pams.mk/"
+	},
+	{
+		"lat" : "42.0094581",
+		"lon" : "21.3610348",
+		"name" : "PAMS Shoe Store 1",
+		"category" : "department_store",
+		"website" : "http://www.pams.mk"
+	},
+	{
+		"lat" : "42.0022775",
+		"lon" : "21.3762625",
+		"name" : "Tinex",
+		"category" : "supermarket"
+	},
+	{
+		"lat" : "41.0255458",
+		"lon" : "21.3366299",
+		"name" : "Cinnamon",
+		"category" : "department_store"
+	},
+	{
+		"lat" : "41.0251856",
+		"lon" : "21.3368232",
+		"name" : "Антика",
+		"category" : "department_store"
+	},
+	{
+		"lat" : "41.4390428",
+		"lon" : "22.010536",
+		"name" : "KAM City",
+		"category" : "supermarket"
+	},
+	{
+		"lat" : "41.4331994",
+		"lon" : "22.6446147",
+		"name" : "КИТГО Маркет",
+		"category" : "supermarket"
+	},
+	{
+		"lat" : "41.918086",
+		"lon" : "22.4103982",
+		"name" : "Hipo",
+		"category" : "supermarket"
+	},
+	{
+		"lat" : "41.918078",
+		"lon" : "22.4105538",
+		"name" : "Просветно Дело",
+		"category" : "books"
+	},
+	{
+		"lat" : "41.9178804",
+		"lon" : "22.4110366",
+		"name" : "Dambolino",
+		"category" : "toys"
+	},
+	{
+		"lat" : "41.9175651",
+		"lon" : "22.4110795",
+		"name" : "Morski",
+		"category" : "hairdresser"
+	},
+	{
+		"lat" : "41.9226323",
+		"lon" : "22.4098806",
+		"name" : "Zito Market",
+		"category" : "supermarket"
+	},
+	{
+		"lat" : "41.1394151",
+		"lon" : "22.5030468",
+		"name" : "КИТ-ГО",
+		"category" : "supermarket"
+	},
+	{
+		"lat" : "41.1461964",
+		"lon" : "22.5014622",
+		"name" : "ТДЦ-3",
+		"category" : "department_store"
+	},
+	{
+		"lat" : "42.0027574",
+		"lon" : "21.4053391",
+		"name" : "Mena",
+		"category" : "convenience"
+	},
+	{
+		"lat" : "41.9978855",
+		"lon" : "21.4940611",
+		"name" : "ТПД Керол",
+		"category" : "convenience"
+	},
+	{
+		"lat" : "41.9995932",
+		"lon" : "21.4868469",
+		"name" : "Автопазар",
+		"category" : "car"
+	},
+	{
+		"lat" : "41.9974583",
+		"lon" : "21.4974792",
+		"name" : "Baki",
+		"category" : "hairdresser"
+	},
+	{
+		"lat" : "41.1061074",
+		"lon" : "20.8095515",
+		"name" : "Жито Леб",
+		"category" : "bakery"
+	},
+	{
+		"lat" : "41.1093692",
+		"lon" : "20.8114425",
+		"name" : "KAM Market",
+		"category" : "supermarket"
+	},
+	{
+		"lat" : "41.1175616",
+		"lon" : "20.7950461",
+		"name" : "Женски Фризер",
+		"category" : "hairdresser"
+	},
+	{
+		"lat" : "41.1130654",
+		"lon" : "20.7998326",
+		"name" : "Ramstore",
+		"category" : "supermarket",
+		"opening_hours" : "Mo-Su 08:00-00:00"
+	},
+	{
+		"lat" : "41.112055",
+		"lon" : "20.8084947",
+		"name" : "Жито леб",
+		"category" : "bakery"
+	},
+	{
+		"lat" : "41.1096865",
+		"lon" : "20.8127862",
+		"name" : "Discount Tinex",
+		"category" : "supermarket"
+	},
+	{
+		"lat" : "41.1132251",
+		"lon" : "20.7999894",
+		"name" : "Tinex",
+		"category" : "supermarket"
+	},
+	{
+		"lat" : "41.1171328",
+		"lon" : "20.7980605",
+		"name" : "DON",
+		"category" : "supermarket"
+	},
+	{
+		"lat" : "42.0197432",
+		"lon" : "21.356581",
+		"name" : "Market Kiki",
+		"category" : "supermarket"
+	},
+	{
+		"lat" : "41.0318267",
+		"lon" : "21.3012831",
+		"name" : "Market Andzhela",
+		"category" : "supermarket",
+		"addr:city" : "Битола",
+		"addr:street" : "Социјалистичка Револуција"
+	},
+	{
+		"lat" : "41.4435714",
+		"lon" : "22.6412441",
+		"name" : "Технички преглед",
+		"category" : "car_repair"
+	},
+	{
+		"lat" : "41.9394701",
+		"lon" : "21.513671",
+		"name" : "Tinex Discount",
+		"category" : "supermarket"
+	},
+	{
+		"lat" : "41.9396863",
+		"lon" : "21.5138463",
+		"name" : "Кам маркет",
+		"category" : "supermarket"
+	},
+	{
+		"lat" : "41.9370886",
+		"lon" : "21.5230194",
+		"name" : "Вајота 2",
+		"category" : "supermarket",
+		"email" : "vajota@yahoo.com",
+		"addr:street" : "Иван Хаџиниколов",
+		"opening_hours" : "Mo-Su 07:00-22:00"
+	},
+	{
+		"lat" : "41.9389912",
+		"lon" : "21.5174965",
+		"name" : "Promes",
+		"category" : "butcher"
+	},
+	{
+		"lat" : "41.9382051",
+		"lon" : "21.5073363",
+		"name" : "Гиго Трејд",
+		"category" : "supermarket"
+	},
+	{
+		"lat" : "41.9384126",
+		"lon" : "21.5071218",
+		"name" : "Кам",
+		"category" : "supermarket"
+	},
+	{
+		"lat" : "41.437611",
+		"lon" : "22.0102529",
+		"name" : "TimComputers",
+		"category" : "computer",
+		"phone" : "+38943550770",
+		"website" : "http://www.timcomputers.mk",
+		"addr:city" : "Кавадарци",
+		"addr:street" : "љубашка"
+	},
+	{
+		"lat" : "41.4223196",
+		"lon" : "22.0146334",
+		"name" : "Koco",
+		"category" : "hairdresser"
+	},
+	{
+		"lat" : "41.4227366",
+		"lon" : "22.0148515",
+		"name" : "Dijana",
+		"category" : "supermarket"
+	},
+	{
+		"lat" : "41.4224188",
+		"lon" : "22.0150608",
+		"name" : "Mebel Vi",
+		"category" : "furniture"
+	},
+	{
+		"lat" : "41.4218275",
+		"lon" : "22.0156508",
+		"name" : "Karambol",
+		"category" : "car_repair"
+	},
+	{
+		"lat" : "42.1816391",
+		"lon" : "22.2869626",
+		"name" : "Трајко",
+		"category" : "bakery",
+		"addr:city" : "Крива Паланка",
+		"addr:street" : "Konopnica"
+	},
+	{
+		"lat" : "42.1818766",
+		"lon" : "22.2865307",
+		"name" : "Бисер",
+		"category" : "convenience",
+		"addr:city" : "Крива Паланка",
+		"addr:street" : "стамболиска"
+	},
+	{
+		"lat" : "42.1826982",
+		"lon" : "22.2933297",
+		"name" : "Бисер",
+		"category" : "convenience",
+		"addr:city" : "Крива Паланка",
+		"addr:street" : "Konopnica"
+	},
+	{
+		"lat" : "42.189067",
+		"lon" : "22.2850113",
+		"name" : "Дако",
+		"category" : "convenience",
+		"addr:city" : "Крива Паланка",
+		"addr:street" : "стамболиска"
+	},
+	{
+		"lat" : "42.1999647",
+		"lon" : "22.3328574",
+		"name" : "пакет маркет",
+		"category" : "supermarket",
+		"addr:city" : "Крива Паланка",
+		"addr:street" : "Sveti Joakim Osogovski"
+	},
+	{
+		"lat" : "42.0032403",
+		"lon" : "21.4079208",
+		"name" : "Pezogo",
+		"category" : "bakery"
+	},
+	{
+		"lat" : "42.0052574",
+		"lon" : "21.4117962",
+		"name" : "Digit Company",
+		"category" : "computer",
+		"addr:city" : "Skopje",
+		"addr:street" : "Орце Николов"
+	},
+	{
+		"lat" : "41.9931873",
+		"lon" : "21.4413127",
+		"name" : "Vero Centar Веро Центар",
+		"category" : "clothes",
+		"addr:street" : "Булевар Кочо Рацин"
+	},
+	{
+		"lat" : "42.1364753",
+		"lon" : "21.7192467",
+		"name" : "Трафика",
+		"category" : "kiosk",
+		"addr:street" : "Leninova"
+	},
+	{
+		"lat" : "41.9663032",
+		"lon" : "20.9809804",
+		"name" : "Фризерско-Козметичко студио „НИНА“",
+		"category" : "hairdresser",
+		"phone" : "+38944456333",
+		"website" : "https://www.facebook.com/StudioNina",
+		"addr:city" : "Брвеница",
+		"addr:street" : "Маршал Тито",
+		"opening_hours" : "10:00-20:00"
+	},
+	{
+		"lat" : "41.974857",
+		"lon" : "21.4533122",
+		"name" : "Супер Тинекс",
+		"category" : "supermarket"
+	},
+	{
+		"lat" : "41.9844445",
+		"lon" : "21.4838698",
+		"name" : "Рамстор",
+		"category" : "supermarket"
+	},
+	{
+		"lat" : "41.987697",
+		"lon" : "21.4531401",
+		"name" : "Тобако 2",
+		"category" : "yes"
+	},
+	{
+		"lat" : "41.9839638",
+		"lon" : "21.4649937",
+		"name" : "Пазарче",
+		"category" : "supermarket"
+	},
+	{
+		"lat" : "41.9761502",
+		"lon" : "21.4676598",
+		"name" : "Морски",
+		"category" : "car_repair"
+	},
+	{
+		"lat" : "41.9773211",
+		"lon" : "21.4720661",
+		"name" : "BMW Сервис",
+		"category" : "car_repair"
+	},
+	{
+		"lat" : "41.9720378",
+		"lon" : "21.4722684",
+		"name" : "ЗУР Маркет",
+		"category" : "supermarket"
+	},
+	{
+		"lat" : "41.9936664",
+		"lon" : "21.4808389",
+		"name" : "Боми 10",
+		"category" : "department_store"
+	},
+	{
+		"lat" : "41.993612",
+		"lon" : "21.482026",
+		"name" : "Интерфуд",
+		"category" : "department_store"
+	},
+	{
+		"lat" : "41.9930299",
+		"lon" : "21.4816036",
+		"name" : "24 Вести",
+		"category" : "department_store"
+	},
+	{
+		"lat" : "41.992571",
+		"lon" : "21.4826856",
+		"name" : "МКД",
+		"category" : "department_store"
+	},
+	{
+		"lat" : "41.9924494",
+		"lon" : "21.4807491",
+		"name" : "Бранко Гапо",
+		"category" : "department_store"
+	},
+	{
+		"lat" : "41.9916124",
+		"lon" : "21.4838961",
+		"name" : "Боми 10 Сервис",
+		"category" : "department_store"
+	},
+	{
+		"lat" : "41.8379549",
+		"lon" : "20.9745375",
+		"name" : "Вали Маркет",
+		"category" : "supermarket"
+	},
+	{
+		"lat" : "41.9755235",
+		"lon" : "21.4443097",
+		"name" : "Москва",
+		"category" : "bakery"
+	},
+	{
+		"lat" : "41.1168968",
+		"lon" : "20.798159",
+		"name" : "Tomos",
+		"category" : "bicycle"
+	},
+	{
+		"lat" : "42.2052678",
+		"lon" : "22.3356935",
+		"name" : "Промес+",
+		"category" : "butcher",
+		"addr:city" : "Kriva Palanka",
+		"addr:street" : "Свети Јоаким Осоговски"
+	},
+	{
+		"lat" : "42.2007559",
+		"lon" : "22.3287553",
+		"name" : "Exclusive",
+		"category" : "car_repair",
+		"addr:city" : "Kriva Palanka",
+		"opening_hours" : "08:00-18:00"
+	},
+	{
+		"lat" : "41.9913694",
+		"lon" : "21.4455764",
+		"name" : "Slatki burek",
+		"category" : "bakery"
+	},
+	{
+		"lat" : "41.991182",
+		"lon" : "21.4453672",
+		"name" : "Burek",
+		"category" : "bakery"
+	},
+	{
+		"lat" : "41.1159611",
+		"lon" : "20.8005859",
+		"name" : "TOP Market",
+		"category" : "supermarket",
+		"opening_hours" : "Mo-Su,PH 08:00-22:00"
+	},
+	{
+		"lat" : "41.9941776",
+		"lon" : "21.4310902",
+		"name" : "Outdoor.MK",
+		"category" : "sports",
+		"addr:city" : "Скопје",
+		"addr:street" : "Македонија"
+	},
+	{
+		"lat" : "41.63896",
+		"lon" : "22.46124",
+		"name" : "Makedonija (Sus mus)",
+		"category" : "bakery",
+		"addr:city" : "Radovis",
+		"addr:street" : "15-ти Корпус"
+	},
+	{
+		"lat" : "41.63414",
+		"lon" : "22.464603",
+		"name" : "Makedonija (Sus mus)",
+		"category" : "bakery",
+		"addr:city" : "Radovis",
+		"addr:street" : "22 Октомври"
+	},
+	{
+		"lat" : "41.635403",
+		"lon" : "22.466431",
+		"name" : "Kit Go",
+		"category" : "supermarket",
+		"addr:city" : "Radovis"
+	},
+	{
+		"lat" : "41.63606",
+		"lon" : "22.463585",
+		"name" : "Paket market",
+		"category" : "supermarket",
+		"addr:city" : "Radovis"
+	},
+	{
+		"lat" : "41.637826",
+		"lon" : "22.464258",
+		"name" : "Makom",
+		"category" : "supermarket",
+		"addr:city" : "Radovis"
+	},
+	{
+		"lat" : "41.6393152",
+		"lon" : "22.4631378",
+		"name" : "Kit Go",
+		"category" : "supermarket",
+		"addr:city" : "Radovis"
+	},
+	{
+		"lat" : "41.634101",
+		"lon" : "22.464821",
+		"name" : "Matej",
+		"category" : "bakery"
+	},
+	{
+		"lat" : "41.633188",
+		"lon" : "22.464756",
+		"name" : "Sloga",
+		"category" : "supermarket"
+	},
+	{
+		"lat" : "41.63324",
+		"lon" : "22.464931",
+		"name" : "Sony Megastore",
+		"category" : "books"
+	},
+	{
+		"lat" : "41.632422",
+		"lon" : "22.462735",
+		"name" : "Kit Go",
+		"category" : "supermarket"
+	},
+	{
+		"lat" : "41.63203",
+		"lon" : "22.462826",
+		"name" : "Valentina",
+		"category" : "hardware"
+	},
+	{
+		"lat" : "41.6309983",
+		"lon" : "22.4613837",
+		"name" : "SETEC",
+		"category" : "electronics"
+	},
+	{
+		"lat" : "41.63712",
+		"lon" : "22.462304",
+		"name" : "Neptun",
+		"category" : "electronics"
+	},
+	{
+		"lat" : "41.635763",
+		"lon" : "22.463579",
+		"name" : "Next move",
+		"category" : "computer"
+	},
+	{
+		"lat" : "41.636797",
+		"lon" : "22.460381",
+		"name" : "Tire store and repair",
+		"category" : "car_parts"
+	},
+	{
+		"lat" : "41.637992",
+		"lon" : "22.461591",
+		"name" : "Rial",
+		"category" : "supermarket"
+	},
+	{
+		"lat" : "41.634405",
+		"lon" : "22.46471",
+		"name" : "Makom",
+		"category" : "supermarket"
+	},
+	{
+		"lat" : "41.6386926",
+		"lon" : "22.4612065",
+		"name" : "T-Mobile",
+		"category" : "electronics"
+	},
+	{
+		"lat" : "41.637701",
+		"lon" : "22.460489",
+		"name" : "Karpos",
+		"category" : "bakery"
+	},
+	{
+		"lat" : "42.0001055",
+		"lon" : "21.4174292",
+		"name" : "Пекара Силбо",
+		"category" : "bakery",
+		"addr:city" : "Скопје",
+		"addr:street" : "Мајаковски",
+		"opening_hours" : "24/7"
+	},
+	{
+		"lat" : "41.4339406",
+		"lon" : "22.0102943",
+		"name" : "Studio VISAGE",
+		"category" : "beauty"
+	},
+	{
+		"lat" : "41.1146677",
+		"lon" : "20.8060837",
+		"name" : "Siluete",
+		"category" : "beauty",
+		"addr:city" : "Ohrid",
+		"addr:street" : "Булевар Туристичка",
+		"opening_hours" : "09:00-21:00"
+	},
+	{
+		"lat" : "41.1219875",
+		"lon" : "20.7815067",
+		"name" : "Tamaro",
+		"category" : "supermarket",
+		"addr:city" : "Ohrid",
+		"addr:street" : "Сатеска"
+	},
+	{
+		"lat" : "41.1232307",
+		"lon" : "20.7829591",
+		"name" : "Skor",
+		"category" : "supermarket",
+		"addr:city" : "Ohrid",
+		"addr:street" : "Гоце Делчев",
+		"opening_hours" : "08:00-02:00"
+	},
+	{
+		"lat" : "41.9924211",
+		"lon" : "21.4292661",
+		"name" : "Pekara Bageti",
+		"category" : "bakery",
+		"addr:city" : "Скопје",
+		"addr:street" : "Даме Груев"
+	},
+	{
+		"lat" : "42.0621038",
+		"lon" : "21.45066",
+		"name" : "Фурна",
+		"category" : "bakery"
+	},
+	{
+		"lat" : "42.0621317",
+		"lon" : "21.4507737",
+		"name" : "Чеган",
+		"category" : "bakery"
+	},
+	{
+		"lat" : "42.061731",
+		"lon" : "21.4506986",
+		"name" : "Жито Лукс",
+		"category" : "bakery"
+	},
+	{
+		"lat" : "42.0619644",
+		"lon" : "21.4505256",
+		"name" : "Мици",
+		"category" : "hairdresser"
+	},
+	{
+		"lat" : "41.115841",
+		"lon" : "20.800094",
+		"name" : "Bakery",
+		"category" : "bakery"
+	},
+	{
+		"lat" : "41.993327",
+		"lon" : "21.441556",
+		"name" : "DM",
+		"category" : "supermarket"
+	},
+	{
+		"lat" : "41.9991135",
+		"lon" : "21.4638361",
+		"name" : "Evropa - Gazi Baba",
+		"category" : "confectionery",
+		"website" : "http://www.evropa.com.mk/prodavnici.php#",
+		"addr:city" : "Skopje",
+		"addr:street" : "808",
+		"opening_hours" : "08:00-17:00"
+	},
+	{
+		"lat" : "42.0021614",
+		"lon" : "21.4386895",
+		"name" : "Evropa - Cair",
+		"category" : "confectionery",
+		"website" : "http://www.evropa.com.mk/prodavnici.php#",
+		"addr:city" : "Cкoпje",
+		"addr:street" : "Битпазарска",
+		"opening_hours" : "08:00 - 19:30"
+	},
+	{
+		"lat" : "41.9874058",
+		"lon" : "21.4367041",
+		"name" : "Evropa - Centar 2",
+		"category" : "confectionery",
+		"website" : "http://www.evropa.com.mk/prodavnici.php#",
+		"addr:street" : "11 Октомври",
+		"opening_hours" : "09:00-21:00"
+	},
+	{
+		"lat" : "41.9944492",
+		"lon" : "21.4338499",
+		"name" : "Evropa - Centar 3",
+		"category" : "confectionery",
+		"website" : "http://www.evropa.com.mk/prodavnici.php#",
+		"addr:city" : "Скопје",
+		"addr:street" : "11 Октомври",
+		"opening_hours" : "09:00-21:00"
+	},
+	{
+		"lat" : "41.9948662",
+		"lon" : "21.4285322",
+		"name" : "Evropa - Centar 1",
+		"category" : "confectionery",
+		"website" : "http://www.evropa.com.mk/prodavnici.php#",
+		"addr:city" : "Скопје",
+		"addr:street" : "Димитрие Чуповски",
+		"opening_hours" : "09:00-21:00"
+	},
+	{
+		"lat" : "41.9917448",
+		"lon" : "21.4224587",
+		"name" : "Evropa - Centar 4",
+		"category" : "confectionery",
+		"website" : "http://www.evropa.com.mk/prodavnici.php#",
+		"addr:city" : "Скопје",
+		"addr:street" : "Булевар Мајка Тереза",
+		"opening_hours" : "08:00-20:00"
+	},
+	{
+		"lat" : "41.9938931",
+		"lon" : "21.4010606",
+		"name" : "Кам маркет Козле",
+		"category" : "supermarket",
+		"phone" : "+389 2 3085233",
+		"website" : "http://www.kam.com.mk",
+		"addr:city" : "Скопје",
+		"addr:street" : "Козле",
+		"opening_hours" : "Mo-Sa 08:00-21:30; Su 08:00-16:00"
+	},
+	{
+		"lat" : "41.9993115",
+		"lon" : "21.3946356",
+		"name" : "TED",
+		"category" : "convenience",
+		"addr:street" : "Виенска"
+	},
+	{
+		"lat" : "41.9983386",
+		"lon" : "21.4227365",
+		"name" : "Ла Делишес",
+		"category" : "bakery",
+		"addr:street" : "Аминта Трети"
+	},
+	{
+		"lat" : "42.0049879",
+		"lon" : "21.3836348",
+		"name" : "Ѕвездичка - бутик за деца",
+		"category" : "clothes",
+		"addr:city" : "Скопје",
+		"addr:street" : "Булевар Партизански Одреди",
+		"opening_hours" : "09:00-20:00"
+	},
+	{
+		"lat" : "42.0050579",
+		"lon" : "21.3831193",
+		"name" : "Фреш маркет Бојди",
+		"category" : "supermarket",
+		"addr:city" : "Скопје",
+		"addr:street" : "Булевар Партизански Одреди"
+	},
+	{
+		"lat" : "41.3441972",
+		"lon" : "21.5507134",
+		"name" : "КАМ",
+		"category" : "supermarket"
+	},
+	{
+		"lat" : "41.3442425",
+		"lon" : "21.5501528",
+		"name" : "Палма Шоп",
+		"category" : "car"
+	},
+	{
+		"lat" : "41.3438003",
+		"lon" : "21.5511671",
+		"name" : "Милпром",
+		"category" : "hardware"
+	},
+	{
+		"lat" : "41.3437752",
+		"lon" : "21.551206",
+		"name" : "Никопе Комерц (Застава)",
+		"category" : "car_parts"
+	},
+	{
+		"lat" : "41.3436398",
+		"lon" : "21.5452918",
+		"name" : "Јо-Ан Старс",
+		"category" : "car_parts"
+	},
+	{
+		"lat" : "41.3436608",
+		"lon" : "21.5451307",
+		"name" : "Ивеко Дизајн",
+		"category" : "copyshop"
+	},
+	{
+		"lat" : "41.3437239",
+		"lon" : "21.5443835",
+		"name" : "СС-Авто 2010",
+		"category" : "car_parts"
+	},
+	{
+		"lat" : "41.3426859",
+		"lon" : "21.5482443",
+		"name" : "Гифти",
+		"category" : "yes"
+	},
+	{
+		"lat" : "41.3414029",
+		"lon" : "21.5492167",
+		"name" : "Пата",
+		"category" : "supermarket"
+	},
+	{
+		"lat" : "42.0009355",
+		"lon" : "21.3900483",
+		"name" : "Специјал - Тафталиџе",
+		"category" : "bakery",
+		"phone" : "+389 2 3089868",
+		"website" : "http://www.specijal.com.mk/",
+		"addr:city" : "Cкoпje",
+		"addr:street" : "Московска",
+		"opening_hours" : "Mo-Su 08:00-24:00"
+	},
+	{
+		"lat" : "42.0017143",
+		"lon" : "21.3914204",
+		"name" : "Кам маркет Тафталиџе",
+		"category" : "supermarket",
+		"phone" : "+389 2 3074733",
+		"website" : "http://www.kam.com.mk",
+		"addr:city" : "Скопје",
+		"addr:street" : "Лондонска",
+		"opening_hours" : "Mo-Sa 07:30-21:30; Su 07:30-16:00"
+	},
+	{
+		"lat" : "41.4453875",
+		"lon" : "22.0055509",
+		"name" : "ИП Дизајн Студио",
+		"category" : "furniture",
+		"email" : "interprojectdesign@yahoo.com",
+		"phone" : "+389 43  410 850",
+		"addr:street" : "Западен Булевар"
+	},
+	{
+		"lat" : "41.4386861",
+		"lon" : "22.0116439",
+		"name" : "Франц Солар",
+		"category" : "energy"
+	},
+	{
+		"lat" : "42.1202041",
+		"lon" : "21.7318363",
+		"name" : "Super Srk",
+		"category" : "supermarket"
+	},
+	{
+		"lat" : "42.1210556",
+		"lon" : "21.7334993",
+		"name" : "Paket Market",
+		"category" : "supermarket"
+	},
+	{
+		"lat" : "41.9789369",
+		"lon" : "21.4450206",
+		"name" : "Urban Beauty | Beauty Salon",
+		"category" : "beauty",
+		"phone" : "+389 2 615 1100;+389 78 227 270",
+		"website" : "http://www.urbanbeautyskopje.com/",
+		"addr:city" : "Cкoпje",
+		"addr:street" : "Архитект Никола Добровиќ"
+	},
+	{
+		"lat" : "41.9754208",
+		"lon" : "21.4382827",
+		"name" : "Томи",
+		"category" : "convenience"
+	},
+	{
+		"lat" : "41.9758834",
+		"lon" : "21.4385402",
+		"name" : "Тобако Томи",
+		"category" : "convenience",
+		"opening_hours" : "24/7"
+	},
+	{
+		"lat" : "41.9761625",
+		"lon" : "21.4384115",
+		"name" : "Жито Маркет",
+		"category" : "convenience"
+	},
+	{
+		"lat" : "41.9777179",
+		"lon" : "21.4394414",
+		"name" : "Mini Market",
+		"category" : "convenience"
+	},
+	{
+		"lat" : "41.9774543",
+		"lon" : "21.4428644",
+		"name" : "Home Hardware",
+		"category" : "doityourself"
+	},
+	{
+		"lat" : "42.0035081",
+		"lon" : "21.4152599",
+		"name" : "Рептил маркет",
+		"category" : "supermarket",
+		"addr:city" : "Cкoпje",
+		"opening_hours" : "07:00 - 21:30"
+	},
+	{
+		"lat" : "41.1224131",
+		"lon" : "20.7821292",
+		"name" : "Наташа",
+		"category" : "hairdresser",
+		"addr:city" : "Ohrid",
+		"addr:street" : "Сатеска",
+		"opening_hours" : "09:00-20:00"
+	},
+	{
+		"lat" : "42.0047189",
+		"lon" : "21.3923224",
+		"name" : "Нептун Карпош",
+		"category" : "electronics",
+		"email" : "karpos@neptun.mk",
+		"phone" : "+389 2 3080 098",
+		"website" : "https://www.neptun.mk",
+		"addr:city" : "Cкoпje",
+		"addr:street" : "Љубљанска",
+		"opening_hours" : "Mo-Su 10:00-22:00"
+	},
+	{
+		"lat" : "42.2054613",
+		"lon" : "22.3360401",
+		"name" : "Zegin Healty Food",
+		"category" : "supermarket",
+		"addr:city" : "Kriva Palanka",
+		"addr:street" : "Свети Јоаким Осоговски"
+	},
+	{
+		"lat" : "42.2071017",
+		"lon" : "22.3361083",
+		"name" : "Paket Market / Пакет Маркет",
+		"category" : "supermarket",
+		"addr:city" : "Kriva Palanka",
+		"addr:street" : "Свети Јоаким Осоговски"
+	},
+	{
+		"lat" : "41.9663717",
+		"lon" : "22.8019192",
+		"name" : "Mederevec (Mini Market)",
+		"category" : "supermarket",
+		"addr:city" : "Delcevo",
+		"addr:street" : "A3",
+		"opening_hours" : "Every day from 06:00 to 21:00"
+	},
+	{
+		"lat" : "41.9670813",
+		"lon" : "22.7773541",
+		"name" : "Скодел книжарница",
+		"category" : "books",
+		"addr:city" : "Делчево",
+		"addr:street" : "бул. Македонија"
+	},
+	{
+		"lat" : "41.9668597",
+		"lon" : "22.7754813",
+		"name" : "Випласт ЈТД",
+		"category" : "hardware",
+		"phone" : "+389 33 413 100",
+		"addr:city" : "Делчево",
+		"addr:street" : "Н. Ј. Вапцаров",
+		"opening_hours" : "Mo-Fr 08:00-19:00; Sa 08:00-16:00"
+	},
+	{
+		"lat" : "41.966483",
+		"lon" : "22.7729157",
+		"name" : "Уметничка Галерија",
+		"category" : "art"
+	},
+	{
+		"lat" : "41.9664018",
+		"lon" : "22.8020224",
+		"name" : "Медеревец ТП",
+		"category" : "tobacco",
+		"addr:city" : "Delcevo",
+		"addr:street" : "A3",
+		"opening_hours" : "Every day from 06:00 to 21:00"
+	},
+	{
+		"lat" : "41.9663099",
+		"lon" : "22.7773809",
+		"name" : "Луна Гив",
+		"category" : "bakery",
+		"addr:city" : "Делчево",
+		"addr:street" : "бул. Македонија"
+	},
+	{
+		"lat" : "41.9667836",
+		"lon" : "22.7755731",
+		"name" : "Книжарница",
+		"category" : "stationery",
+		"addr:city" : "Делчево",
+		"addr:street" : "Н. Ј. Вапцаров"
+	},
+	{
+		"lat" : "41.9671446",
+		"lon" : "22.7728089",
+		"name" : "Градски Пазар",
+		"category" : "greengrocer"
+	},
+	{
+		"lat" : "41.9657585",
+		"lon" : "22.7740013",
+		"name" : "T-Mobile",
+		"category" : "mobile_phone",
+		"addr:city" : "Делчево",
+		"addr:street" : "бул. Методи Митевски Брицо"
+	},
+	{
+		"lat" : "41.9654113",
+		"lon" : "22.7741482",
+		"name" : "Vip",
+		"category" : "mobile_phone",
+		"addr:city" : "Делчево",
+		"addr:street" : "бул. Методи Митевски Брицо"
+	},
+	{
+		"lat" : "42.008513",
+		"lon" : "20.9688329",
+		"name" : "Gigabel",
+		"category" : "computer",
+		"phone" : "+389 44 340 650",
+		"website" : "http://www.gigabel.mk",
+		"addr:city" : "Tetovo",
+		"addr:street" : "Абдил Фрашери",
+		"opening_hours" : "09:00-17:00"
+	},
+	{
+		"lat" : "41.1910666",
+		"lon" : "20.6768397",
+		"name" : "Autoservice Salko",
+		"category" : "car_repair"
+	},
+	{
+		"lat" : "41.9957348",
+		"lon" : "21.4116136",
+		"name" : "Канела",
+		"category" : "confectionery"
+	},
+	{
+		"lat" : "42.0040957",
+		"lon" : "21.4151095",
+		"name" : "Биротехника",
+		"category" : "electronics",
+		"addr:street" : "Орце Николов"
+	},
+	{
+		"lat" : "41.9823773",
+		"lon" : "21.4403011",
+		"name" : "Веро",
+		"category" : "supermarket"
+	},
+	{
+		"lat" : "42.0145862",
+		"lon" : "21.3819628",
+		"name" : "Аргировски",
+		"category" : "car_repair"
+	},
+	{
+		"lat" : "41.1132188",
+		"lon" : "20.8012709",
+		"name" : "Вегера",
+		"category" : "bakery"
+	},
+	{
+		"lat" : "41.112839",
+		"lon" : "20.8022877",
+		"name" : "Лале Турс",
+		"category" : "travel_agency"
+	},
+	{
+		"lat" : "41.9822693",
+		"lon" : "21.4728591",
+		"name" : "T-Mobile",
+		"category" : "mobile_phone"
+	},
+	{
+		"lat" : "41.9958268",
+		"lon" : "21.4095619",
+		"name" : "Златен Клас",
+		"category" : "bakery"
+	},
+	{
+		"lat" : "41.9898813",
+		"lon" : "21.4197865",
+		"name" : "Жито",
+		"category" : "bakery"
+	},
+	{
+		"lat" : "42.0248127",
+		"lon" : "21.4416628",
+		"name" : "Кам Маркет",
+		"category" : "supermarket"
+	},
+	{
+		"lat" : "42.0008563",
+		"lon" : "21.4374254",
+		"name" : "Argjira",
+		"category" : "jewelry",
+		"email" : "info@argjira.com",
+		"phone" : "+38923227777",
+		"website" : "https://www.argjira.com/",
+		"addr:street" : "Градиште",
+		"opening_hours" : "Mo-Fr 09:00-19:00; Sa 09:00-16:00"
+	},
+	{
+		"lat" : "42.201126",
+		"lon" : "22.3297009",
+		"name" : "BE Market",
+		"category" : "supermarket"
+	},
+	{
+		"lat" : "42.0023409",
+		"lon" : "21.3925171",
+		"name" : "Енергија",
+		"category" : "hvac"
+	},
+	{
+		"lat" : "41.9948735",
+		"lon" : "21.4207815",
+		"name" : "Веро 5",
+		"category" : "supermarket",
+		"phone" : "+389 2 3220244",
+		"website" : "https://vero.com.mk/Marketi/Vero5",
+		"opening_hours" : "08:00-22:00; May 01 off"
+	},
+	{
+		"lat" : "41.9751785",
+		"lon" : "21.4861998",
+		"name" : "Елиса",
+		"category" : "convenience",
+		"opening_hours" : "Mo-Su 06:00-21:00"
+	},
+	{
+		"lat" : "41.8826206",
+		"lon" : "22.5045386",
+		"name" : "Central Gym",
+		"category" : "sports"
+	},
+	{
+		"lat" : "41.842915",
+		"lon" : "20.9771137",
+		"name" : "Nusreti Magjik",
+		"category" : "supermarket"
+	},
+	{
+		"lat" : "41.994313",
+		"lon" : "21.4745662",
+		"name" : "Крономак",
+		"category" : "furniture",
+		"email" : "prodazba@kronomak.mk",
+		"phone" : "+38922461664",
+		"website" : "kronomak.mk",
+		"addr:street" : "Киро Глигоров",
+		"opening_hours" : "Mo-Fr 08:00-18:00; Sa 08:00-15:00"
+	},
+	{
+		"lat" : "41.9863131",
+		"lon" : "21.4374881",
+		"name" : "Barber Shop ’Vito’",
+		"category" : "hairdresser",
+		"addr:street" : "Борис Трајковски"
+	},
+	{
+		"lat" : "42.0456222",
+		"lon" : "21.3897821",
+		"name" : "Југоекспорт",
+		"category" : "hardware",
+		"addr:street" : "Качанички пат"
+	},
+	{
+		"lat" : "42.0237049",
+		"lon" : "21.4337066",
+		"name" : "АМСМ Чаир",
+		"category" : "car_repair"
+	},
+	{
+		"lat" : "42.0424608",
+		"lon" : "21.3923668",
+		"name" : "Ефтинија",
+		"category" : "convenience"
+	},
+	{
+		"lat" : "41.4162659",
+		"lon" : "22.0192465",
+		"name" : "Avto Servis Ile Mak",
+		"category" : "car_repair",
+		"phone" : "071219642",
+		"addr:street" : "Strasho Pindzur 254",
+		"opening_hours" : "Mo-Sa 08:30-17:00"
+	},
+	{
+		"lat" : "41.7369788",
+		"lon" : "22.1927503",
+		"name" : "ХИТ Маркет",
+		"category" : "supermarket"
+	},
+	{
+		"lat" : "41.9952408",
+		"lon" : "21.4033892",
+		"name" : "Струмички лубеници - Watermelons",
+		"category" : "greengrocer",
+		"addr:city" : "Cкoпje",
+		"addr:street" : "Брадфордска",
+		"opening_hours" : "24/7"
+	},
+	{
+		"lat" : "41.8428299",
+		"lon" : "20.9771116",
+		"name" : "Хаџи Кемо",
+		"category" : "supermarket"
+	},
+	{
+		"lat" : "41.7463414",
+		"lon" : "22.1948806",
+		"name" : "Ребус",
+		"category" : "bakery"
+	},
+	{
+		"lat" : "41.7385684",
+		"lon" : "22.2004899",
+		"name" : "КИТ ГО Супермаркет",
+		"category" : "supermarket"
+	},
+	{
+		"lat" : "41.7372358",
+		"lon" : "22.1931048",
+		"name" : "Слаткара ЈА-ЈА",
+		"category" : "confectionery"
+	},
+	{
+		"lat" : "41.7419454",
+		"lon" : "22.1911138",
+		"name" : "Макара Авто-делови",
+		"category" : "car_repair"
+	},
+	{
+		"lat" : "41.7371532",
+		"lon" : "22.1931572",
+		"name" : "KAM",
+		"category" : "supermarket"
+	},
+	{
+		"lat" : "41.8434354",
+		"lon" : "20.8860633",
+		"name" : "Sallon Ondulimi",
+		"category" : "hairdresser"
+	},
+	{
+		"lat" : "41.7992661",
+		"lon" : "20.907252",
+		"name" : "Green Media",
+		"category" : "computer",
+		"email" : "contact@greenmedia.mk",
+		"phone" : "+38942615015",
+		"website" : "http://greenmedia.mk",
+		"addr:street" : "Брака Гиноски",
+		"opening_hours" : "Mo-Sa 09:00-20:00"
+	},
+	{
+		"lat" : "41.8021277",
+		"lon" : "20.9118821",
+		"name" : "SETAR",
+		"category" : "car_repair",
+		"phone" : "+38970994677",
+		"addr:street" : "Седек Костоски",
+		"opening_hours" : "Mo-Sa 09:00-21:00"
+	},
+	{
+		"lat" : "41.7991397",
+		"lon" : "20.9073472",
+		"name" : "Erol Junior",
+		"category" : "car_parts",
+		"email" : "eroljunior@hotmail.com",
+		"phone" : "+38970513124",
+		"addr:street" : "Брака Гиноски",
+		"opening_hours" : "Mo-Sa 09:00-21:00"
+	},
+	{
+		"lat" : "41.8411753",
+		"lon" : "20.8857735",
+		"name" : "IDEAL",
+		"category" : "supermarket"
+	},
+	{
+		"lat" : "41.8398833",
+		"lon" : "20.8856596",
+		"name" : "Kiper",
+		"category" : "supermarket"
+	},
+	{
+		"lat" : "41.8400547",
+		"lon" : "20.8855728",
+		"name" : "Sali",
+		"category" : "car_repair"
+	},
+	{
+		"lat" : "41.7379576",
+		"lon" : "22.1902158",
+		"name" : "Грозделино",
+		"category" : "supermarket"
+	},
+	{
+		"lat" : "41.737098",
+		"lon" : "22.1931835",
+		"name" : "Слаткара МАКО",
+		"category" : "confectionery"
+	},
+	{
+		"lat" : "41.12286",
+		"lon" : "20.81112",
+		"name" : "Tinex",
+		"category" : "supermarket",
+		"addr:street" : "7 Ноември"
+	},
+	{
+		"lat" : "41.9939395",
+		"lon" : "21.0277535",
+		"name" : "ОК Маркет",
+		"category" : "houseware",
+		"email" : "petrolcompany@petrolcompany.com.mk",
+		"phone" : "+389 44 378 010"
+	},
+	{
+		"lat" : "42.0054564",
+		"lon" : "20.9903256",
+		"name" : "Ramstore",
+		"category" : "supermarket"
+	},
+	{
+		"lat" : "42.0046648",
+		"lon" : "20.9899525",
+		"name" : "dm",
+		"category" : "chemist"
+	},
+	{
+		"lat" : "42.0047734",
+		"lon" : "20.9896646",
+		"name" : "Tom Tailor",
+		"category" : "clothes"
+	},
+	{
+		"lat" : "42.0048717",
+		"lon" : "20.9897304",
+		"name" : "Swarovski",
+		"category" : "jewelry"
+	},
+	{
+		"lat" : "42.004359",
+		"lon" : "20.9897364",
+		"name" : "LC Wakiki",
+		"category" : "clothes",
+		"phone" : "+389 2 329 7062"
+	},
+	{
+		"lat" : "42.0050815",
+		"lon" : "20.9898955",
+		"name" : "Palma Trade",
+		"category" : "houseware",
+		"phone" : "+389 44 343 790"
+	},
+	{
+		"lat" : "42.0054179",
+		"lon" : "20.9904373",
+		"name" : "Coin Casa",
+		"category" : "furniture",
+		"phone" : "+389 2 308 8068",
+		"opening_hours" : "Mo-Sa 10:00-20:00, Su 10:00-16:00"
+	},
+	{
+		"lat" : "42.0053216",
+		"lon" : "20.9903803",
+		"name" : "Ideal Home",
+		"category" : "furniture"
+	},
+	{
+		"lat" : "42.0053826",
+		"lon" : "20.9901235",
+		"name" : "Lost Collection",
+		"category" : "watches"
+	},
+	{
+		"lat" : "42.0044551",
+		"lon" : "20.989442",
+		"name" : "Tudors",
+		"category" : "clothes"
+	},
+	{
+		"lat" : "42.0047702",
+		"lon" : "20.9900284",
+		"name" : "LTB Jeans",
+		"category" : "clothes"
+	},
+	{
+		"lat" : "42.0051644",
+		"lon" : "20.9899671",
+		"name" : "Sport Vission",
+		"category" : "sports",
+		"phone" : "+389 76 350 561",
+		"website" : "https://www.sportvision.mk/",
+		"opening_hours" : "Mo-Su 10:00-22:00"
+	},
+	{
+		"lat" : "42.0051008",
+		"lon" : "20.9902316",
+		"name" : "Il Cammino",
+		"category" : "shoes"
+	},
+	{
+		"lat" : "42.0052785",
+		"lon" : "20.9900401",
+		"name" : "My:Time",
+		"category" : "watches",
+		"email" : "contact@mytime.mk",
+		"phone" : "+38944377792",
+		"website" : "https://www.mytime.mk/"
+	},
+	{
+		"lat" : "42.0052087",
+		"lon" : "20.9902985",
+		"name" : "Vasidora",
+		"category" : "clothes",
+		"email" : "dejan@vasidora.com"
+	},
+	{
+		"lat" : "42.0046727",
+		"lon" : "20.9895953",
+		"name" : "DOKA Shoes",
+		"category" : "shoes"
+	},
+	{
+		"lat" : "42.0045686",
+		"lon" : "20.9898817",
+		"name" : "Fashion Brand",
+		"category" : "clothes"
+	},
+	{
+		"lat" : "42.0045593",
+		"lon" : "20.9895168",
+		"name" : "Penti",
+		"category" : "clothes"
+	},
+	{
+		"lat" : "42.0044688",
+		"lon" : "20.9898072",
+		"name" : "Alexia Fashion Accessories",
+		"category" : "bag",
+		"email" : "contact@alexiafashionhouse.com",
+		"phone" : "+389 44 511030",
+		"website" : "http://alexiafashionhouse.com"
+	},
+	{
+		"lat" : "42.0043588",
+		"lon" : "20.9893615",
+		"name" : "Glamour",
+		"category" : "boutique",
+		"opening_hours" : "Mo-Su 10:00-22:00"
+	},
+	{
+		"lat" : "42.0042729",
+		"lon" : "20.9896732",
+		"name" : "Schatze Parfemerii",
+		"category" : "perfumery",
+		"email" : "contact@schatze.mk",
+		"website" : "http://schatze.mk"
+	},
+	{
+		"lat" : "42.0042243",
+		"lon" : "20.989271",
+		"name" : "Big Star",
+		"category" : "clothes",
+		"phone" : "+389 71462600"
+	},
+	{
+		"lat" : "42.0049227",
+		"lon" : "20.9899506",
+		"name" : "Bugathci",
+		"category" : "yes"
+	},
+	{
+		"lat" : "42.0043065",
+		"lon" : "20.9895073",
+		"name" : "Bargelo",
+		"category" : "perfumery"
+	},
+	{
+		"lat" : "42.0045186",
+		"lon" : "20.9896563",
+		"name" : "Paolo Bocelli",
+		"category" : "shoes",
+		"email" : "info@paolobocelli.mk",
+		"phone" : "+389 75 317 250",
+		"website" : "http://www.paolobocelli.mk",
+		"opening_hours" : "Mo-Su 10:00-22:00"
+	},
+	{
+		"lat" : "42.0053439",
+		"lon" : "20.990258",
+		"name" : "Factory Möbel",
+		"category" : "furniture",
+		"email" : "factory-mebel@hotmail.com",
+		"phone" : "+389 70 307 540"
+	},
+	{
+		"lat" : "42.0052459",
+		"lon" : "20.9901639",
+		"name" : "Student",
+		"category" : "yes"
+	},
+	{
+		"lat" : "42.0051383",
+		"lon" : "20.990093",
+		"name" : "Alenti Fashion",
+		"category" : "clothes"
+	},
+	{
+		"lat" : "42.0047224",
+		"lon" : "20.9898029",
+		"name" : "Dioptra",
+		"category" : "optician"
+	},
+	{
+		"lat" : "42.0049757",
+		"lon" : "20.9898142",
+		"name" : "Toy Shop",
+		"category" : "toys"
+	},
+	{
+		"lat" : "42.0055744",
+		"lon" : "20.9902565",
+		"name" : "Arena Sport",
+		"category" : "sports"
+	},
+	{
+		"lat" : "42.0055373",
+		"lon" : "20.9903699",
+		"name" : "Happy Star",
+		"category" : "toys"
+	},
+	{
+		"lat" : "42.005498",
+		"lon" : "20.9904954",
+		"name" : "Maxell CD Shop",
+		"category" : "yes"
+	},
+	{
+		"lat" : "42.0048718",
+		"lon" : "20.9900766",
+		"name" : "Marbet",
+		"category" : "bookmaker",
+		"website" : "http://marbet.com.mk"
+	},
+	{
+		"lat" : "42.005498",
+		"lon" : "20.9901972",
+		"name" : "Eni Sweet Shop",
+		"category" : "bakery",
+		"phone" : "+389 44 344 957"
+	},
+	{
+		"lat" : "42.0049955",
+		"lon" : "20.9901539",
+		"name" : "Flormar",
+		"category" : "cosmetics"
+	},
+	{
+		"lat" : "41.4352341",
+		"lon" : "22.0117597",
+		"name" : "Avelino Shoes",
+		"category" : "shoes",
+		"website" : "https://m.facebook.com/AvelinoShoesKavadarci/",
+		"addr:street" : "Cano Pop Ristov"
+	},
+	{
+		"lat" : "42.0138166",
+		"lon" : "21.5103347",
+		"name" : "Floktaria  Ameti ",
+		"category" : "cosmetics"
+	},
+	{
+		"lat" : "41.0158544",
+		"lon" : "21.3437147",
+		"name" : "Беком",
+		"category" : "supermarket"
+	},
+	{
+		"lat" : "41.0116186",
+		"lon" : "21.3429619",
+		"name" : "Хераклеа Линкестис",
+		"category" : "ticket"
+	},
+	{
+		"lat" : "41.996888",
+		"lon" : "21.4086921",
+		"name" : "Скара на кило",
+		"category" : "butcher"
+	},
+	{
+		"lat" : "41.1162192",
+		"lon" : "20.8008987",
+		"name" : "LC Waikiki",
+		"category" : "clothes",
+		"addr:street" : "Гоце Делчев",
+		"opening_hours" : "Mo-Su 10:00-23:00"
+	},
+	{
+		"lat" : "41.9667911",
+		"lon" : "21.4673189",
+		"name" : "motocentar",
+		"category" : "tyres"
+	},
+	{
+		"lat" : "41.9808078",
+		"lon" : "21.4399735",
+		"name" : "Hairshop",
+		"category" : "hairdresser",
+		"website" : "https://hairshop.mk/",
+		"addr:street" : "Божидар Аџија"
+	},
+	{
+		"lat" : "41.9858897",
+		"lon" : "21.4360635",
+		"name" : "ДА МИ",
+		"category" : "convenience"
+	},
+	{
+		"lat" : "41.3446569",
+		"lon" : "21.5508426",
+		"name" : "Tinex",
+		"category" : "supermarket",
+		"addr:street" : "Гоце Делчев"
+	},
+	{
+		"lat" : "41.3368744",
+		"lon" : "21.3311181",
+		"name" : "IGA Market",
+		"category" : "supermarket",
+		"addr:street" : "Маршал Тито",
+		"opening_hours" : "Mo-Su 07:00-22:00"
+	},
+	{
+		"lat" : "41.8370139",
+		"lon" : "20.8839449",
+		"name" : "Car Parts",
+		"category" : "car_parts"
+	},
+	{
+		"lat" : "41.8300832",
+		"lon" : "20.8840178",
+		"name" : "SELO",
+		"category" : "supermarket"
+	},
+	{
+		"lat" : "41.8320997",
+		"lon" : "20.8835198",
+		"name" : "Car Repair",
+		"category" : "car_repair"
+	},
+	{
+		"lat" : "41.980756",
+		"lon" : "21.4718709",
+		"name" : "ЗУР Маркет",
+		"category" : "supermarket",
+		"opening_hours" : "Mo-Su 10:00-22:00"
+	},
+	{
+		"lat" : "41.988117",
+		"lon" : "21.4546638",
+		"name" : "ваташа",
+		"category" : "bakery"
+	},
+	{
+		"lat" : "41.7938913",
+		"lon" : "20.9075658",
+		"name" : "Mediteran Çay Evi",
+		"category" : "tea"
+	},
+	{
+		"lat" : "41.7941451",
+		"lon" : "20.9068658",
+		"name" : "Oscar Hairdresser",
+		"category" : "hairdresser"
+	},
+	{
+		"lat" : "41.9781331",
+		"lon" : "21.4851324",
+		"name" : "Бина",
+		"category" : "supermarket"
+	},
+	{
+		"lat" : "41.738025",
+		"lon" : "22.1947424",
+		"name" : "Спортисимо",
+		"category" : "shoes"
+	},
+	{
+		"lat" : "41.7348966",
+		"lon" : "22.1889062",
+		"name" : "Мацо Механичаро",
+		"category" : "car_repair"
+	},
+	{
+		"lat" : "41.7377632",
+		"lon" : "22.1911396",
+		"name" : "Андреј Компани 2",
+		"category" : "toys"
+	},
+	{
+		"lat" : "41.7381732",
+		"lon" : "22.1938899",
+		"name" : "Андреј Компани 1",
+		"category" : "toys"
+	},
+	{
+		"lat" : "41.7416455",
+		"lon" : "22.1984795",
+		"name" : "КАМ",
+		"category" : "supermarket"
+	},
+	{
+		"lat" : "41.7354588",
+		"lon" : "22.198854",
+		"name" : "КИТ-ГО",
+		"category" : "supermarket"
+	},
+	{
+		"lat" : "41.73776",
+		"lon" : "22.1906271",
+		"name" : "Андреј Компани 3",
+		"category" : "toys"
+	},
+	{
+		"lat" : "41.7376531",
+		"lon" : "22.1922843",
+		"name" : "Бране Касапино",
+		"category" : "butcher"
+	},
+	{
+		"lat" : "41.7344453",
+		"lon" : "22.1941597",
+		"name" : "БоБи",
+		"category" : "supermarket"
+	},
+	{
+		"lat" : "41.7356982",
+		"lon" : "22.1881355",
+		"name" : "ХИТ Маркет",
+		"category" : "supermarket"
+	},
+	{
+		"lat" : "41.7375975",
+		"lon" : "22.191884",
+		"name" : "Ана Стил",
+		"category" : "clothes"
+	},
+	{
+		"lat" : "41.7373008",
+		"lon" : "22.1994144",
+		"name" : "ХИТ Маркет",
+		"category" : "supermarket"
+	},
+	{
+		"lat" : "42.0065733",
+		"lon" : "21.437691",
+		"name" : "Trend light",
+		"category" : "electronics",
+		"email" : "trendlight04@gmail.com",
+		"phone" : "+38970444599",
+		"addr:street" : "Булевар Никола Карев",
+		"opening_hours" : "Mo-Su 08:30-19:00"
+	},
+	{
+		"lat" : "41.7384084",
+		"lon" : "22.1921685",
+		"name" : "Сокак",
+		"category" : "bakery"
+	},
+	{
+		"lat" : "41.7369559",
+		"lon" : "22.1926047",
+		"name" : "Ванила",
+		"category" : "bakery"
+	},
+	{
+		"lat" : "41.7387617",
+		"lon" : "22.1958265",
+		"name" : "Пренди",
+		"category" : "shoes"
+	},
+	{
+		"lat" : "41.7388381",
+		"lon" : "22.1924481",
+		"name" : "Застава",
+		"category" : "car_parts"
+	},
+	{
+		"lat" : "41.7388042",
+		"lon" : "22.1954923",
+		"name" : "ТА Медитеран",
+		"category" : "travel_agency",
+		"website" : "http://mediteran.mk",
+		"opening_hours" : "Mo-Fr 10:00-20:00"
+	},
+	{
+		"lat" : "41.7373653",
+		"lon" : "22.1927255",
+		"name" : "Феријал Кашиков",
+		"category" : "travel_agency",
+		"website" : "http://www.ferijalkasikov.com.mk",
+		"opening_hours" : "Mo-Fr 10:00-20:00"
+	},
+	{
+		"lat" : "41.7377863",
+		"lon" : "22.1912972",
+		"name" : "Butik Nina",
+		"category" : "clothes",
+		"addr:city" : "Штип",
+		"addr:street" : "Ванчо Прќе"
+	},
+	{
+		"lat" : "41.9392257",
+		"lon" : "21.5103158",
+		"name" : "Вајота 5",
+		"category" : "supermarket",
+		"email" : "vajota@yahoo.com",
+		"addr:street" : "Славка Динкова",
+		"opening_hours" : "Mo-Su 07:00-22:00"
+	},
+	{
+		"lat" : "41.9310608",
+		"lon" : "21.5291548",
+		"name" : "Вајота 1",
+		"category" : "supermarket",
+		"email" : "vajota@yahoo.com",
+		"addr:street" : "Јустинијан Први",
+		"opening_hours" : "Mo-Su 07:00-22:00"
+	},
+	{
+		"lat" : "41.7383854",
+		"lon" : "22.1959129",
+		"name" : "Зендолино",
+		"category" : "supermarket"
+	},
+	{
+		"lat" : "42.1372192",
+		"lon" : "21.713543",
+		"name" : "Grubor",
+		"category" : "car",
+		"phone" : "+38268189772",
+		"addr:street" : "11-ти Октомври"
+	},
+	{
+		"lat" : "42.0070557",
+		"lon" : "21.4423643",
+		"name" : "Фото Бечо",
+		"category" : "photo",
+		"addr:street" : "Булевар Цветан Димов",
+		"opening_hours" : "Mo-Su 09:00-21:00"
+	},
+	{
+		"lat" : "41.9890975",
+		"lon" : "21.4608057",
+		"name" : "Канон Сенчо",
+		"category" : "computer",
+		"opening_hours" : "Mo-Fr 08:00-16:00"
+	},
+	{
+		"lat" : "41.1834617",
+		"lon" : "20.6756387",
+		"name" : "Феј-Даф железарија",
+		"category" : "electronics",
+		"phone" : "+38975446444",
+		"addr:street" : "Пролетерски Бригади"
+	},
+	{
+		"lat" : "41.2633703",
+		"lon" : "20.6117918",
+		"name" : "Fej-Daf kompani (magacin)",
+		"category" : "department_store",
+		"phone" : "070232180",
+		"addr:street" : "labuništa",
+		"opening_hours" : "Sa-Th 07:00-19:00"
+	},
+	{
+		"lat" : "41.7020962",
+		"lon" : "20.7576254",
+		"name" : "Pomahop Kom",
+		"category" : "supermarket"
+	},
+	{
+		"lat" : "41.7369288",
+		"lon" : "22.1924643",
+		"name" : "Венеција",
+		"category" : "books"
+	},
+	{
+		"lat" : "41.7017221",
+		"lon" : "20.7571924",
+		"name" : "Маркет Кај Петко",
+		"category" : "supermarket"
+	},
+	{
+		"lat" : "41.8539722",
+		"lon" : "20.8884597",
+		"name" : "Аграр Топлица",
+		"category" : "bakery"
+	},
+	{
+		"lat" : "41.8782782",
+		"lon" : "20.8603725",
+		"name" : "Маркет",
+		"category" : "supermarket",
+		"opening_hours" : "Mo-Su 09:00-21:00"
+	},
+	{
+		"lat" : "42.0047229",
+		"lon" : "21.3703234",
+		"name" : "Building 31",
+		"category" : "bakery",
+		"addr:street" : "Исаија Мажовски"
+	},
+	{
+		"lat" : "41.7387317",
+		"lon" : "22.195338",
+		"name" : "ТА ЈК-Травел",
+		"category" : "travel_agency"
+	},
+	{
+		"lat" : "41.967327",
+		"lon" : "22.804392",
+		"name" : "Стрела Пром",
+		"category" : "supermarket",
+		"phone" : "+38979202900",
+		"addr:street" : "Кузманска",
+		"opening_hours" : "Mo-Su 06:00-21:00"
+	},
+	{
+		"lat" : "41.4322833",
+		"lon" : "22.0116033",
+		"name" : "Др-Мобиле",
+		"category" : "mobile_phone",
+		"email" : "delovilija@gmail.com",
+		"phone" : "+38975969197",
+		"addr:street" : "Тиквешко Востание",
+		"opening_hours" : "Mo-Fr 09:00-21:00; Sa 09:00-15:00"
+	},
+	{
+		"lat" : "41.117125",
+		"lon" : "20.8144718",
+		"name" : "ВИПС",
+		"category" : "supermarket",
+		"email" : "doo.vips@gmail.com",
+		"phone" : "046266230",
+		"addr:street" : "Марко Цепенков",
+		"opening_hours" : "Mo-Su 06:00-22:00"
+	},
+	{
+		"lat" : "41.9371567",
+		"lon" : "21.6178398",
+		"name" : "Леон",
+		"category" : "supermarket",
+		"addr:street" : "22",
+		"opening_hours" : "Mo-Su 08:00-22:00"
+	},
+	{
+		"lat" : "41.9139644",
+		"lon" : "22.4142266",
+		"name" : "Фотопегасус",
+		"category" : "copyshop",
+		"email" : "fotopegasus1@gmail.com",
+		"phone" : "078354298",
+		"addr:street" : "Тодосија Паунов",
+		"opening_hours" : "Mo-Fr 08:00-16:30; Sa 10:00-16:00"
+	},
+	{
+		"lat" : "42.008963",
+		"lon" : "20.971466",
+		"name" : "КУБИКС - Студио за Анимација",
+		"category" : "electronics",
+		"website" : "http://www.kub-x.com/",
+		"addr:city" : "Tetovo",
+		"addr:street" : "Ilindenska",
+		"opening_hours" : "24/7"
+	},
+	{
+		"lat" : "42.0011128",
+		"lon" : "21.4250431",
+		"name" : "Мое студио Дадар",
+		"category" : "hairdresser",
+		"addr:street" : "Аминта Трети"
+	},
+	{
+		"lat" : "41.9994752",
+		"lon" : "21.4357066",
+		"name" : "Rigara",
+		"category" : "confectionery"
+	},
+	{
+		"lat" : "42.0174581",
+		"lon" : "21.410016",
+		"name" : "Турбо Макс",
+		"category" : "tyres"
+	},
+	{
+		"lat" : "42.018529",
+		"lon" : "21.3624474",
+		"name" : "КОДИНГ-ГОРСКА Доол",
+		"category" : "beverages",
+		"email" : "gorskavoda@yahoo.com",
+		"phone" : "28201158",
+		"website" : "https://www.gorska.com.mk/",
+		"addr:street" : "Шарпланинска",
+		"opening_hours" : "Mo-Fr 07:00-20:00"
+	},
+	{
+		"lat" : "41.2453926",
+		"lon" : "22.0749444",
+		"name" : "КОДИНГ-ГОРСКА Дооел",
+		"category" : "beverages",
+		"email" : "gorskavoda@yahoo.com",
+		"phone" : "043800256",
+		"website" : "https://www.gorska.com.mk/",
+		"addr:street" : "Konopiste",
+		"opening_hours" : "24/7"
+	},
+	{
+		"lat" : "41.9799627",
+		"lon" : "21.4751092",
+		"name" : "Базаро",
+		"category" : "department_store"
+	},
+	{
+		"lat" : "41.9854287",
+		"lon" : "21.4674517",
+		"name" : "Кам Маркет",
+		"category" : "supermarket",
+		"addr:street" : "Јане Сандански"
+	},
+	{
+		"lat" : "41.0867663",
+		"lon" : "21.0129214",
+		"name" : "Пазар Ресен",
+		"category" : "supermarket"
+	},
+	{
+		"lat" : "41.792788",
+		"lon" : "20.90945",
+		"name" : "Рекорд",
+		"category" : "confectionery"
+	},
+	{
+		"lat" : "41.9761657",
+		"lon" : "21.4447803",
+		"name" : "Гранап",
+		"category" : "supermarket",
+		"opening_hours" : "Mo-Su 08:00-22:00"
+	},
+	{
+		"lat" : "41.4104629",
+		"lon" : "22.2429003",
+		"name" : "Пиљaрa Пaмпи",
+		"category" : "greengrocer",
+		"email" : "rade_janevski@yahoo.com",
+		"phone" : "+38975345525",
+		"addr:street" : "Маршал Тито",
+		"opening_hours" : "Mo-Sa 07:00-21:00; Su 10:00-14:00"
+	},
+	{
+		"lat" : "41.9941745",
+		"lon" : "21.0272251",
+		"name" : "Јатас - Енза Хоум",
+		"category" : "furniture",
+		"phone" : "+389 44 378 801",
+		"website" : "http://petrolcompany.com.mk/enzahome.php"
+	},
+	{
+		"lat" : "41.9415153",
+		"lon" : "20.9271535",
+		"name" : "Frizer Raman",
+		"category" : "hairdresser",
+		"addr:street" : "101"
+	},
+	{
+		"lat" : "41.9411401",
+		"lon" : "20.9269285",
+		"name" : "Market Beni",
+		"category" : "supermarket",
+		"addr:street" : "101"
+	},
+	{
+		"lat" : "41.9408176",
+		"lon" : "20.9270668",
+		"name" : "Kontabilisti",
+		"category" : "copyshop",
+		"addr:street" : "101"
+	},
+	{
+		"lat" : "41.948539",
+		"lon" : "20.9297959",
+		"name" : "Jeta e Re",
+		"category" : "supermarket"
+	},
+	{
+		"lat" : "41.9441867",
+		"lon" : "20.9284994",
+		"name" : "Lumi 2",
+		"category" : "hairdresser"
+	},
+	{
+		"lat" : "41.9428316",
+		"lon" : "20.9277857",
+		"name" : "Lule",
+		"category" : "cosmetics"
+	},
+	{
+		"lat" : "41.9441199",
+		"lon" : "20.9284615",
+		"name" : "Lumi",
+		"category" : "mobile_phone",
+		"addr:street" : "101"
+	},
+	{
+		"lat" : "41.9428509",
+		"lon" : "20.9278787",
+		"name" : "Daman",
+		"category" : "supermarket",
+		"addr:street" : "101"
+	},
+	{
+		"lat" : "41.9424416",
+		"lon" : "20.9251687",
+		"name" : "Saufa",
+		"category" : "supermarket"
+	},
+	{
+		"lat" : "41.0385664",
+		"lon" : "21.2863381",
+		"name" : "Garden centar Hosta",
+		"category" : "florist",
+		"addr:street" : "Dihovski pat",
+		"opening_hours" : "Mo-Sa 10:00-22:00"
+	},
+	{
+		"lat" : "41.9973892",
+		"lon" : "21.4854646",
+		"name" : "Премиум Ауто Центрум",
+		"category" : "car",
+		"addr:street" : "Перо Наков",
+		"opening_hours" : "Mo-Sa 08:00-20:00"
+	},
+	{
+		"lat" : "41.9932063",
+		"lon" : "21.4159528",
+		"name" : "Зец Електроникс",
+		"category" : "hifi"
+	},
+	{
+		"lat" : "42.0021431",
+		"lon" : "21.3515425",
+		"name" : "Алекса Демниевски 25",
+		"category" : "bakery"
+	},
+	{
+		"lat" : "41.4361981",
+		"lon" : "22.6384798",
+		"name" : "АтлантиС Травел",
+		"category" : "travel_agency",
+		"email" : "manager@atlantis.com.mk",
+		"phone" : "38934345212",
+		"website" : "http://www.atlantis.mk",
+		"addr:street" : "Димитар Влахов",
+		"opening_hours" : "Mo-Sa 09:00-19:00"
+	},
+	{
+		"lat" : "41.0300125",
+		"lon" : "21.3294655",
+		"name" : "ШИК",
+		"category" : "supermarket",
+		"addr:street" : "Цар Самоил"
+	},
+	{
+		"lat" : "41.0244995",
+		"lon" : "21.3194827",
+		"name" : "Џеко",
+		"category" : "bakery",
+		"addr:street" : "Партизанска"
+	},
+	{
+		"lat" : "41.0235893",
+		"lon" : "21.3251151",
+		"name" : "ШИК",
+		"category" : "supermarket",
+		"addr:street" : "Партизанска"
+	},
+	{
+		"lat" : "41.024414",
+		"lon" : "21.3211694",
+		"name" : "БАДО",
+		"category" : "supermarket",
+		"addr:street" : "Партизанска"
+	},
+	{
+		"lat" : "41.5102493",
+		"lon" : "21.2163859",
+		"name" : "Mat Star",
+		"category" : "clothes"
+	},
+	{
+		"lat" : "41.5109889",
+		"lon" : "21.2163587",
+		"name" : "Лука",
+		"category" : "bakery"
+	},
+	{
+		"lat" : "41.5111973",
+		"lon" : "21.2163503",
+		"name" : "Техноопрем",
+		"category" : "books"
+	},
+	{
+		"lat" : "41.5112893",
+		"lon" : "20.9511304",
+		"name" : "Setec",
+		"category" : "computer",
+		"email" : "setec.kicevo@setec.mk",
+		"phone" : "+38945 224 112",
+		"opening_hours" : "Mo-Fr 09:00-21:00; Sa 09:00-20:00"
+	},
+	{
+		"lat" : "41.5112853",
+		"lon" : "20.9509158",
+		"name" : "Atva",
+		"category" : "houseware"
+	},
+	{
+		"lat" : "41.5115584",
+		"lon" : "20.9511304",
+		"name" : "Atva",
+		"category" : "supermarket",
+		"phone" : "+389 45 224 224"
+	},
+	{
+		"lat" : "41.5126349",
+		"lon" : "20.9627409",
+		"name" : "Ramstore",
+		"category" : "supermarket",
+		"opening_hours" : "Mo-Fr 08:00-22:00"
+	},
+	{
+		"lat" : "42.0034784",
+		"lon" : "21.3972417",
+		"name" : "JK Travel",
+		"category" : "travel_agency",
+		"website" : "https://jk.com.mk/"
+	},
+	{
+		"lat" : "41.9975479",
+		"lon" : "21.3970821",
+		"name" : "Тепих Центар Merinos",
+		"category" : "carpet",
+		"email" : "tepihcentarsk@yahoo.com",
+		"phone" : "+389 2 311 2279"
+	},
+	{
+		"lat" : "42.0034872",
+		"lon" : "21.3978422",
+		"name" : "Oxxo",
+		"category" : "clothes"
+	},
+	{
+		"lat" : "42.0034908",
+		"lon" : "21.3971473",
+		"name" : "Авантгард",
+		"category" : "clothes"
+	},
+	{
+		"lat" : "42.0034624",
+		"lon" : "21.3973682",
+		"name" : "Мода Операнди",
+		"category" : "clothes"
+	},
+	{
+		"lat" : "42.0035008",
+		"lon" : "21.3977311",
+		"name" : "Outlet Fokabo",
+		"category" : "clothes"
+	},
+	{
+		"lat" : "41.7471788",
+		"lon" : "22.1911819",
+		"name" : "Дени касапино",
+		"category" : "butcher",
+		"addr:street" : "Бул. ЈНА",
+		"opening_hours" : "24/7"
+	},
+	{
+		"lat" : "42.0017893",
+		"lon" : "21.3781838",
+		"name" : "Дартекс Трејд Машинско Перење Теписи",
+		"category" : "dry_cleaning",
+		"email" : "darteks@yahoo.com",
+		"phone" : "+389 78211000",
+		"website" : "http://www.dartex.mk",
+		"addr:street" : "Ванчо Мицков",
+		"opening_hours" : "Mo-Sa 09:00-18:00"
+	},
+	{
+		"lat" : "41.4377707",
+		"lon" : "22.0107461",
+		"name" : "MA-GO Prom",
+		"category" : "supermarket",
+		"email" : "magoprom@yahoo.com",
+		"addr:street" : "Илинденска",
+		"opening_hours" : "Mo-Sa 06:00-22:00; Su 06:00-22:00"
+	},
+	{
+		"lat" : "42.0050636",
+		"lon" : "20.9790915",
+		"name" : "Кипер Маркет",
+		"category" : "supermarket"
+	},
+	{
+		"lat" : "42.0054756",
+		"lon" : "20.979931",
+		"name" : "Кам Маркет",
+		"category" : "supermarket"
+	},
+	{
+		"lat" : "42.0075608",
+		"lon" : "21.3635827",
+		"name" : "digital foto TIHO",
+		"category" : "copyshop",
+		"addr:street" : "Булевар Ѓорче Петров",
+		"opening_hours" : "Mo-Fr 08:30-19:00; Su 09:00-15:00"
+	},
+	{
+		"lat" : "42.009697",
+		"lon" : "20.9763644",
+		"name" : "Times",
+		"category" : "computer",
+		"email" : "nafi.times@gmail.com",
+		"phone" : "+38944341526",
+		"addr:street" : "ул. Борис Кидрич",
+		"opening_hours" : "Mo-Sa 10:00-18:00"
+	},
+	{
+		"lat" : "42.201414",
+		"lon" : "22.3349195",
+		"name" : "Furna Vardar",
+		"category" : "bakery",
+		"addr:city" : "Крива Паланка",
+		"addr:street" : "Orce Nikolov"
+	},
+	{
+		"lat" : "42.203999",
+		"lon" : "22.3349213",
+		"name" : "Autoparts Bogas",
+		"category" : "car_parts",
+		"addr:city" : "Kriva Palanka",
+		"addr:street" : "Marshal Tito"
+	},
+	{
+		"lat" : "41.9933812",
+		"lon" : "21.4052957",
+		"name" : "ТАНА Козметик",
+		"category" : "cosmetics",
+		"phone" : "+38970317410",
+		"addr:street" : "Козле",
+		"opening_hours" : "Tu-Su 09:00-18:00"
+	},
+	{
+		"lat" : "41.4333208",
+		"lon" : "22.0115983",
+		"name" : "Kit-go market;MaxiD",
+		"category" : "supermarket",
+		"addr:street" : "Plostad"
+	},
+	{
+		"lat" : "41.9949008",
+		"lon" : "21.4354978",
+		"name" : "ZEC Electronics GTC",
+		"category" : "hifi"
+	},
+	{
+		"lat" : "42.0018387",
+		"lon" : "21.3908214",
+		"name" : "Визус 1",
+		"category" : "optician"
+	},
+	{
+		"lat" : "41.9973247",
+		"lon" : "21.4089258",
+		"name" : "Сито Сан",
+		"category" : "copyshop",
+		"addr:street" : "Анкарска"
+	},
+	{
+		"lat" : "41.9972875",
+		"lon" : "21.4085105",
+		"name" : "Рептил",
+		"category" : "supermarket",
+		"addr:street" : "Атинска"
+	},
+	{
+		"lat" : "41.4413205",
+		"lon" : "22.010596",
+		"name" : "Diana 8",
+		"category" : "supermarket"
+	},
+	{
+		"lat" : "42.0023367",
+		"lon" : "21.4647441",
+		"name" : "Сити Плус Фото",
+		"category" : "photo",
+		"phone" : "075297079",
+		"addr:street" : "Јани Лукровски",
+		"opening_hours" : "Mo-Sa 09:00-20:00"
+	},
+	{
+		"lat" : "41.0153164",
+		"lon" : "21.3442377",
+		"name" : "АН-ФИ Мебел",
+		"category" : "furniture",
+		"phone" : "070312704",
+		"addr:street" : "Иво Рибар-Лола",
+		"opening_hours" : "Mo-Sa 08:00-19:00"
+	},
+	{
+		"lat" : "42.0277156",
+		"lon" : "21.5139779",
+		"name" : "Грогос",
+		"category" : "supermarket"
+	},
+	{
+		"lat" : "41.2683315",
+		"lon" : "20.5958701",
+		"name" : "Нуредини 2016 (2)",
+		"category" : "supermarket",
+		"opening_hours" : "Mo-Su 08:00-22:00"
+	},
+	{
+		"lat" : "41.2690711",
+		"lon" : "20.5948705",
+		"name" : "Нуредини 2016",
+		"category" : "supermarket"
+	},
+	{
+		"lat" : "41.2680881",
+		"lon" : "20.5964447",
+		"name" : "Бутик Сеско",
+		"category" : "clothes",
+		"addr:street" : "bbbb",
+		"opening_hours" : "Mo-Sa 09:00-18:00"
+	},
+	{
+		"lat" : "42.071011",
+		"lon" : "21.4999685",
+		"name" : "Daniel Bulachani",
+		"category" : "car_repair"
+	},
+	{
+		"lat" : "41.992143",
+		"lon" : "22.1883931",
+		"name" : "Boston probistip",
+		"category" : "supermarket"
+	},
+	{
+		"lat" : "41.1177316",
+		"lon" : "20.8141538",
+		"name" : "Marando ohrid",
+		"category" : "supermarket"
+	},
+	{
+		"lat" : "41.1810013",
+		"lon" : "20.6807065",
+		"name" : "Tinex struga 1",
+		"category" : "supermarket"
+	},
+	{
+		"lat" : "41.1769513",
+		"lon" : "20.6700275",
+		"name" : "Ramstore struga marshal tito",
+		"category" : "supermarket"
+	},
+	{
+		"lat" : "42.0084835",
+		"lon" : "20.9710281",
+		"name" : "Tinex tetovo",
+		"category" : "supermarket"
+	},
+	{
+		"lat" : "41.180146",
+		"lon" : "20.6775173",
+		"name" : "Tinex struga",
+		"category" : "supermarket"
+	},
+	{
+		"lat" : "41.9035531",
+		"lon" : "22.3865111",
+		"name" : "Top bazar kocani",
+		"category" : "supermarket"
+	},
+	{
+		"lat" : "42.0093957",
+		"lon" : "20.9741832",
+		"name" : "Рамстор 2 Тетово",
+		"category" : "supermarket"
+	},
+	{
+		"lat" : "41.5194419",
+		"lon" : "20.961752",
+		"name" : "Dukla kicevo",
+		"category" : "supermarket"
+	},
+	{
+		"lat" : "41.1095503",
+		"lon" : "20.8130481",
+		"name" : "Tinex ohrid 2",
+		"category" : "supermarket"
+	},
+	{
+		"lat" : "41.7907152",
+		"lon" : "20.9077023",
+		"name" : "Kultura gostivar",
+		"category" : "supermarket"
+	},
+	{
+		"lat" : "41.1841703",
+		"lon" : "20.6724827",
+		"name" : "GEGA STRUGA",
+		"category" : "supermarket"
+	},
+	{
+		"lat" : "41.9979362",
+		"lon" : "20.9715177",
+		"name" : "Tendjerinja tetovo",
+		"category" : "supermarket"
+	},
+	{
+		"lat" : "41.9896032",
+		"lon" : "21.4323528",
+		"name" : "TINEX",
+		"category" : "supermarket"
+	},
+	{
+		"lat" : "42.1298987",
+		"lon" : "21.7171816",
+		"name" : "Goran daniel kumanovo",
+		"category" : "supermarket"
+	},
+	{
+		"lat" : "42.1388559",
+		"lon" : "21.7318897",
+		"name" : "Steki prom kumanovo",
+		"category" : "supermarket"
+	},
+	{
+		"lat" : "42.1186471",
+		"lon" : "21.7316379",
+		"name" : "Kima kumanovo",
+		"category" : "supermarket"
+	},
+	{
+		"lat" : "42.1581571",
+		"lon" : "21.742493",
+		"name" : "Centrobiznis 1 kumanovo",
+		"category" : "supermarket"
+	},
+	{
+		"lat" : "42.1558735",
+		"lon" : "21.7333698",
+		"name" : "Centrobiznis 2 kumanovo",
+		"category" : "supermarket"
+	},
+	{
+		"lat" : "42.130618",
+		"lon" : "21.7166312",
+		"name" : "Kane kumanovo",
+		"category" : "supermarket"
+	},
+	{
+		"lat" : "42.1060671",
+		"lon" : "21.7555938",
+		"name" : "Nami kom kumanovo",
+		"category" : "supermarket"
+	},
+	{
+		"lat" : "42.1448318",
+		"lon" : "21.7414395",
+		"name" : "Centrobiznis 3 kumanovo",
+		"category" : "supermarket"
+	},
+	{
+		"lat" : "42.1576319",
+		"lon" : "21.7348131",
+		"name" : "Stef kri kumanovo",
+		"category" : "supermarket"
+	},
+	{
+		"lat" : "41.9936634",
+		"lon" : "21.4309247",
+		"name" : "Gnezdo",
+		"category" : "beverages"
+	},
+	{
+		"lat" : "41.9931281",
+		"lon" : "21.4153049",
+		"name" : "Pioneer Skopje 02/3110 186",
+		"category" : "electronics"
+	},
+	{
+		"lat" : "41.9973754",
+		"lon" : "20.9542418",
+		"name" : "N.N.T. Globusi dooel",
+		"category" : "trade",
+		"phone" : "+389 70 533 454",
+		"website" : "http://www.globusi.com/",
+		"addr:city" : "Тетово",
+		"addr:street" : "167"
+	},
+	{
+		"lat" : "41.1436816",
+		"lon" : "22.4963975",
+		"name" : "Радио Такси  ХИТ",
+		"category" : "travel_agency",
+		"phone" : "034 214 151",
+		"addr:street" : "Деко Ковачев",
+		"opening_hours" : "24/7"
+	},
+	{
+		"lat" : "42.0005257",
+		"lon" : "21.4121462",
+		"name" : "Рептил",
+		"category" : "supermarket"
+	},
+	{
+		"lat" : "42.1244911",
+		"lon" : "21.7295036",
+		"name" : "Mar-bo kumanovo",
+		"category" : "supermarket"
+	},
+	{
+		"lat" : "42.135562",
+		"lon" : "21.7187075",
+		"name" : "Tinex kumanovo",
+		"category" : "supermarket"
+	},
+	{
+		"lat" : "41.9956707",
+		"lon" : "21.4252794",
+		"name" : "Turkish Airlines",
+		"category" : "travel_agency",
+		"email" : "SKPSALES@THY.COM",
+		"phone" : "+38223117214",
+		"website" : "http://www.thy.com",
+		"addr:street" : "Blvd.Kliment Ohridski",
+		"opening_hours" : "Mo-Fr 09:00-17:00"
+	},
+	{
+		"lat" : "42.2051708",
+		"lon" : "22.3354896",
+		"name" : "Antiva k.palamka",
+		"category" : "supermarket"
+	},
+	{
+		"lat" : "42.1134478",
+		"lon" : "21.4268691",
+		"name" : "Приватно",
+		"category" : "car_repair"
+	},
+	{
+		"lat" : "41.9873631",
+		"lon" : "20.9662459",
+		"name" : "Elektro Elektra",
+		"category" : "electronics",
+		"phone" : "00389520533",
+		"opening_hours" : "Mo-Sa 09:00-18:00"
+	},
+	{
+		"lat" : "41.9925841",
+		"lon" : "20.9601059",
+		"name" : "Midpoint",
+		"category" : "bakery"
+	},
+	{
+		"lat" : "41.9984789",
+		"lon" : "21.4157033",
+		"name" : "Vesna Visage",
+		"category" : "massage"
+	},
+	{
+		"lat" : "42.0035764",
+		"lon" : "21.4877902",
+		"name" : "makdel",
+		"category" : "car_parts"
+	},
+	{
+		"lat" : "41.9929149",
+		"lon" : "21.4199718",
+		"name" : "Тинекс",
+		"category" : "supermarket",
+		"opening_hours" : "Mo-Su 08:00-22:00"
+	},
+	{
+		"lat" : "41.7165792",
+		"lon" : "21.7836811",
+		"name" : "Pet Shop K-M  br.2",
+		"category" : "supermarket"
+	},
+	{
+		"lat" : "41.7143048",
+		"lon" : "21.7658016",
+		"name" : "Pet Shop K-M br.1",
+		"category" : "supermarket"
+	},
+	{
+		"lat" : "41.9983382",
+		"lon" : "21.4182312",
+		"name" : "Cake Boutique",
+		"category" : "bakery"
+	},
+	{
+		"lat" : "41.9916843",
+		"lon" : "20.9567958",
+		"name" : "Баукон Бауцентар",
+		"category" : "convenience",
+		"email" : "baukon.doo@gmail.com",
+		"phone" : "0038978661669",
+		"website" : "http://www.baukon.mk",
+		"addr:street" : "172",
+		"opening_hours" : "Mo-Su 07:00-18:00"
+	},
+	{
+		"lat" : "41.0329414",
+		"lon" : "21.3418167",
+		"name" : "PECI-M, KARAT",
+		"category" : "textile",
+		"addr:city" : "Битола",
+		"addr:street" : "Прилепска"
+	},
+	{
+		"lat" : "41.4413948",
+		"lon" : "22.0106513",
+		"name" : "Dijana",
+		"category" : "supermarket"
+	},
+	{
+		"lat" : "41.9937108",
+		"lon" : "20.9657549",
+		"name" : "Dizajn-R",
+		"category" : "furniture",
+		"phone" : "070329171",
+		"addr:street" : "Вон- Вардарска",
+		"opening_hours" : "Sa-Th 08:30-19:00"
+	},
+	{
+		"lat" : "41.9865554",
+		"lon" : "21.0382924",
+		"name" : "tali mobel",
+		"category" : "furniture",
+		"email" : "tali_compani@hotmail.com",
+		"phone" : "072232421",
+		"website" : "http://www.talimobel.com",
+		"addr:street" : "Мајка Тереза",
+		"opening_hours" : "Sa-Th 08:00-18:00"
+	},
+	{
+		"lat" : "41.988391",
+		"lon" : "21.4632659",
+		"name" : "WinixMk",
+		"category" : "electronics",
+		"email" : "info@winixmk.mk",
+		"phone" : "+389 72 21 31 51",
+		"website" : "https://www.winixmk.mk",
+		"addr:city" : "Cкoпje",
+		"addr:street" : "Јане Сандански",
+		"opening_hours" : "Mo-Fr 09:00-17:00"
+	},
+	{
+		"lat" : "41.9867649",
+		"lon" : "21.4306785",
+		"name" : "Market Polo",
+		"category" : "supermarket"
+	},
+	{
+		"lat" : "42.0020133",
+		"lon" : "21.4010765",
+		"name" : "Cake & Bake",
+		"category" : "bakery"
+	},
+	{
+		"lat" : "41.9921559",
+		"lon" : "21.4280657",
+		"name" : "МагнаСкен",
+		"category" : "copyshop",
+		"email" : "magna@magnasken.com.mk",
+		"phone" : "+38923130048",
+		"website" : "http://www.magnasken.com.mk",
+		"opening_hours" : "Mo-Sa"
+	},
+	{
+		"lat" : "41.971385",
+		"lon" : "22.7774987",
+		"name" : "Кит-Го Супермаркет",
+		"category" : "supermarket"
+	},
+	{
+		"lat" : "41.9670758",
+		"lon" : "22.775244",
+		"name" : "Кит-Го Супермаркет",
+		"category" : "supermarket"
+	},
+	{
+		"lat" : "41.9637434",
+		"lon" : "22.773",
+		"name" : "БЛЕКИ фризерски салон",
+		"category" : "hairdresser"
+	},
+	{
+		"lat" : "41.9697285",
+		"lon" : "22.7828039",
+		"name" : "Бисер",
+		"category" : "supermarket"
+	},
+	{
+		"lat" : "41.9694518",
+		"lon" : "22.7820669",
+		"name" : "Космос",
+		"category" : "supermarket"
+	},
+	{
+		"lat" : "41.9737984",
+		"lon" : "22.7820353",
+		"name" : "Лунагив",
+		"category" : "bakery"
+	},
+	{
+		"lat" : "41.9700177",
+		"lon" : "22.7795045",
+		"name" : "Коста груп",
+		"category" : "supermarket"
+	},
+	{
+		"lat" : "41.9637609",
+		"lon" : "22.7798536",
+		"name" : "Скопјанка маркет",
+		"category" : "convenience"
+	},
+	{
+		"lat" : "41.9711415",
+		"lon" : "22.771976",
+		"name" : "Мебел Анси",
+		"category" : "furniture"
+	},
+	{
+		"lat" : "41.9649287",
+		"lon" : "22.7793102",
+		"name" : "Авто Мик",
+		"category" : "car_parts"
+	},
+	{
+		"lat" : "41.9669504",
+		"lon" : "22.7740767",
+		"name" : "Зуна",
+		"category" : "butcher"
+	},
+	{
+		"lat" : "41.9706889",
+		"lon" : "22.768478",
+		"name" : "Оникс Вал стовариште",
+		"category" : "hardware"
+	},
+	{
+		"lat" : "41.9718365",
+		"lon" : "22.7686809",
+		"name" : "Алпин пелет",
+		"category" : "hardware"
+	},
+	{
+		"lat" : "41.9661661",
+		"lon" : "22.7760109",
+		"name" : "Мајстор Кире",
+		"category" : "car_repair"
+	},
+	{
+		"lat" : "41.9739928",
+		"lon" : "22.7785022",
+		"name" : "Лаци Автосервис",
+		"category" : "car_repair"
+	},
+	{
+		"lat" : "41.9705216",
+		"lon" : "22.7766785",
+		"name" : "Наум",
+		"category" : "furniture"
+	},
+	{
+		"lat" : "41.9680062",
+		"lon" : "22.7799853",
+		"name" : "Коста груп",
+		"category" : "supermarket"
+	},
+	{
+		"lat" : "41.9693552",
+		"lon" : "22.7780747",
+		"name" : "Ринџи компани",
+		"category" : "hardware"
+	},
+	{
+		"lat" : "41.9709544",
+		"lon" : "22.7614669",
+		"name" : "Луна гив пекара",
+		"category" : "bakery"
+	},
+	{
+		"lat" : "42.0037831",
+		"lon" : "21.388124",
+		"name" : "KTM",
+		"category" : "bicycle"
+	},
+	{
+		"lat" : "41.7475963",
+		"lon" : "21.7680734",
+		"name" : "Енмон",
+		"category" : "bathroom_furnishing",
+		"phone" : "043243328",
+		"website" : "http://www.enmon.com.mk",
+		"addr:street" : "Skopski pat, Veles 14000",
+		"opening_hours" : "Mo-Sa 08:00-20:00"
+	},
+	{
+		"lat" : "42.0782075",
+		"lon" : "21.0501969",
+		"name" : "Автосервис Раде",
+		"category" : "car_repair"
+	},
+	{
+		"lat" : "41.9895094",
+		"lon" : "21.4190732",
+		"name" : "Mini Market Non-Stop",
+		"category" : "convenience"
+	},
+	{
+		"lat" : "41.1783823",
+		"lon" : "20.6761993",
+		"name" : "Ramstore",
+		"category" : "convenience"
+	},
+	{
+		"lat" : "41.1764165",
+		"lon" : "20.6725856",
+		"name" : "Бабуш",
+		"category" : "convenience"
+	},
+	{
+		"lat" : "42.0560288",
+		"lon" : "21.4512558",
+		"name" : "Кам Маркет",
+		"category" : "supermarket",
+		"addr:street" : "Радишанска"
+	},
+	{
+		"lat" : "42.0169931",
+		"lon" : "21.443321",
+		"name" : "Три Трговца",
+		"category" : "convenience",
+		"addr:street" : "Ќемал Сејфула"
+	},
+	{
+		"lat" : "42.0448493",
+		"lon" : "21.3577959",
+		"name" : "Dan Dar",
+		"category" : "hardware"
+	},
+	{
+		"lat" : "42.0094924",
+		"lon" : "21.4443733",
+		"name" : "Auto Lider",
+		"category" : "car_parts",
+		"addr:street" : "Булевар Цветан Димов"
+	},
+	{
+		"lat" : "42.0042015",
+		"lon" : "21.5046482",
+		"name" : "Дали-Пом",
+		"category" : "convenience"
+	},
+	{
+		"lat" : "42.0036376",
+		"lon" : "21.5043707",
+		"name" : "Стокомак",
+		"category" : "convenience"
+	},
+	{
+		"lat" : "41.9871951",
+		"lon" : "21.477241",
+		"name" : "Венера Б",
+		"category" : "hairdresser",
+		"email" : "bmitrovska@yahoo.com",
+		"phone" : "+38922432215",
+		"addr:street" : "Булевар АСНОМ",
+		"opening_hours" : "Mo, We-Sa 12:00-20:00; Su 10:00-16:00"
+	},
+	{
+		"lat" : "42.0016383",
+		"lon" : "21.4373116",
+		"name" : "Турска баклава „Ангела Меркел“",
+		"category" : "jewelry"
+	},
+	{
+		"lat" : "41.1150364",
+		"lon" : "20.8002332",
+		"name" : "Susan Sju Shop",
+		"category" : "jewelry",
+		"phone" : "+389 78 665 668",
+		"addr:street" : "Климент Охридски"
+	},
+	{
+		"lat" : "42.003998",
+		"lon" : "21.3717776",
+		"name" : "Krofnite od Hrom",
+		"category" : "bakery"
+	},
+	{
+		"lat" : "41.990063",
+		"lon" : "21.4176645",
+		"name" : "XMKD",
+		"category" : "sports"
+	},
+	{
+		"lat" : "41.9984456",
+		"lon" : "21.4757273",
+		"name" : "Stokomak Magacin",
+		"category" : "supermarket"
+	},
+	{
+		"lat" : "41.3503406",
+		"lon" : "21.5490394",
+		"name" : "Футура",
+		"category" : "supermarket"
+	},
+	{
+		"lat" : "41.4302406",
+		"lon" : "22.647951",
+		"name" : "Kis 2",
+		"category" : "supermarket"
+	},
+	{
+		"lat" : "41.4384422",
+		"lon" : "22.6294437",
+		"name" : "Kit-go market",
+		"category" : "supermarket"
+	},
+	{
+		"lat" : "41.4463225",
+		"lon" : "22.6528305",
+		"name" : "Roko 2000",
+		"category" : "supermarket"
+	},
+	{
+		"lat" : "41.445272",
+		"lon" : "22.6408136",
+		"name" : "Зендолино 8 - Струмица",
+		"category" : "supermarket",
+		"addr:street" : "Ленинова"
+	},
+	{
+		"lat" : "41.3384652",
+		"lon" : "21.5400419",
+		"name" : "Aliansa",
+		"category" : "supermarket"
+	},
+	{
+		"lat" : "41.4422023",
+		"lon" : "22.6335517",
+		"name" : "Kis 4",
+		"category" : "supermarket"
+	},
+	{
+		"lat" : "41.4364848",
+		"lon" : "22.6426896",
+		"name" : "Zdavec strumica",
+		"category" : "supermarket"
+	},
+	{
+		"lat" : "41.4317489",
+		"lon" : "22.6442899",
+		"name" : "Markator magacin",
+		"category" : "supermarket"
+	},
+	{
+		"lat" : "41.4335847",
+		"lon" : "22.635881",
+		"name" : "Djuli 2",
+		"category" : "supermarket"
+	},
+	{
+		"lat" : "41.9948528",
+		"lon" : "21.4283201",
+		"name" : "Coffee & Friends - Палома Бјанка",
+		"category" : "coffee",
+		"website" : "https://www.facebook.com/coffeeandfriends.mk/",
+		"addr:street" : "Даме Груев",
+		"opening_hours" : "09:00-20:00"
+	},
+	{
+		"lat" : "41.751114",
+		"lon" : "22.1799554",
+		"name" : "KIT-GO Магацин",
+		"category" : "supermarket"
+	},
+	{
+		"lat" : "41.7569135",
+		"lon" : "22.1761927",
+		"name" : "Хит Маркет Магацин",
+		"category" : "supermarket"
+	},
+	{
+		"lat" : "41.7463008",
+		"lon" : "22.1910694",
+		"name" : "Пакет Маркет 27",
+		"category" : "supermarket"
+	},
+	{
+		"lat" : "41.7813247",
+		"lon" : "22.2036689",
+		"name" : "Set union Karaorman",
+		"category" : "supermarket"
+	},
+	{
+		"lat" : "41.7567982",
+		"lon" : "22.1752605",
+		"name" : "Set Union Магацин Пакет Маркет",
+		"category" : "supermarket"
+	},
+	{
+		"lat" : "41.632333",
+		"lon" : "22.4745101",
+		"name" : "Paket market 30",
+		"category" : "supermarket"
+	},
+	{
+		"lat" : "41.4385011",
+		"lon" : "22.6444715",
+		"name" : "Kisi market 1",
+		"category" : "supermarket"
+	},
+	{
+		"lat" : "41.441659",
+		"lon" : "22.6513453",
+		"name" : "Kisi 5 market",
+		"category" : "supermarket"
+	},
+	{
+		"lat" : "41.7472866",
+		"lon" : "22.1864366",
+		"name" : "Текома Магацин",
+		"category" : "supermarket"
+	},
+	{
+		"lat" : "41.7527018",
+		"lon" : "22.206591",
+		"name" : "Trakom Market Duzlak Stip",
+		"category" : "supermarket"
+	},
+	{
+		"lat" : "41.4324702",
+		"lon" : "22.6519392",
+		"name" : "Zdravec",
+		"category" : "supermarket"
+	},
+	{
+		"lat" : "41.4401622",
+		"lon" : "22.6595336",
+		"name" : "Koda Magacin",
+		"category" : "supermarket"
+	},
+	{
+		"lat" : "41.9964763",
+		"lon" : "21.4276669",
+		"name" : "Тинекс центар 2",
+		"category" : "supermarket",
+		"opening_hours" : "Mo-Sa 08:00-23:00; Su 08:00-20:00"
+	},
+	{
+		"lat" : "41.9945784",
+		"lon" : "21.4338471",
+		"name" : "Anhoch PC Market",
+		"category" : "computer"
+	},
+	{
+		"lat" : "41.9988802",
+		"lon" : "21.4204422",
+		"name" : "Anhoch",
+		"category" : "computer"
+	},
+	{
+		"lat" : "41.9850942",
+		"lon" : "21.4655471",
+		"name" : "Anhoch",
+		"category" : "computer"
+	},
+	{
+		"lat" : "41.9931131",
+		"lon" : "21.4419882",
+		"name" : "Anhoch",
+		"category" : "computer"
+	},
+	{
+		"lat" : "41.9920798",
+		"lon" : "21.4269193",
+		"name" : "Anhoch",
+		"category" : "computer"
+	},
+	{
+		"lat" : "41.9929699",
+		"lon" : "21.429947",
+		"name" : "Peko",
+		"category" : "shoes"
+	},
+	{
+		"lat" : "41.9947556",
+		"lon" : "21.4276102",
+		"name" : "Гранап",
+		"category" : "convenience"
+	},
+	{
+		"lat" : "41.9966256",
+		"lon" : "21.4804101",
+		"name" : "ТИДЕА",
+		"category" : "hardware",
+		"addr:street" : "Перо Наков",
+		"opening_hours" : "Mo-Sa 08:00-21:00"
+	},
+	{
+		"lat" : "42.0236333",
+		"lon" : "21.4371996",
+		"name" : "Кипер Маркет",
+		"category" : "supermarket",
+		"addr:street" : "Боро Менков"
+	},
+	{
+		"lat" : "42.0239903",
+		"lon" : "21.4371972",
+		"name" : "Стоко Мак",
+		"category" : "supermarket",
+		"addr:street" : "Боро Менков"
+	},
+	{
+		"lat" : "41.9428516",
+		"lon" : "20.8711999",
+		"name" : "Liza market",
+		"category" : "convenience"
+	},
+	{
+		"lat" : "42.0014595",
+		"lon" : "21.4220363",
+		"name" : "Time to Travel",
+		"category" : "travel_agency",
+		"email" : "office@timetotravel.com.mk",
+		"addr:city" : "Cкoпje",
+		"addr:street" : "Орце Николов",
+		"opening_hours" : "Mo-Fr 09:00-17:00; Sa 10:00-14:00"
+	},
+	{
+		"lat" : "41.9949944",
+		"lon" : "21.3945748",
+		"name" : "Stokomak",
+		"category" : "convenience"
+	},
+	{
+		"lat" : "42.0060976",
+		"lon" : "21.3750902",
+		"name" : "Лепа и Русе",
+		"category" : "bakery"
+	},
+	{
+		"lat" : "42.0032317",
+		"lon" : "21.4081008",
+		"name" : "Mozzart Bet",
+		"category" : "bookmaker",
+		"website" : "https://www.mozzartbet.mk/"
+	},
+	{
+		"lat" : "42.0033276",
+		"lon" : "21.4079145",
+		"name" : "Еквус",
+		"category" : "stationery",
+		"addr:city" : "Cкoпje",
+		"addr:street" : "Веселин Маслеша"
+	},
+	{
+		"lat" : "41.9945528",
+		"lon" : "21.388728",
+		"name" : "Mak Reform Market",
+		"category" : "convenience"
+	},
+	{
+		"lat" : "42.0021597",
+		"lon" : "21.4236864",
+		"name" : "X-Print",
+		"category" : "copyshop",
+		"email" : "xprint@on.net.mk",
+		"phone" : "+38970359903",
+		"website" : "http://www.xprint.com.mk",
+		"addr:city" : "Cкoпje",
+		"addr:street" : "Булевар Илинден"
+	},
+	{
+		"lat" : "42.003419",
+		"lon" : "21.4071627",
+		"name" : "Стерна",
+		"category" : "copyshop"
+	},
+	{
+		"lat" : "42.0061636",
+		"lon" : "21.4109984",
+		"name" : "Herbalife",
+		"category" : "yes"
+	},
+	{
+		"lat" : "42.1924425",
+		"lon" : "22.3109725",
+		"name" : "КАМ Маркет",
+		"category" : "supermarket",
+		"website" : "http://kam.com.mk",
+		"addr:street" : "Свети Јоаким Осоговски",
+		"opening_hours" : "Mo-Su 09:00-22:00"
+	},
+	{
+		"lat" : "42.1361723",
+		"lon" : "21.7188434",
+		"name" : "dm",
+		"category" : "chemist"
+	},
+	{
+		"lat" : "42.1372145",
+		"lon" : "21.7189695",
+		"name" : "Igor Dodevski",
+		"category" : "hairdresser"
+	},
+	{
+		"lat" : "42.1344378",
+		"lon" : "21.719337",
+		"name" : "LC Waikiki",
+		"category" : "clothes"
+	},
+	{
+		"lat" : "42.0032222",
+		"lon" : "21.4074485",
+		"name" : "Агротехна",
+		"category" : "houseware"
+	},
+	{
+		"lat" : "41.9971292",
+		"lon" : "21.4246696",
+		"name" : "Alkoteka",
+		"category" : "alcohol"
+	},
+	{
+		"lat" : "42.0058308",
+		"lon" : "21.3818221",
+		"name" : "Ралекс Маркет",
+		"category" : "convenience",
+		"website" : "https://www.facebook.com/raleksmarketi/"
+	},
+	{
+		"lat" : "42.005843",
+		"lon" : "21.3815901",
+		"name" : "Oki",
+		"category" : "hairdresser"
+	},
+	{
+		"lat" : "42.0038171",
+		"lon" : "21.4155593",
+		"name" : "Koki",
+		"category" : "convenience"
+	},
+	{
+		"lat" : "42.0062031",
+		"lon" : "21.4148494",
+		"name" : "Slast",
+		"category" : "bakery"
+	},
+	{
+		"lat" : "41.9879358",
+		"lon" : "21.4558769",
+		"name" : "Ramstore",
+		"category" : "supermarket"
+	},
+	{
+		"lat" : "41.9223711",
+		"lon" : "20.9153603",
+		"name" : "Кипер",
+		"category" : "supermarket",
+		"addr:street" : "102",
+		"opening_hours" : "Mo-Sa 07:00-22:00"
+	},
+	{
+		"lat" : "41.9997597",
+		"lon" : "21.4128744",
+		"name" : "Office Plus",
+		"category" : "stationery",
+		"phone" : "+38923091047",
+		"website" : "http://www.officeplus.com.mk/",
+		"addr:city" : "Cкoпje",
+		"addr:street" : "Франклин Рузвелт",
+		"opening_hours" : "Mo-Fr 09:00-17:00; Sa 09:00-14:00"
+	},
+	{
+		"lat" : "42.0079963",
+		"lon" : "20.979332",
+		"name" : "DV Kompani Store",
+		"category" : "gift",
+		"website" : "http://www.dvkompani.eu.mk",
+		"addr:street" : "120",
+		"opening_hours" : "Mo-Su 09:00-19:00"
+	},
+	{
+		"lat" : "41.9669199",
+		"lon" : "22.775414",
+		"name" : "Evropa",
+		"category" : "convenience"
+	},
+	{
+		"lat" : "41.9654181",
+		"lon" : "22.7713264",
+		"name" : "Кит-Го Супермаркет",
+		"category" : "supermarket"
+	},
+	{
+		"lat" : "41.1193153",
+		"lon" : "20.8025995",
+		"name" : "KCD Ohrid",
+		"category" : "computer",
+		"email" : "kc_darko@t-home.mk",
+		"phone" : "+38978277700",
+		"addr:street" : "bul. Makedonski Prosvetiteli",
+		"opening_hours" : "Mo-Su 10:30-21:30"
+	},
+	{
+		"lat" : "41.4350053",
+		"lon" : "22.6513298",
+		"name" : "Autotim strumica",
+		"category" : "car",
+		"email" : "autotimmk@gmail.com",
+		"phone" : "078344191",
+		"addr:street" : "Климент Охридски"
+	},
+	{
+		"lat" : "41.9668777",
+		"lon" : "22.7743844",
+		"name" : "Ангела",
+		"category" : "bakery"
+	},
+	{
+		"lat" : "41.9672591",
+		"lon" : "22.7745815",
+		"name" : "Mozzart Bet",
+		"category" : "bookmaker"
+	},
+	{
+		"lat" : "41.9948659",
+		"lon" : "21.4018538",
+		"name" : "МОБИКЛИНИК ПЛУС СЕРВИС ЗА МОБИЛНИ И КОМПЈУТЕРИ",
+		"category" : "mobile_phone",
+		"email" : "mobiklinikplus@gmail.com",
+		"phone" : "0038976677277",
+		"website" : "https://www.apple.com/",
+		"addr:street" : "Миле Поп Јорданов",
+		"opening_hours" : "24/7"
+	},
+	{
+		"lat" : "41.9991961",
+		"lon" : "20.9583245",
+		"name" : "БЕРО - ЖАМБО",
+		"category" : "supermarket"
+	},
+	{
+		"lat" : "41.9990785",
+		"lon" : "20.9589237",
+		"name" : "JYSK",
+		"category" : "supermarket"
+	},
+	{
+		"lat" : "41.9650831",
+		"lon" : "22.7716903",
+		"name" : "Валпром",
+		"category" : "appliance",
+		"phone" : "+38933410525;+38933413525;+38933412325",
+		"addr:city" : "Делчево",
+		"addr:street" : "Маршал Тито"
+	},
+	{
+		"lat" : "41.9651229",
+		"lon" : "22.7715411",
+		"name" : "Цвеќарница Нарцис",
+		"category" : "florist",
+		"addr:city" : "Делчево",
+		"addr:street" : "Маршал Тито"
+	},
+	{
+		"lat" : "41.9651515",
+		"lon" : "22.7714361",
+		"name" : "Enita",
+		"category" : "clothes"
+	},
+	{
+		"lat" : "41.9651622",
+		"lon" : "22.7713345",
+		"name" : "Avto delovi",
+		"category" : "car_parts"
+	},
+	{
+		"lat" : "41.9651872",
+		"lon" : "22.7712543",
+		"name" : "Цвеќара Камелија",
+		"category" : "florist"
+	},
+	{
+		"lat" : "41.9652109",
+		"lon" : "22.7711731",
+		"name" : "Златара",
+		"category" : "jewelry"
+	},
+	{
+		"lat" : "41.9648869",
+		"lon" : "22.7721168",
+		"name" : "Извор Маркет",
+		"category" : "supermarket"
+	},
+	{
+		"lat" : "41.96422",
+		"lon" : "22.7727191",
+		"name" : "Жито Маркет",
+		"category" : "supermarket"
+	},
+	{
+		"lat" : "42.008972",
+		"lon" : "21.385472",
+		"name" : "Лина",
+		"category" : "hairdresser"
+	},
+	{
+		"lat" : "42.0082528",
+		"lon" : "21.3844004",
+		"name" : "Солид",
+		"category" : "car_parts",
+		"website" : "http://www.solid.com.mk/"
+	},
+	{
+		"lat" : "42.0079128",
+		"lon" : "21.3842555",
+		"name" : "Гранап",
+		"category" : "supermarket",
+		"website" : "https://www.facebook.com/GranapMarket/"
+	},
+	{
+		"lat" : "42.0060746",
+		"lon" : "21.3814917",
+		"name" : "Душица",
+		"category" : "hairdresser"
+	},
+	{
+		"lat" : "42.0066913",
+		"lon" : "21.4021041",
+		"name" : "Kozle",
+		"category" : "bakery"
+	},
+	{
+		"lat" : "42.0066404",
+		"lon" : "21.4020918",
+		"name" : "Tasko",
+		"category" : "hairdresser"
+	},
+	{
+		"lat" : "42.0029128",
+		"lon" : "21.4006019",
+		"name" : "Фрути Фреш",
+		"category" : "greengrocer"
+	},
+	{
+		"lat" : "42.0240392",
+		"lon" : "21.3532671",
+		"name" : "Грозд",
+		"category" : "greengrocer"
+	},
+	{
+		"lat" : "42.0210652",
+		"lon" : "21.3515617",
+		"name" : "Воденица",
+		"category" : "bakery",
+		"addr:street" : "Лука Геров",
+		"opening_hours" : "Mo-Su 10:00-19:00"
+	},
+	{
+		"lat" : "42.0245187",
+		"lon" : "21.350659",
+		"name" : "Кам",
+		"category" : "supermarket",
+		"phone" : "+38923171747",
+		"website" : "http://kam.com.mk/",
+		"addr:street" : "Волковска"
+	},
+	{
+		"lat" : "41.9956707",
+		"lon" : "21.4310025",
+		"name" : "Култура",
+		"category" : "books",
+		"addr:street" : "Плоштад Македонија"
+	},
+	{
+		"lat" : "42.0071667",
+		"lon" : "21.3719748",
+		"name" : "DIEM-GP",
+		"category" : "convenience"
+	},
+	{
+		"lat" : "42.0071939",
+		"lon" : "21.371862",
+		"name" : "Алберто",
+		"category" : "convenience"
+	},
+	{
+		"lat" : "42.0072166",
+		"lon" : "21.3717827",
+		"name" : "Volgano",
+		"category" : "clothes"
+	},
+	{
+		"lat" : "42.0074885",
+		"lon" : "21.3713009",
+		"name" : "Mozzart Bet",
+		"category" : "bookmaker"
+	},
+	{
+		"lat" : "42.0075655",
+		"lon" : "21.3704929",
+		"name" : "Reptil",
+		"category" : "supermarket"
+	},
+	{
+		"lat" : "42.0078351",
+		"lon" : "21.369506",
+		"name" : "Beleza",
+		"category" : "clothes"
+	},
+	{
+		"lat" : "42.0078555",
+		"lon" : "21.36944",
+		"name" : "Queen Accessories",
+		"category" : "clothes"
+	},
+	{
+		"lat" : "42.0074802",
+		"lon" : "21.3685181",
+		"name" : "Joli Komerc",
+		"category" : "clothes"
+	},
+	{
+		"lat" : "42.0073933",
+		"lon" : "21.3684775",
+		"name" : "Mago Fashion",
+		"category" : "clothes"
+	},
+	{
+		"lat" : "42.007126",
+		"lon" : "21.3683514",
+		"name" : "Фенси Кидс",
+		"category" : "clothes"
+	},
+	{
+		"lat" : "42.0069145",
+		"lon" : "21.3682468",
+		"name" : "Јокер",
+		"category" : "clothes"
+	},
+	{
+		"lat" : "41.3420174",
+		"lon" : "21.5564813",
+		"name" : "Теписи Мардини Картал Прилеп",
+		"category" : "furniture",
+		"email" : "mroceski@yahoo.com",
+		"phone" : "+38970429061",
+		"website" : "https://www.facebook.com/mardinikartalprilep/",
+		"addr:street" : "Александар Македонски",
+		"opening_hours" : "Mo-Sa 09:00-20:30"
+	},
+	{
+		"lat" : "42.1453554",
+		"lon" : "21.7245093",
+		"name" : "Aco Avto Centar",
+		"category" : "car_repair",
+		"email" : "acoavtocentar@yahoo.com",
+		"phone" : "+38931614446",
+		"addr:street" : "Доне Божинов",
+		"opening_hours" : "Mo-Fr 09:00-17:00; Sa 09:00-15:00"
+	},
+	{
+		"lat" : "42.0235026",
+		"lon" : "21.3537042",
+		"name" : "Кала",
+		"category" : "convenience"
+	},
+	{
+		"lat" : "41.9736612",
+		"lon" : "21.4618735",
+		"name" : "Top Metal dooel",
+		"category" : "outdoor",
+		"phone" : "+38925211801",
+		"addr:street" : "Булевар Србија",
+		"opening_hours" : "Mo-Fr 08:00-16:00; Sa 00:00-24:00"
+	},
+	{
+		"lat" : "41.3456164",
+		"lon" : "21.555764",
+		"name" : "Астибо",
+		"category" : "clothes",
+		"addr:street" : "Карпош"
+	},
+	{
+		"lat" : "41.3447506",
+		"lon" : "21.5519021",
+		"name" : "Линеа",
+		"category" : "clothes"
+	},
+	{
+		"lat" : "42.0043208",
+		"lon" : "21.3732237",
+		"name" : "Kam market",
+		"category" : "bakery",
+		"addr:street" : "Војвода Васил Чакаларов"
+	},
+	{
+		"lat" : "42.0045506",
+		"lon" : "21.391946",
+		"name" : "Навигаре",
+		"category" : "clothes",
+		"email" : "promodask@gmail.com",
+		"phone" : "+38970254982",
+		"addr:street" : "Љубљанска",
+		"opening_hours" : "Mo-Su 10:00-22:00"
+	},
+	{
+		"lat" : "41.9966514",
+		"lon" : "20.9629552",
+		"name" : "ARB Komerc",
+		"category" : "hardware",
+		"email" : "shitje@arbkomerc.com",
+		"phone" : "+38944351490",
+		"website" : "http://arbkomerc.com",
+		"addr:street" : "Вон- Вардарска"
+	},
+	{
+		"lat" : "41.1486017",
+		"lon" : "22.4985083",
+		"name" : "Supermarket S-53",
+		"category" : "supermarket"
+	},
+	{
+		"lat" : "41.142172",
+		"lon" : "22.4982197",
+		"name" : "Bike center",
+		"category" : "bicycle",
+		"website" : "http://facebook.com/BikeCenterGevgelija",
+		"addr:street" : "Radovan Kovacevic"
+	},
+	{
+		"lat" : "41.7393286",
+		"lon" : "22.1921338",
+		"name" : "Тер Маркет",
+		"category" : "supermarket",
+		"addr:street" : "Промаја",
+		"opening_hours" : "Mo-Sa 07:30-21:00; Su 08:00-15:00"
+	},
+	{
+		"lat" : "41.9727007",
+		"lon" : "21.4558615",
+		"name" : "Новус Траде",
+		"category" : "car_repair"
+	},
+	{
+		"lat" : "41.9727548",
+		"lon" : "21.4563503",
+		"name" : "Монбат Макбат",
+		"category" : "car_repair"
+	},
+	{
+		"lat" : "41.9732829",
+		"lon" : "21.4572562",
+		"name" : "Европа Гуми",
+		"category" : "tyres",
+		"addr:street" : "Борис Трајковски"
+	},
+	{
+		"lat" : "41.861467",
+		"lon" : "20.8912104",
+		"name" : "Stadiumi i futbollit “Global Arena”",
+		"category" : "sports"
+	},
+	{
+		"lat" : "42.0031366",
+		"lon" : "21.4177879",
+		"name" : "Вардар Мебел",
+		"category" : "furniture"
+	},
+	{
+		"lat" : "42.0065872",
+		"lon" : "21.393054",
+		"name" : "Vero",
+		"category" : "supermarket",
+		"addr:street" : "Манапо"
+	},
+	{
+		"lat" : "41.7448123",
+		"lon" : "21.7721311",
+		"name" : "Мебел Ви",
+		"category" : "furniture"
+	},
+	{
+		"lat" : "41.7471142",
+		"lon" : "21.7692883",
+		"name" : "Дине",
+		"category" : "car_repair"
+	},
+	{
+		"lat" : "41.9942847",
+		"lon" : "21.4344311",
+		"name" : "Фокабо Фешн",
+		"category" : "clothes"
+	},
+	{
+		"lat" : "42.0002255",
+		"lon" : "21.4030546",
+		"name" : "ВИНТ дооел",
+		"category" : "lighting",
+		"email" : "info@vint.com.mk",
+		"phone" : "+389 2 2440 162",
+		"website" : "http://vint.com.mk",
+		"addr:city" : "Cкoпje",
+		"addr:street" : "Варшавска",
+		"opening_hours" : "Mo-Fr 08:00-19:00"
+	},
+	{
+		"lat" : "41.1124067",
+		"lon" : "20.7973988",
+		"name" : "Cultura 365 Tour Agency and cultural Centre",
+		"category" : "travel_agency",
+		"phone" : "0038970507424"
+	},
+	{
+		"lat" : "42.0034483",
+		"lon" : "21.4607111",
+		"name" : "Тони Тип-Топ",
+		"category" : "tyres",
+		"addr:street" : "16 Македонска Бригада"
+	},
+	{
+		"lat" : "42.0034245",
+		"lon" : "21.4607538",
+		"name" : "Млечен Ресторан Исидора-Даниел",
+		"category" : "bakery"
+	},
+	{
+		"lat" : "41.9781016",
+		"lon" : "21.4423887",
+		"name" : "Бурекџилница Фортуна",
+		"category" : "bakery"
+	},
+	{
+		"lat" : "41.4943704",
+		"lon" : "22.0915153",
+		"name" : "Бовин винарија",
+		"category" : "wine",
+		"email" : "bovin@t.mk",
+		"phone" : "043365322",
+		"website" : "http://www.bovin.com.mk",
+		"addr:street" : "Индустриска",
+		"opening_hours" : "Mo-Fr 08:00-16:00"
+	},
+	{
+		"lat" : "42.1336226",
+		"lon" : "21.7280094",
+		"name" : "Kjosar",
+		"category" : "supermarket"
+	},
+	{
+		"lat" : "42.1328773",
+		"lon" : "21.7283162",
+		"name" : "Elida",
+		"category" : "supermarket"
+	},
+	{
+		"lat" : "42.1328075",
+		"lon" : "21.7246883",
+		"name" : "Fresh",
+		"category" : "bakery"
+	},
+	{
+		"lat" : "42.1326278",
+		"lon" : "21.7247878",
+		"name" : "City Bakery",
+		"category" : "bakery"
+	},
+	{
+		"lat" : "41.8005071",
+		"lon" : "21.3165363",
+		"name" : "They do not sell beer here!",
+		"category" : "kiosk"
+	},
+	{
+		"lat" : "41.0603686",
+		"lon" : "20.8031345",
+		"name" : "Top Market",
+		"category" : "yes"
+	},
+	{
+		"lat" : "41.5077833",
+		"lon" : "20.9586359",
+		"name" : "ЖИ-СИ",
+		"category" : "clothes",
+		"email" : "tina19702@live.com",
+		"addr:city" : "Kicevo",
+		"addr:street" : "Рудничка",
+		"opening_hours" : "Mo-Su 10:00-20:00"
+	},
+	{
+		"lat" : "42.1360801",
+		"lon" : "21.7278725",
+		"name" : "Чоче",
+		"category" : "car_repair"
+	},
+	{
+		"lat" : "41.9371081",
+		"lon" : "21.6177506",
+		"name" : "Маркет Жито Леб",
+		"category" : "variety_store"
+	},
+	{
+		"lat" : "41.0886134",
+		"lon" : "21.0141309",
+		"name" : "Avtodelovi",
+		"category" : "car_parts"
+	},
+	{
+		"lat" : "41.0852468",
+		"lon" : "21.0134783",
+		"name" : "Нов Пазар",
+		"category" : "supermarket"
+	},
+	{
+		"lat" : "41.0852775",
+		"lon" : "21.0133908",
+		"name" : "Мицале",
+		"category" : "supermarket"
+	},
+	{
+		"lat" : "41.0886144",
+		"lon" : "21.0137403",
+		"name" : "Продавница за автоделови",
+		"category" : "car_parts"
+	},
+	{
+		"lat" : "41.0882481",
+		"lon" : "21.0116137",
+		"name" : "Југо автоделови",
+		"category" : "car_parts"
+	},
+	{
+		"lat" : "41.0906153",
+		"lon" : "21.0135953",
+		"name" : "Свислион продавнива",
+		"category" : "supermarket"
+	},
+	{
+		"lat" : "41.0910886",
+		"lon" : "21.0132324",
+		"name" : "Сани златара",
+		"category" : "jewelry"
+	},
+	{
+		"lat" : "41.0908908",
+		"lon" : "21.0132578",
+		"name" : "Мини зеленчук и овошје",
+		"category" : "greengrocer"
+	},
+	{
+		"lat" : "41.0895488",
+		"lon" : "21.0119661",
+		"name" : "Слаткарница",
+		"category" : "confectionery"
+	},
+	{
+		"lat" : "41.0891716",
+		"lon" : "21.0115591",
+		"name" : "Сагар",
+		"category" : "confectionery"
+	},
+	{
+		"lat" : "41.0890885",
+		"lon" : "21.0114252",
+		"name" : "Стар пазар",
+		"category" : "supermarket"
+	},
+	{
+		"lat" : "41.7914741",
+		"lon" : "20.9146988",
+		"name" : "Setek",
+		"category" : "computer",
+		"email" : "setec.gostivar@setec.com.mk",
+		"phone" : "042 353 800",
+		"website" : "http://setec.mk/",
+		"addr:city" : "Гостивар",
+		"addr:street" : "Беличица",
+		"opening_hours" : "Mo-Fr 09:00-21:00; Sa 09:00-20:00"
+	},
+	{
+		"lat" : "41.1204424",
+		"lon" : "20.7956761",
+		"name" : "Super market",
+		"category" : "department_store",
+		"addr:street" : "Булевар Туристичка"
+	},
+	{
+		"lat" : "41.0320861",
+		"lon" : "21.3228577",
+		"name" : "Беком",
+		"category" : "supermarket"
+	},
+	{
+		"lat" : "42.1333768",
+		"lon" : "21.7125711",
+		"name" : "Musli Market",
+		"category" : "convenience"
+	},
+	{
+		"lat" : "42.0055289",
+		"lon" : "20.973456",
+		"name" : "ЕКСКЛУЗИВ",
+		"category" : "gift",
+		"email" : "bela_mia2004@yahoo.com",
+		"phone" : "0038144350707",
+		"addr:street" : "Димо Гавроски Кара",
+		"opening_hours" : "Mo-Sa 09:00-20:00"
+	},
+	{
+		"lat" : "42.1334698",
+		"lon" : "21.7123733",
+		"name" : "Coop Pronto",
+		"category" : "jewelry"
+	},
+	{
+		"lat" : "41.9769948",
+		"lon" : "21.4636482",
+		"name" : "Sport Vision Nike Outlet",
+		"category" : "clothes"
+	},
+	{
+		"lat" : "41.9768894",
+		"lon" : "21.4635558",
+		"name" : "Sport Vision Extra Sports Outlet",
+		"category" : "clothes"
+	},
+	{
+		"lat" : "41.5084407",
+		"lon" : "20.9521889",
+		"name" : "Neptun",
+		"category" : "electronics"
+	},
+	{
+		"lat" : "41.5068524",
+		"lon" : "21.2165395",
+		"name" : "Месарница Мармес Деликатес",
+		"category" : "butcher"
+	},
+	{
+		"lat" : "42.0083036",
+		"lon" : "20.9699901",
+		"name" : "Sharr Travel",
+		"category" : "travel_agency",
+		"email" : "sharr.travel@hotmail.com",
+		"website" : "sharrtravel-mk.com",
+		"addr:city" : "Tetovo",
+		"addr:street" : "Илинденска",
+		"opening_hours" : "Mo-Sa 08:00-18:00"
+	},
+	{
+		"lat" : "41.1770395",
+		"lon" : "20.6725904",
+		"name" : "KAM Stores",
+		"category" : "supermarket",
+		"website" : "http://kam.com.mk"
+	},
+	{
+		"lat" : "41.9947174",
+		"lon" : "21.4328019",
+		"name" : "Bakal bakery Cafe",
+		"category" : "bakery",
+		"opening_hours" : "Mo-Sa 06:00-22:00"
+	},
+	{
+		"lat" : "41.9817349",
+		"lon" : "21.4439477",
+		"name" : "KAM",
+		"category" : "supermarket"
+	},
+	{
+		"lat" : "41.355238",
+		"lon" : "20.6098044",
+		"name" : "Mapket",
+		"category" : "convenience"
+	},
+	{
+		"lat" : "42.0512339",
+		"lon" : "21.4487423",
+		"name" : "Ljubavi",
+		"category" : "confectionery"
+	},
+	{
+		"lat" : "41.9990831",
+		"lon" : "21.4220152",
+		"name" : "Tinex",
+		"category" : "supermarket"
+	},
+	{
+		"lat" : "41.0265496",
+		"lon" : "20.8163659",
+		"name" : "sklep spożywczy",
+		"category" : "alcohol"
+	},
+	{
+		"lat" : "41.0326125",
+		"lon" : "21.3367627",
+		"name" : "Лиска",
+		"category" : "clothes"
+	},
+	{
+		"lat" : "41.0320028",
+		"lon" : "21.337976",
+		"name" : "No1 Digital Photo Lab",
+		"category" : "photo"
+	},
+	{
+		"lat" : "41.993198",
+		"lon" : "21.4159259",
+		"name" : "Gramofon Vinyl Macedonia Makedonija",
+		"category" : "supermarket",
+		"addr:city" : "Cкoпje",
+		"addr:street" : "Васил Ѓоргов",
+		"opening_hours" : "Mo-Sa 12:00-20:00"
+	},
+	{
+		"lat" : "42.0168566",
+		"lon" : "20.9778769",
+		"name" : "ЗЕЦ Електроникс Тетово",
+		"category" : "supermarket",
+		"addr:city" : "Tetovo",
+		"addr:street" : "Мирче Ацев",
+		"opening_hours" : "Mo-Fr 09:00-17:00"
+	},
+	{
+		"lat" : "42.0046961",
+		"lon" : "21.391221",
+		"name" : "Ај Стаил",
+		"category" : "electronics",
+		"email" : "info@istyle.mk",
+		"phone" : "+38972226637",
+		"website" : "https://www.istyle.mk/",
+		"addr:street" : "Љубљанска",
+		"opening_hours" : "Mo-Su 10:00-22:00"
+	},
+	{
+		"lat" : "41.3444464",
+		"lon" : "21.5505245",
+		"name" : "Technomarket",
+		"category" : "electronics"
+	},
+	{
+		"lat" : "41.3459652",
+		"lon" : "21.5553679",
+		"name" : "Lisca",
+		"category" : "clothes"
+	},
+	{
+		"lat" : "41.3444321",
+		"lon" : "21.5543877",
+		"name" : "Sport Reality",
+		"category" : "clothes"
+	},
+	{
+		"lat" : "41.3447794",
+		"lon" : "21.5542259",
+		"name" : "Boutique Tara",
+		"category" : "clothes"
+	},
+	{
+		"lat" : "41.3460834",
+		"lon" : "21.5552789",
+		"name" : "Lukas Shoes",
+		"category" : "shoes"
+	},
+	{
+		"lat" : "41.3448602",
+		"lon" : "21.55419",
+		"name" : "Слатка",
+		"category" : "confectionery"
+	},
+	{
+		"lat" : "41.3460016",
+		"lon" : "21.5553351",
+		"name" : "Венус",
+		"category" : "clothes"
+	},
+	{
+		"lat" : "42.1932292",
+		"lon" : "22.3133431",
+		"name" : "Боде",
+		"category" : "supermarket",
+		"addr:city" : "Крива Паланка",
+		"addr:street" : "Свети Јоаким Осоговски"
+	},
+	{
+		"lat" : "42.2040231",
+		"lon" : "22.3349584",
+		"name" : "Карнем",
+		"category" : "butcher",
+		"addr:city" : "Kriva Palanka",
+		"addr:street" : "Свети Јоаким Осоговски"
+	},
+	{
+		"lat" : "42.2066164",
+		"lon" : "22.3372621",
+		"name" : "Фото Студио Видео Рама",
+		"category" : "photo",
+		"addr:city" : "Kriva Palanka",
+		"addr:street" : "Свети Јоаким Осоговски"
+	},
+	{
+		"lat" : "42.0140565",
+		"lon" : "21.4044861",
+		"name" : "Симфони Солутионс",
+		"category" : "computer",
+		"addr:city" : "Cкoпje",
+		"addr:street" : "Скупи"
+	},
+	{
+		"lat" : "42.0140565",
+		"lon" : "21.4044861",
+		"name" : "Симфони солутионс",
+		"category" : "computer",
+		"addr:city" : "Cкoпje",
+		"addr:street" : "Скупи"
+	},
+	{
+		"lat" : "41.5083266",
+		"lon" : "20.9521843",
+		"name" : "Maxi Market",
+		"category" : "supermarket"
+	},
+	{
+		"lat" : "41.9956025",
+		"lon" : "21.4310531",
+		"name" : "Сковин",
+		"category" : "wine"
+	},
+	{
+		"lat" : "41.1191635",
+		"lon" : "20.7956734",
+		"name" : "KAM Supermarket",
+		"category" : "supermarket"
+	},
+	{
+		"lat" : "41.3449878",
+		"lon" : "21.5526265",
+		"name" : "Мегаспорт",
+		"category" : "sports"
+	},
+	{
+		"lat" : "42.139421",
+		"lon" : "21.7058314",
+		"name" : "STC Supermarket 1",
+		"category" : "supermarket"
+	},
+	{
+		"lat" : "42.1386079",
+		"lon" : "21.7077221",
+		"name" : "STC Supermarket 2",
+		"category" : "supermarket"
+	},
+	{
+		"lat" : "42.1381664",
+		"lon" : "21.7092984",
+		"name" : "Arma Market",
+		"category" : "convenience"
+	},
+	{
+		"lat" : "41.9847142",
+		"lon" : "21.4497643",
+		"name" : "DDStore",
+		"category" : "computer",
+		"website" : "https://ddstore.mk/",
+		"addr:city" : "Cкoпje",
+		"addr:street" : "Фрањо Клуз",
+		"opening_hours" : "Mo-Fr 09:00-17:00"
+	},
+	{
+		"lat" : "41.995252",
+		"lon" : "21.4329109",
+		"name" : "A&M Bakery",
+		"category" : "bakery"
+	},
+	{
+		"lat" : "41.9905213",
+		"lon" : "21.4310993",
+		"name" : "Scout",
+		"category" : "outdoor"
+	},
+	{
+		"lat" : "41.9908926",
+		"lon" : "21.430509",
+		"name" : "Nomad",
+		"category" : "bicycle"
+	},
+	{
+		"lat" : "41.998952",
+		"lon" : "21.4226434",
+		"name" : "Жито лев",
+		"category" : "bakery"
+	},
+	{
+		"lat" : "41.9945733",
+		"lon" : "21.4276091",
+		"name" : "дм дрогерие",
+		"category" : "chemist"
+	},
+	{
+		"lat" : "41.9949355",
+		"lon" : "21.429627",
+		"name" : "Lisca",
+		"category" : "clothes"
+	},
+	{
+		"lat" : "41.9990975",
+		"lon" : "21.4192513",
+		"name" : "Body line",
+		"category" : "clothes"
+	},
+	{
+		"lat" : "41.9948362",
+		"lon" : "21.4301392",
+		"name" : "Тримакс",
+		"category" : "books"
+	},
+	{
+		"lat" : "42.0006468",
+		"lon" : "21.4376377",
+		"name" : "AEN",
+		"category" : "clothes"
+	},
+	{
+		"lat" : "41.9992249",
+		"lon" : "21.4188539",
+		"name" : "Optika Trivex",
+		"category" : "optician"
+	},
+	{
+		"lat" : "41.9994766",
+		"lon" : "21.4177897",
+		"name" : "Маркет фратели",
+		"category" : "supermarket"
+	},
+	{
+		"lat" : "41.9948126",
+		"lon" : "21.4302935",
+		"name" : "Жито леб",
+		"category" : "bakery"
+	},
+	{
+		"lat" : "41.9946969",
+		"lon" : "21.4307088",
+		"name" : "Специјал (Рекорд)",
+		"category" : "bakery"
+	},
+	{
+		"lat" : "41.9999091",
+		"lon" : "21.4369806",
+		"name" : "Viktoria turist",
+		"category" : "travel_agency"
+	},
+	{
+		"lat" : "41.9955491",
+		"lon" : "21.4112942",
+		"name" : "Agentur",
+		"category" : "travel_agency"
+	},
+	{
+		"lat" : "41.9992364",
+		"lon" : "21.4187447",
+		"name" : "Ројал",
+		"category" : "supermarket"
+	},
+	{
+		"lat" : "42.011324",
+		"lon" : "21.5104508",
+		"name" : "Рептил",
+		"category" : "supermarket",
+		"addr:city" : "Скопје",
+		"addr:street" : "Методија Андонов Ченто",
+		"opening_hours" : "Mo-Sa 07:00-22:00"
+	},
+	{
+		"lat" : "42.0204996",
+		"lon" : "22.589873",
+		"name" : "Kid Go",
+		"category" : "convenience",
+		"opening_hours" : "Mo-Su 09:00-21:00"
+	},
+	{
+		"lat" : "42.0205871",
+		"lon" : "22.5886645",
+		"name" : "Ven Market",
+		"category" : "yes"
+	},
+	{
+		"lat" : "42.0196386",
+		"lon" : "22.5908396",
+		"name" : "Super bebe",
+		"category" : "toys"
+	},
+	{
+		"lat" : "42.0226888",
+		"lon" : "22.5901778",
+		"name" : "Kiosque",
+		"category" : "kiosk"
+	},
+	{
+		"lat" : "42.0233424",
+		"lon" : "22.58929",
+		"name" : "VEN Market",
+		"category" : "yes"
+	},
+	{
+		"lat" : "42.0236603",
+		"lon" : "22.5889096",
+		"name" : "Boutiques",
+		"category" : "clothes"
+	},
+	{
+		"lat" : "42.0239695",
+		"lon" : "22.5887511",
+		"name" : "Balkanluks",
+		"category" : "bakery"
+	},
+	{
+		"lat" : "42.0245995",
+		"lon" : "22.5886559",
+		"name" : "Paket Market",
+		"category" : "convenience"
+	},
+	{
+		"lat" : "42.2017976",
+		"lon" : "22.3345615",
+		"name" : "Железара БЕ-ЕН",
+		"category" : "mall",
+		"addr:street" : "Јоаким Осоговски",
+		"opening_hours" : "Mo-Sa 09:00-18:00"
+	},
+	{
+		"lat" : "41.7383262",
+		"lon" : "22.1940369",
+		"name" : "Mobile Zone",
+		"category" : "mobile_phone",
+		"addr:city" : "Штип",
+		"addr:street" : "Кирил и Методиј",
+		"opening_hours" : "Mo-Sa 09:00-20:00"
+	},
+	{
+		"lat" : "41.9925988",
+		"lon" : "21.427103",
+		"name" : "Стрип Книжарница Бункер",
+		"category" : "books"
+	},
+	{
+		"lat" : "41.121722",
+		"lon" : "20.8223449",
+		"name" : "Don Market",
+		"category" : "supermarket",
+		"addr:city" : "Охрид",
+		"addr:street" : "Ристо Чадо"
+	},
+	{
+		"lat" : "41.9834317",
+		"lon" : "21.4499971",
+		"name" : "Hi Store",
+		"category" : "mobile_phone"
+	},
+	{
+		"lat" : "42.0056163",
+		"lon" : "21.4365534",
+		"name" : "НЕЗИРИ КОМЕРЦИЈАЛНИ",
+		"category" : "clothes",
+		"opening_hours" : "Mo-Sa 08:00-18:00; Su 09:00-14:30"
+	},
+	{
+		"lat" : "42.0086206",
+		"lon" : "21.4025317",
+		"name" : "НАУТИКА НОВА",
+		"category" : "car_repair"
+	},
+	{
+		"lat" : "41.9946824",
+		"lon" : "21.455662",
+		"name" : "Фиат Дерби",
+		"category" : "car_repair"
+	},
+	{
+		"lat" : "42.0067318",
+		"lon" : "21.3818169",
+		"name" : "Tinex",
+		"category" : "supermarket"
+	},
+	{
+		"lat" : "42.0083506",
+		"lon" : "20.9734672",
+		"name" : "Inxhi Exclusive",
+		"category" : "Lingerie_&_Underwear_Shop",
+		"addr:city" : "Tetovo",
+		"addr:street" : "ul. Ilirija 52",
+		"opening_hours" : "Mo-Sa 08:00-20:00"
+	},
+	{
+		"lat" : "42.2019961",
+		"lon" : "22.3354725",
+		"name" : "Mat Star",
+		"category" : "shoes",
+		"addr:city" : "Kriva Palanka"
+	},
+	{
+		"lat" : "42.0078991",
+		"lon" : "21.3340183",
+		"name" : "Kipper",
+		"category" : "supermarket",
+		"addr:street" : "Борис Сарафов"
+	},
+	{
+		"lat" : "41.9799438",
+		"lon" : "21.4645188",
+		"name" : "Hortikultura.mk",
+		"category" : "garden_centre",
+		"website" : "www.hortikultura.mk",
+		"addr:city" : "Cкoпje",
+		"addr:street" : "Булевар Србија",
+		"opening_hours" : "Mo-Sa 08:00-18:00"
+	},
+	{
+		"lat" : "42.0077581",
+		"lon" : "21.4425065",
+		"name" : "Солунска",
+		"category" : "bakery"
+	},
+	{
+		"lat" : "42.0115243",
+		"lon" : "21.5106029",
+		"name" : "Зум Сервис",
+		"category" : "photo",
+		"addr:street" : "Методија Андонов Ченто"
+	},
+	{
+		"lat" : "41.9995856",
+		"lon" : "21.4172538",
+		"name" : "Специјал (Универзална Сала)",
+		"category" : "bakery"
+	},
+	{
+		"lat" : "41.9993939",
+		"lon" : "21.4201393",
+		"name" : "Вршник",
+		"category" : "bakery",
+		"opening_hours" : "Mo-Su"
+	},
+	{
+		"lat" : "41.998251",
+		"lon" : "21.4229234",
+		"name" : "Диман",
+		"category" : "bakery"
+	},
+	{
+		"lat" : "41.7386338",
+		"lon" : "22.196628",
+		"name" : "Outlet Azurro",
+		"category" : "clothes"
+	},
+	{
+		"lat" : "41.7390594",
+		"lon" : "22.1962423",
+		"name" : "Couzon Stip",
+		"category" : "travel_agency"
+	},
+	{
+		"lat" : "41.7357391",
+		"lon" : "22.1899119",
+		"name" : "ЕуроТоолс",
+		"category" : "hardware"
+	},
+	{
+		"lat" : "41.7357632",
+		"lon" : "22.1900152",
+		"name" : "Клеопатра",
+		"category" : "hairdresser"
+	},
+	{
+		"lat" : "41.7378072",
+		"lon" : "22.1940258",
+		"name" : "Балкан Лукс",
+		"category" : "bakery"
+	},
+	{
+		"lat" : "41.7369419",
+		"lon" : "22.1924733",
+		"name" : "Венеција",
+		"category" : "books"
+	},
+	{
+		"lat" : "41.9953181",
+		"lon" : "21.432686",
+		"name" : "Breadway Bakery",
+		"category" : "bakery",
+		"phone" : "+389 2 246 8608",
+		"website" : "https://www.facebook.com/breadwayskopje",
+		"opening_hours" : "Mo-Fr 06:00-15:00; Sa-Su 07:00-15:00"
+	},
+	{
+		"lat" : "41.7384188",
+		"lon" : "22.1960431",
+		"name" : "dm",
+		"category" : "chemist",
+		"website" : "https://www.dm.mk/mk_homepage/dm_filialen/"
+	},
+	{
+		"lat" : "41.1137529",
+		"lon" : "20.8002479",
+		"name" : "Македонски Сувенири",
+		"category" : "gift"
+	},
+	{
+		"lat" : "41.7380127",
+		"lon" : "22.1923825",
+		"name" : "Тото Рипката",
+		"category" : "pet"
+	},
+	{
+		"lat" : "41.7434438",
+		"lon" : "22.1918577",
+		"name" : "Нептун",
+		"category" : "computer"
+	},
+	{
+		"lat" : "41.7391749",
+		"lon" : "22.1928309",
+		"name" : "М-Десерт",
+		"category" : "bakery"
+	},
+	{
+		"lat" : "41.9969509",
+		"lon" : "21.4119819",
+		"name" : "Сетек Компјутери",
+		"category" : "computer",
+		"website" : "http://www.setec.mk"
+	},
+	{
+		"lat" : "41.1167063",
+		"lon" : "20.8022026",
+		"name" : "Жито Леб",
+		"category" : "bakery"
+	},
+	{
+		"lat" : "41.1135156",
+		"lon" : "20.8000105",
+		"name" : "Жито Леб",
+		"category" : "bakery"
+	},
+	{
+		"lat" : "42.0530902",
+		"lon" : "21.1170108",
+		"name" : "heppi dmj",
+		"category" : "supermarket"
+	},
+	{
+		"lat" : "42.0108691",
+		"lon" : "20.9665795",
+		"name" : "SHINE by Nurana",
+		"category" : "clothes",
+		"phone" : "+38970338158",
+		"website" : "http://shine.mk",
+		"addr:city" : "Тетово",
+		"addr:street" : "Кузман Јосифовски Питу;Kuzman Josifovski Pitu",
+		"opening_hours" : "Mo-Sa 10:00-18:00"
+	},
+	{
+		"lat" : "41.9898103",
+		"lon" : "21.4691912",
+		"name" : "M Market",
+		"category" : "supermarket",
+		"addr:street" : "Булевар Асном"
+	},
+	{
+		"lat" : "41.9947907",
+		"lon" : "21.4245297",
+		"name" : "Pastel",
+		"category" : "bakery"
+	},
+	{
+		"lat" : "41.996427",
+		"lon" : "21.4276677",
+		"name" : "Коки",
+		"category" : "bakery"
+	},
+	{
+		"lat" : "41.4096966",
+		"lon" : "22.24348",
+		"name" : "Zelezara",
+		"category" : "hardware"
+	},
+	{
+		"lat" : "41.9135005",
+		"lon" : "22.4295015",
+		"name" : "ОФИС ЕКСПРЕС",
+		"category" : "wholesale",
+		"email" : "info@oe.mk",
+		"phone" : "+38933277778",
+		"website" : "http://www.oe.mk",
+		"addr:city" : "Кочани",
+		"addr:street" : "Тодосија Паунов",
+		"opening_hours" : "Mo-Sa 08:00-16:00"
+	},
+	{
+		"lat" : "41.0286208",
+		"lon" : "21.3357201",
+		"name" : "Мини Пани",
+		"category" : "bakery"
+	},
+	{
+		"lat" : "41.7445035",
+		"lon" : "22.1981502",
+		"name" : "Silec Vulkanizer",
+		"category" : "tyres"
+	},
+	{
+		"lat" : "42.1272126",
+		"lon" : "21.7197153",
+		"name" : "Стокомак",
+		"category" : "supermarket",
+		"website" : "https://www.facebook.com/stokomak.diskont/",
+		"opening_hours" : "Mo-Sa 07:30-21:30; Su 08:00-15:00"
+	},
+	{
+		"lat" : "41.1115443",
+		"lon" : "20.8109391",
+		"name" : "Market",
+		"category" : "supermarket"
+	},
+	{
+		"lat" : "42.1303546",
+		"lon" : "21.7205675",
+		"name" : "RAM Store",
+		"category" : "supermarket"
+	},
+	{
+		"lat" : "41.9978906",
+		"lon" : "21.4089683",
+		"name" : "Super Tinex",
+		"category" : "supermarket",
+		"opening_hours" : "Mo-Su 08:00-22:00"
+	},
+	{
+		"lat" : "41.3462867",
+		"lon" : "21.5549331",
+		"name" : "Тобако",
+		"category" : "tobacco"
+	},
+	{
+		"lat" : "41.3462577",
+		"lon" : "21.5548907",
+		"name" : "Cool",
+		"category" : "clothes"
+	},
+	{
+		"lat" : "41.3460163",
+		"lon" : "21.5546298",
+		"name" : "Dalas",
+		"category" : "boutique"
+	},
+	{
+		"lat" : "41.3462826",
+		"lon" : "21.5541364",
+		"name" : "Lukas Urban Store",
+		"category" : "clothes"
+	},
+	{
+		"lat" : "41.794922",
+		"lon" : "20.8972125",
+		"name" : "Ford Ferati Auto Servis",
+		"category" : "car_repair",
+		"addr:city" : "Гостивар",
+		"addr:street" : "Јна"
+	},
+	{
+		"lat" : "41.7949607",
+		"lon" : "20.8983464",
+		"name" : "Interkomerc",
+		"category" : "car_parts",
+		"addr:city" : "Гостивар",
+		"addr:street" : "Јна"
+	},
+	{
+		"lat" : "41.1179008",
+		"lon" : "20.7990557",
+		"name" : "Жито Леб Bake & Cake",
+		"category" : "bakery"
+	},
+	{
+		"lat" : "41.1183281",
+		"lon" : "20.79959",
+		"name" : "Кинг Бурек",
+		"category" : "bakery"
+	},
+	{
+		"lat" : "41.1191262",
+		"lon" : "20.8032179",
+		"name" : "Knigovez Workshop &",
+		"category" : "gift",
+		"opening_hours" : "Mo-Sa 10:00-17:00"
+	},
+	{
+		"lat" : "42.0003695",
+		"lon" : "21.4373034",
+		"name" : "Слаткарн",
+		"category" : "confectionery"
+	},
+	{
+		"lat" : "41.7952528",
+		"lon" : "20.8997801",
+		"name" : "Киппер",
+		"category" : "convenience",
+		"opening_hours" : "Mo-Su 08:00-22:00"
+	},
+	{
+		"lat" : "42.1355528",
+		"lon" : "21.7082712",
+		"name" : "Elida",
+		"category" : "supermarket"
+	},
+	{
+		"lat" : "41.9943277",
+		"lon" : "21.4398271",
+		"name" : "Bücherbuden",
+		"category" : "books"
+	},
+	{
+		"lat" : "42.1370749",
+		"lon" : "21.7151542",
+		"name" : "Dukat",
+		"category" : "jewelry"
+	},
+	{
+		"lat" : "41.9984483",
+		"lon" : "21.4251732",
+		"name" : "Telekom",
+		"category" : "mobile_phone"
+	},
+	{
+		"lat" : "42.00063",
+		"lon" : "21.4365522",
+		"name" : "Antique",
+		"category" : "gift"
+	},
+	{
+		"lat" : "41.9998571",
+		"lon" : "21.4363759",
+		"name" : "Biana",
+		"category" : "shoes"
+	},
+	{
+		"lat" : "42.0020331",
+		"lon" : "21.4377799",
+		"name" : "Wedding",
+		"category" : "clothes"
+	},
+	{
+		"lat" : "42.0019996",
+		"lon" : "21.4379179",
+		"name" : "Souvenir",
+		"category" : "gift"
+	},
+	{
+		"lat" : "42.0014974",
+		"lon" : "21.4396218",
+		"name" : "Ira",
+		"category" : "clothes"
+	},
+	{
+		"lat" : "41.9995762",
+		"lon" : "21.4377808",
+		"name" : "Evita chic",
+		"category" : "clothes"
+	},
+	{
+		"lat" : "42.0022128",
+		"lon" : "21.4378913",
+		"name" : "Wedding",
+		"category" : "clothes"
+	},
+	{
+		"lat" : "41.9997862",
+		"lon" : "21.4397628",
+		"name" : "Wedding",
+		"category" : "clothes"
+	},
+	{
+		"lat" : "41.9951347",
+		"lon" : "21.4225417",
+		"name" : "Rapsody",
+		"category" : "travel_agency"
+	},
+	{
+		"lat" : "42.0046727",
+		"lon" : "21.4370024",
+		"name" : "Hajri Kompani",
+		"category" : "supermarket"
+	},
+	{
+		"lat" : "42.0046562",
+		"lon" : "21.4371432",
+		"name" : "Whole sale (?)",
+		"category" : "shoes"
+	},
+	{
+		"lat" : "42.0040454",
+		"lon" : "21.4375538",
+		"name" : "Whole sale (?)",
+		"category" : "shoes"
+	},
+	{
+		"lat" : "42.0035324",
+		"lon" : "21.4374598",
+		"name" : "Mat star",
+		"category" : "shoes"
+	},
+	{
+		"lat" : "42.0019345",
+		"lon" : "21.4384109",
+		"name" : "Globay",
+		"category" : "clothes"
+	},
+	{
+		"lat" : "42.0004215",
+		"lon" : "21.4376161",
+		"name" : "Luomo",
+		"category" : "clothes"
+	},
+	{
+		"lat" : "42.0007527",
+		"lon" : "21.4376765",
+		"name" : "Liberty",
+		"category" : "travel_agency"
+	},
+	{
+		"lat" : "42.0008503",
+		"lon" : "21.4376986",
+		"name" : "Allday",
+		"category" : "clothes"
+	},
+	{
+		"lat" : "41.9969805",
+		"lon" : "21.4284594",
+		"name" : "Queen",
+		"category" : "clothes"
+	},
+	{
+		"lat" : "41.9962225",
+		"lon" : "21.4276396",
+		"name" : "Etc",
+		"category" : "travel_agency"
+	},
+	{
+		"lat" : "41.9954516",
+		"lon" : "21.4272522",
+		"name" : "Или Или",
+		"category" : "books",
+		"phone" : "+389 2 3225 445",
+		"website" : "https://www.iliili.com.mk/"
+	},
+	{
+		"lat" : "41.9955491",
+		"lon" : "21.4182042",
+		"name" : "Flexy flex",
+		"category" : "furniture"
+	},
+	{
+		"lat" : "41.999539",
+		"lon" : "21.4160897",
+		"name" : "Blow",
+		"category" : "hairdresser"
+	},
+	{
+		"lat" : "42.0007416",
+		"lon" : "21.4160039",
+		"name" : "Sofa Studio",
+		"category" : "furniture"
+	},
+	{
+		"lat" : "42.0014616",
+		"lon" : "21.4213462",
+		"name" : "Traviti",
+		"category" : "travel_agency"
+	},
+	{
+		"lat" : "42.0010735",
+		"lon" : "21.4182877",
+		"name" : "DN",
+		"category" : "hairdresser"
+	},
+	{
+		"lat" : "42.0015821",
+		"lon" : "21.4189761",
+		"name" : "T market",
+		"category" : "supermarket"
+	},
+	{
+		"lat" : "41.9995838",
+		"lon" : "21.4359889",
+		"name" : "Family",
+		"category" : "shoes"
+	},
+	{
+		"lat" : "42.0001421",
+		"lon" : "21.4365368",
+		"name" : "Balkan Corner",
+		"category" : "gift"
+	},
+	{
+		"lat" : "42.0008421",
+		"lon" : "21.436606",
+		"name" : "Souvenir",
+		"category" : "gift"
+	},
+	{
+		"lat" : "42.0008194",
+		"lon" : "21.4366751",
+		"name" : "Souvenir",
+		"category" : "gift"
+	},
+	{
+		"lat" : "42.0006962",
+		"lon" : "21.4367007",
+		"name" : "Elite",
+		"category" : "jewelry"
+	},
+	{
+		"lat" : "42.0029518",
+		"lon" : "21.4374213",
+		"name" : "Liver",
+		"category" : "shoes"
+	},
+	{
+		"lat" : "42.002368",
+		"lon" : "21.4375604",
+		"name" : "Wedding",
+		"category" : "clothes"
+	},
+	{
+		"lat" : "42.0023787",
+		"lon" : "21.4394473",
+		"name" : "Telekom",
+		"category" : "mobile_phone"
+	},
+	{
+		"lat" : "42.0010275",
+		"lon" : "21.4396745",
+		"name" : "Dm",
+		"category" : "supermarket"
+	},
+	{
+		"lat" : "42.0008315",
+		"lon" : "21.4396903",
+		"name" : "4ever",
+		"category" : "shoes"
+	},
+	{
+		"lat" : "41.9997099",
+		"lon" : "21.4373131",
+		"name" : "Sport life",
+		"category" : "bookmaker"
+	},
+	{
+		"lat" : "41.9982749",
+		"lon" : "21.4283051",
+		"name" : "Loggia",
+		"category" : "furniture"
+	},
+	{
+		"lat" : "41.9959241",
+		"lon" : "21.4276405",
+		"name" : "Mood",
+		"category" : "clothes"
+	},
+	{
+		"lat" : "41.9948547",
+		"lon" : "21.4231204",
+		"name" : "Daniel’s",
+		"category" : "hairdresser"
+	},
+	{
+		"lat" : "41.9994419",
+		"lon" : "21.437639",
+		"name" : "Ital Silver",
+		"category" : "jewelry"
+	},
+	{
+		"lat" : "41.9956039",
+		"lon" : "21.4261917",
+		"name" : "Maxbet",
+		"category" : "bookmaker"
+	},
+	{
+		"lat" : "41.9997967",
+		"lon" : "21.4390916",
+		"name" : "Javä",
+		"category" : "clothes"
+	},
+	{
+		"lat" : "42.0244715",
+		"lon" : "21.4283826",
+		"name" : "Kit-Go",
+		"category" : "supermarket"
+	},
+	{
+		"lat" : "41.9995328",
+		"lon" : "21.4173835",
+		"name" : "Mat star",
+		"category" : "shoes"
+	},
+	{
+		"lat" : "41.9994468",
+		"lon" : "21.4176855",
+		"name" : "Leontic",
+		"category" : "shoes"
+	},
+	{
+		"lat" : "41.7951597",
+		"lon" : "20.901073",
+		"name" : "Монтенегро",
+		"category" : "convenience",
+		"addr:city" : "Gostivar",
+		"addr:street" : "JNA",
+		"opening_hours" : "Mo-Su 08:00-22:00"
+	},
+	{
+		"lat" : "41.9976503",
+		"lon" : "21.4240943",
+		"name" : "Photostation",
+		"category" : "photo"
+	},
+	{
+		"lat" : "41.9981977",
+		"lon" : "21.4226272",
+		"name" : "Kinissi",
+		"category" : "travel_agency"
+	},
+	{
+		"lat" : "41.9959669",
+		"lon" : "21.4288114",
+		"name" : "Giftshop Grin",
+		"category" : "gift"
+	},
+	{
+		"lat" : "42.0025219",
+		"lon" : "21.4381106",
+		"name" : "Wedding",
+		"category" : "clothes"
+	},
+	{
+		"lat" : "42.001784",
+		"lon" : "21.4373834",
+		"name" : "Wedding",
+		"category" : "clothes"
+	},
+	{
+		"lat" : "41.9951932",
+		"lon" : "21.4323823",
+		"name" : "Mega sport",
+		"category" : "sports"
+	},
+	{
+		"lat" : "42.0010422",
+		"lon" : "21.4254402",
+		"name" : "Charme",
+		"category" : "beauty"
+	},
+	{
+		"lat" : "42.0024702",
+		"lon" : "21.4189811",
+		"name" : "Tafo",
+		"category" : "hairdresser"
+	},
+	{
+		"lat" : "41.9958095",
+		"lon" : "21.4298693",
+		"name" : "Lindt",
+		"category" : "confectionery"
+	},
+	{
+		"lat" : "42.0019087",
+		"lon" : "21.4244571",
+		"name" : "Bagnotti",
+		"category" : "furniture"
+	},
+	{
+		"lat" : "42.0020491",
+		"lon" : "21.423926",
+		"name" : "Babor",
+		"category" : "beauty"
+	},
+	{
+		"lat" : "42.0026402",
+		"lon" : "21.437944",
+		"name" : "Wedding",
+		"category" : "clothes"
+	},
+	{
+		"lat" : "42.0014183",
+		"lon" : "21.4253295",
+		"name" : "Calculator cashier",
+		"category" : "electronics"
+	},
+	{
+		"lat" : "41.9917431",
+		"lon" : "21.4379332",
+		"name" : "Polleo",
+		"category" : "sports"
+	},
+	{
+		"lat" : "41.9910644",
+		"lon" : "21.4439939",
+		"name" : "Ile",
+		"category" : "hairdresser"
+	},
+	{
+		"lat" : "41.992152",
+		"lon" : "21.442175",
+		"name" : "Trend",
+		"category" : "hairdresser"
+	},
+	{
+		"lat" : "41.9943649",
+		"lon" : "21.4305614",
+		"name" : "Fibula-Makedonija 21",
+		"category" : "travel_agency"
+	},
+	{
+		"lat" : "41.992184",
+		"lon" : "21.4277103",
+		"name" : "Healthy food by Zegin",
+		"category" : "supermarket"
+	},
+	{
+		"lat" : "41.9911879",
+		"lon" : "21.4400819",
+		"name" : "Sportinn",
+		"category" : "sports"
+	},
+	{
+		"lat" : "41.9950597",
+		"lon" : "21.4308519",
+		"name" : "Boss",
+		"category" : "clothes"
+	},
+	{
+		"lat" : "41.9979615",
+		"lon" : "21.4346758",
+		"name" : "Altes Primo",
+		"category" : "clothes"
+	},
+	{
+		"lat" : "42.000672",
+		"lon" : "21.4374954",
+		"name" : "Ita",
+		"category" : "travel_agency"
+	},
+	{
+		"lat" : "41.9998977",
+		"lon" : "21.4263961",
+		"name" : "Smart living",
+		"category" : "furniture"
+	},
+	{
+		"lat" : "42.006257",
+		"lon" : "21.4379974",
+		"name" : "Adriatik",
+		"category" : "furniture"
+	},
+	{
+		"lat" : "42.0066834",
+		"lon" : "21.4381161",
+		"name" : "Homax",
+		"category" : "electronics"
+	},
+	{
+		"lat" : "42.0027946",
+		"lon" : "21.4410814",
+		"name" : "Repair",
+		"category" : "bicycle"
+	},
+	{
+		"lat" : "42.0036629",
+		"lon" : "21.4357809",
+		"name" : "Manis Shoes Acess",
+		"category" : "shoes"
+	},
+	{
+		"lat" : "41.9996574",
+		"lon" : "21.4279208",
+		"name" : "Cadillac",
+		"category" : "car"
+	},
+	{
+		"lat" : "41.9998108",
+		"lon" : "21.4363315",
+		"name" : "Souvenir",
+		"category" : "gift"
+	},
+	{
+		"lat" : "41.9994318",
+		"lon" : "21.4213409",
+		"name" : "Stokomak",
+		"category" : "supermarket"
+	},
+	{
+		"lat" : "41.9989821",
+		"lon" : "21.4224806",
+		"name" : "Swisslion",
+		"category" : "supermarket"
+	},
+	{
+		"lat" : "42.0010589",
+		"lon" : "21.4393803",
+		"name" : "Naim",
+		"category" : "hairdresser"
+	},
+	{
+		"lat" : "41.9987931",
+		"lon" : "21.4234837",
+		"name" : "Polleo",
+		"category" : "sports"
+	},
+	{
+		"lat" : "42.0040289",
+		"lon" : "21.4360278",
+		"name" : "Whole sale?",
+		"category" : "shoes"
+	},
+	{
+		"lat" : "42.0069288",
+		"lon" : "21.4374117",
+		"name" : "Maamaris",
+		"category" : "furniture"
+	},
+	{
+		"lat" : "42.0070937",
+		"lon" : "21.4370401",
+		"name" : "Barak",
+		"category" : "electronics"
+	},
+	{
+		"lat" : "42.0051506",
+		"lon" : "21.4357944",
+		"name" : "Luto-Kom",
+		"category" : "shoes"
+	},
+	{
+		"lat" : "42.0063897",
+		"lon" : "21.435694",
+		"name" : "Feki-Kom",
+		"category" : "supermarket"
+	},
+	{
+		"lat" : "42.0055534",
+		"lon" : "21.4356602",
+		"name" : "Fa-Di",
+		"category" : "clothes"
+	},
+	{
+		"lat" : "42.0058286",
+		"lon" : "21.4358438",
+		"name" : "Inter Prom",
+		"category" : "clothes"
+	},
+	{
+		"lat" : "42.0025359",
+		"lon" : "20.9976828",
+		"name" : "Opel",
+		"category" : "car"
+	},
+	{
+		"lat" : "41.1172658",
+		"lon" : "20.8143305",
+		"name" : "Marlbopo",
+		"category" : "supermarket"
+	},
+	{
+		"lat" : "42.0032959",
+		"lon" : "21.4080771",
+		"name" : "Print&copy",
+		"category" : "copyshop"
+	},
+	{
+		"lat" : "41.1202066",
+		"lon" : "20.8130308",
+		"name" : "Top market",
+		"category" : "supermarket"
+	},
+	{
+		"lat" : "41.1229605",
+		"lon" : "20.8130997",
+		"name" : "Schick Komerz",
+		"category" : "supermarket"
+	},
+	{
+		"lat" : "41.9910788",
+		"lon" : "21.4346069",
+		"name" : "Stokomak",
+		"category" : "supermarket"
+	},
+	{
+		"lat" : "41.1109969",
+		"lon" : "20.8072363",
+		"name" : "Silvia",
+		"category" : "beauty"
+	},
+	{
+		"lat" : "41.1125362",
+		"lon" : "20.7979908",
+		"name" : "Souvenir",
+		"category" : "gift"
+	},
+	{
+		"lat" : "41.1126505",
+		"lon" : "20.7943931",
+		"name" : "Souvenir",
+		"category" : "gift"
+	},
+	{
+		"lat" : "41.1145309",
+		"lon" : "20.8115684",
+		"name" : "Blonde Fashion",
+		"category" : "clothes"
+	},
+	{
+		"lat" : "41.1133538",
+		"lon" : "20.8120861",
+		"name" : "Tamaro",
+		"category" : "supermarket"
+	},
+	{
+		"lat" : "41.1120215",
+		"lon" : "20.8103091",
+		"name" : "Wake&Bake",
+		"category" : "bakery"
+	},
+	{
+		"lat" : "41.1114384",
+		"lon" : "20.8076057",
+		"name" : "Delis",
+		"category" : "supermarket"
+	},
+	{
+		"lat" : "41.1104279",
+		"lon" : "20.8039108",
+		"name" : "Top market",
+		"category" : "supermarket"
+	},
+	{
+		"lat" : "41.1123985",
+		"lon" : "20.7950455",
+		"name" : "Tron",
+		"category" : "gift"
+	},
+	{
+		"lat" : "41.112488",
+		"lon" : "20.797328",
+		"name" : "Atelier Dolents",
+		"category" : "gift"
+	},
+	{
+		"lat" : "41.1145334",
+		"lon" : "20.8015025",
+		"name" : "Bi Ju Boutique",
+		"category" : "clothes"
+	},
+	{
+		"lat" : "41.1122553",
+		"lon" : "20.8076362",
+		"name" : "Don",
+		"category" : "supermarket"
+	},
+	{
+		"lat" : "41.1139411",
+		"lon" : "20.8108031",
+		"name" : "Bambi",
+		"category" : "supermarket"
+	},
+	{
+		"lat" : "41.1141185",
+		"lon" : "20.8022484",
+		"name" : "Serenity",
+		"category" : "travel_agency"
+	},
+	{
+		"lat" : "41.1157676",
+		"lon" : "20.8132048",
+		"name" : "Ramstore express",
+		"category" : "supermarket"
+	},
+	{
+		"lat" : "41.1124558",
+		"lon" : "20.7952362",
+		"name" : "Beyaz Inci",
+		"category" : "jewelry"
+	},
+	{
+		"lat" : "41.1139239",
+		"lon" : "20.8027574",
+		"name" : "Viza Travel",
+		"category" : "travel_agency"
+	},
+	{
+		"lat" : "41.1142247",
+		"lon" : "20.7999007",
+		"name" : "Bonatti",
+		"category" : "clothes"
+	},
+	{
+		"lat" : "41.115441",
+		"lon" : "20.8009071",
+		"name" : "Big ben",
+		"category" : "clothes"
+	},
+	{
+		"lat" : "41.1135888",
+		"lon" : "20.8009111",
+		"name" : "Telekom",
+		"category" : "mobile_phone"
+	},
+	{
+		"lat" : "41.1135666",
+		"lon" : "20.7981028",
+		"name" : "A1",
+		"category" : "supermarket"
+	},
+	{
+		"lat" : "41.1132966",
+		"lon" : "20.7915441",
+		"name" : "Souvenir",
+		"category" : "gift"
+	},
+	{
+		"lat" : "41.1155688",
+		"lon" : "20.8009559",
+		"name" : "Belona",
+		"category" : "clothes"
+	},
+	{
+		"lat" : "41.118024",
+		"lon" : "20.8031555",
+		"name" : "Gorenje",
+		"category" : "electronics"
+	},
+	{
+		"lat" : "41.1156413",
+		"lon" : "20.7935831",
+		"name" : "Souvenir",
+		"category" : "gift"
+	},
+	{
+		"lat" : "41.1169256",
+		"lon" : "20.801193",
+		"name" : "Mat star",
+		"category" : "shoes"
+	},
+	{
+		"lat" : "41.1171742",
+		"lon" : "20.8006272",
+		"name" : "Perla",
+		"category" : "shoes"
+	},
+	{
+		"lat" : "41.1158374",
+		"lon" : "20.8010063",
+		"name" : "Sabe",
+		"category" : "clothes"
+	},
+	{
+		"lat" : "41.1225454",
+		"lon" : "20.8094117",
+		"name" : "KAM",
+		"category" : "supermarket"
+	},
+	{
+		"lat" : "41.1179393",
+		"lon" : "20.7999809",
+		"name" : "Maximus",
+		"category" : "clothes"
+	},
+	{
+		"lat" : "41.1173471",
+		"lon" : "20.8020996",
+		"name" : "Stefano Boutique",
+		"category" : "clothes"
+	},
+	{
+		"lat" : "41.115575",
+		"lon" : "20.8050543",
+		"name" : "Zobi",
+		"category" : "bakery"
+	},
+	{
+		"lat" : "41.1148635",
+		"lon" : "20.8003392",
+		"name" : "Sport m",
+		"category" : "sports"
+	},
+	{
+		"lat" : "41.1158272",
+		"lon" : "20.8046409",
+		"name" : "Discount",
+		"category" : "supermarket"
+	},
+	{
+		"lat" : "41.1219514",
+		"lon" : "20.8078085",
+		"name" : "Tamaro",
+		"category" : "supermarket"
+	},
+	{
+		"lat" : "41.1223075",
+		"lon" : "20.8104074",
+		"name" : "Misa",
+		"category" : "supermarket"
+	},
+	{
+		"lat" : "41.1193691",
+		"lon" : "20.8109652",
+		"name" : "Petar",
+		"category" : "massage"
+	},
+	{
+		"lat" : "41.1148297",
+		"lon" : "20.8001856",
+		"name" : "La garage",
+		"category" : "clothes"
+	},
+	{
+		"lat" : "41.1173071",
+		"lon" : "20.7992057",
+		"name" : "Kam",
+		"category" : "supermarket"
+	},
+	{
+		"lat" : "41.1175169",
+		"lon" : "20.7989325",
+		"name" : "Open market for vegetable, fruits,...",
+		"category" : "supermarket"
+	},
+	{
+		"lat" : "41.1166353",
+		"lon" : "20.8023823",
+		"name" : "Videlina",
+		"category" : "optician"
+	},
+	{
+		"lat" : "41.1167109",
+		"lon" : "20.8028537",
+		"name" : "Identity",
+		"category" : "hairdresser"
+	},
+	{
+		"lat" : "41.1126656",
+		"lon" : "20.8087989",
+		"name" : "Koshishta",
+		"category" : "supermarket"
+	},
+	{
+		"lat" : "41.1157971",
+		"lon" : "20.8002866",
+		"name" : "Sport reality",
+		"category" : "sports"
+	},
+	{
+		"lat" : "41.1159454",
+		"lon" : "20.8043153",
+		"name" : "Hit",
+		"category" : "supermarket"
+	},
+	{
+		"lat" : "41.1142446",
+		"lon" : "20.8071856",
+		"name" : "Anita",
+		"category" : "hairdresser"
+	},
+	{
+		"lat" : "41.1148161",
+		"lon" : "20.8132232",
+		"name" : "Angel Beauty",
+		"category" : "beauty"
+	},
+	{
+		"lat" : "41.1093236",
+		"lon" : "20.8111031",
+		"name" : "Mozzart",
+		"category" : "bookmaker"
+	},
+	{
+		"lat" : "41.1127071",
+		"lon" : "20.8049129",
+		"name" : "Hp",
+		"category" : "computer"
+	},
+	{
+		"lat" : "41.1125098",
+		"lon" : "20.8064434",
+		"name" : "Atelier",
+		"category" : "hairdresser"
+	},
+	{
+		"lat" : "41.1129412",
+		"lon" : "20.8167418",
+		"name" : "Stop Shop",
+		"category" : "supermarket"
+	},
+	{
+		"lat" : "41.115433",
+		"lon" : "20.8159786",
+		"name" : "Gordana",
+		"category" : "hairdresser"
+	},
+	{
+		"lat" : "41.1171332",
+		"lon" : "20.8148364",
+		"name" : "Ful",
+		"category" : "bakery"
+	},
+	{
+		"lat" : "41.1083112",
+		"lon" : "20.8063275",
+		"name" : "A1",
+		"category" : "supermarket"
+	},
+	{
+		"lat" : "41.109162",
+		"lon" : "20.8054531",
+		"name" : "Heliocare",
+		"category" : "beauty"
+	},
+	{
+		"lat" : "41.117179",
+		"lon" : "20.7974137",
+		"name" : "Gorenje",
+		"category" : "electronics"
+	},
+	{
+		"lat" : "41.1134879",
+		"lon" : "20.816241",
+		"name" : "Sportlife",
+		"category" : "bookmaker"
+	},
+	{
+		"lat" : "41.1165681",
+		"lon" : "20.8146042",
+		"name" : "Fashion mari",
+		"category" : "hairdresser"
+	},
+	{
+		"lat" : "41.1176628",
+		"lon" : "20.815584",
+		"name" : "Sport life",
+		"category" : "bookmaker"
+	},
+	{
+		"lat" : "41.1238461",
+		"lon" : "20.8122323",
+		"name" : "Zobi",
+		"category" : "bakery"
+	},
+	{
+		"lat" : "41.1067374",
+		"lon" : "20.8097357",
+		"name" : "Kiosk",
+		"category" : "supermarket"
+	},
+	{
+		"lat" : "41.1164856",
+		"lon" : "20.8010424",
+		"name" : "Outlet",
+		"category" : "clothes"
+	},
+	{
+		"lat" : "41.1132277",
+		"lon" : "20.8161651",
+		"name" : "Bum",
+		"category" : "supermarket"
+	},
+	{
+		"lat" : "41.1139308",
+		"lon" : "20.8082412",
+		"name" : "Mini market",
+		"category" : "supermarket"
+	},
+	{
+		"lat" : "41.1845082",
+		"lon" : "20.6749179",
+		"name" : "Eurosalon",
+		"category" : "supermarket"
+	},
+	{
+		"lat" : "41.1169668",
+		"lon" : "20.8006262",
+		"name" : "Sebo",
+		"category" : "shoes"
+	},
+	{
+		"lat" : "41.1173927",
+		"lon" : "20.7956966",
+		"name" : "A1",
+		"category" : "supermarket"
+	},
+	{
+		"lat" : "41.1175868",
+		"lon" : "20.810725",
+		"name" : "Lazaro Feshn",
+		"category" : "clothes"
+	},
+	{
+		"lat" : "41.998549",
+		"lon" : "21.327488",
+		"name" : "Рамстор",
+		"category" : "supermarket"
+	},
+	{
+		"lat" : "41.6282088",
+		"lon" : "22.4553463",
+		"name" : "KAM",
+		"category" : "supermarket"
+	},
+	{
+		"lat" : "41.6313067",
+		"lon" : "22.4615934",
+		"name" : "NEPTUN",
+		"category" : "electronics"
+	},
+	{
+		"lat" : "41.6306136",
+		"lon" : "22.4606289",
+		"name" : "ELEKTROMEHANIKA",
+		"category" : "electronics"
+	},
+	{
+		"lat" : "41.6293201",
+		"lon" : "22.4536489",
+		"name" : "KITKA",
+		"category" : "car_repair"
+	},
+	{
+		"lat" : "41.6320897",
+		"lon" : "22.462165",
+		"name" : "Stil",
+		"category" : "car_parts"
+	},
+	{
+		"lat" : "41.6390642",
+		"lon" : "22.4601447",
+		"name" : "A1",
+		"category" : "mobile_phone"
+	},
+	{
+		"lat" : "41.9954171",
+		"lon" : "21.5098008",
+		"name" : "Стокомак",
+		"category" : "supermarket",
+		"addr:street" : "Париска Комуна"
+	},
+	{
+		"lat" : "42.0243334",
+		"lon" : "21.4287553",
+		"name" : "LTB",
+		"category" : "clothes"
+	},
+	{
+		"lat" : "42.0242367",
+		"lon" : "21.4293752",
+		"name" : "Schatzi",
+		"category" : "perfumery"
+	},
+	{
+		"lat" : "42.0242658",
+		"lon" : "21.4291553",
+		"name" : "LC Waikiki Outlet",
+		"category" : "clothes"
+	},
+	{
+		"lat" : "42.0243064",
+		"lon" : "21.4289035",
+		"name" : "Sportska Oprema",
+		"category" : "sports"
+	},
+	{
+		"lat" : "42.0243633",
+		"lon" : "21.4285475",
+		"name" : "Jisk",
+		"category" : "furniture"
+	},
+	{
+		"lat" : "42.0248156",
+		"lon" : "21.4285004",
+		"name" : "Neptune",
+		"category" : "electronics"
+	},
+	{
+		"lat" : "42.0248036",
+		"lon" : "21.4286962",
+		"name" : "SporteX Shoes",
+		"category" : "shoes"
+	},
+	{
+		"lat" : "42.0247718",
+		"lon" : "21.428992",
+		"name" : "Sport Vision Outlet",
+		"category" : "sports"
+	},
+	{
+		"lat" : "42.0233073",
+		"lon" : "21.4307132",
+		"name" : "Setec",
+		"category" : "electronics"
+	},
+	{
+		"lat" : "41.9950794",
+		"lon" : "21.5095473",
+		"name" : "Пиколини",
+		"category" : "gift"
+	},
+	{
+		"lat" : "42.0247952",
+		"lon" : "21.4287818",
+		"name" : "Sara fashion",
+		"category" : "clothes"
+	},
+	{
+		"lat" : "42.0243048",
+		"lon" : "21.4295853",
+		"name" : "My-Time",
+		"category" : "jewelry"
+	},
+	{
+		"lat" : "41.9982263",
+		"lon" : "21.4051964",
+		"name" : "Педала социјален велосипедски центар",
+		"category" : "bicycle",
+		"email" : "pedala@inicijativi.org.mk",
+		"website" : "http://www.inicijativi.org.mk",
+		"opening_hours" : "Tu 18:00-20:00"
+	},
+	{
+		"lat" : "41.9171275",
+		"lon" : "22.4111346",
+		"name" : "Комисион шишко",
+		"category" : "gift",
+		"opening_hours" : "Mo-Fr 10:00-13:00, 16:00-20:00; Sa 10:00-15:00"
+	},
+	{
+		"lat" : "41.4396981",
+		"lon" : "22.6553198",
+		"name" : "Supermarket KAM",
+		"category" : "supermarket"
+	},
+	{
+		"lat" : "41.1791655",
+		"lon" : "20.7004415",
+		"name" : "Uni Style D&A",
+		"category" : "tyres",
+		"opening_hours" : "Mo-Sa 08:00-18:00"
+	},
+	{
+		"lat" : "41.1780327",
+		"lon" : "20.6858723",
+		"name" : "NAM Market",
+		"category" : "supermarket",
+		"opening_hours" : "Mo-Su 08:00-22:00"
+	},
+	{
+		"lat" : "42.135741",
+		"lon" : "21.7208703",
+		"name" : "Елида Маркет",
+		"category" : "supermarket"
+	},
+	{
+		"lat" : "42.0064932",
+		"lon" : "21.4384341",
+		"name" : "Babyshop Skopje",
+		"category" : "bicycle",
+		"addr:street" : "Булевар Никола Карев"
+	},
+	{
+		"lat" : "41.193732",
+		"lon" : "22.7151947",
+		"name" : "Солун 53",
+		"category" : "supermarket",
+		"addr:city" : "Стар Дојран",
+		"addr:street" : "Маршал Тито",
+		"opening_hours" : "08:00-22:00"
+	},
+	{
+		"lat" : "41.1870101",
+		"lon" : "22.7221786",
+		"name" : "Солун 53",
+		"category" : "convenience",
+		"addr:city" : "Стар Дојран",
+		"addr:street" : "Кај 5 ти Ноември",
+		"opening_hours" : "Mo-Su 08:00-22:00"
+	},
+	{
+		"lat" : "41.1868627",
+		"lon" : "22.7222376",
+		"name" : "Гунац Компани",
+		"category" : "alcohol",
+		"addr:city" : "Стар Дојран",
+		"addr:street" : "Кај 5 ти Ноември",
+		"opening_hours" : "24/7"
+	},
+	{
+		"lat" : "41.1869576",
+		"lon" : "22.722192",
+		"name" : "Лебопекара ММ",
+		"category" : "bakery",
+		"addr:city" : "Стар Дојран",
+		"addr:street" : "Кај 5 ти Ноември"
+	},
+	{
+		"lat" : "41.1840556",
+		"lon" : "22.7229559",
+		"name" : "Три Браќа",
+		"category" : "toys",
+		"addr:city" : "Стар Дојран",
+		"addr:street" : "Кај 5 ти Ноември"
+	},
+	{
+		"lat" : "41.1839593",
+		"lon" : "22.7229713",
+		"name" : "Гунац Компани",
+		"category" : "toys",
+		"addr:city" : "Стар Дојран",
+		"addr:street" : "Кај 5 ти Ноември"
+	},
+	{
+		"lat" : "41.1837727",
+		"lon" : "22.7226925",
+		"name" : "Бутик Центар",
+		"category" : "clothes",
+		"addr:city" : "Стар Дојран",
+		"addr:street" : "Маршал Тито"
+	},
+	{
+		"lat" : "41.1836695",
+		"lon" : "22.722446",
+		"name" : "Sara Fashion",
+		"category" : "clothes",
+		"addr:city" : "Стар Дојран",
+		"addr:street" : "Маршал Тито"
+	},
+	{
+		"lat" : "41.1838619",
+		"lon" : "22.7226031",
+		"name" : "Маркет Домашно",
+		"category" : "dairy",
+		"addr:city" : "Стар Дојран",
+		"addr:street" : "Маршал Тито"
+	},
+	{
+		"lat" : "41.1838144",
+		"lon" : "22.7228758",
+		"name" : "Бутик Форти",
+		"category" : "clothes",
+		"addr:city" : "Стар Дојран",
+		"addr:street" : "Кај 5 ти Ноември"
+	},
+	{
+		"lat" : "41.1837622",
+		"lon" : "22.7223797",
+		"name" : "ТП Нана",
+		"category" : "supermarket",
+		"addr:city" : "Стар Дојран",
+		"addr:street" : "Маршал Тито"
+	},
+	{
+		"lat" : "41.1838469",
+		"lon" : "22.7223012",
+		"name" : "Мал Одмор",
+		"category" : "bakery",
+		"addr:city" : "Стар Дојран",
+		"addr:street" : "Маршал Тито"
+	},
+	{
+		"lat" : "42.0066042",
+		"lon" : "21.4063927",
+		"name" : "Anhoch Premium",
+		"category" : "computer",
+		"website" : "https://www.anhoch.com",
+		"addr:city" : "Cкoпje",
+		"addr:street" : "Булевар 8-ми Септември",
+		"opening_hours" : "Mo-Sa 09:00-21:00; Su 10:00-15:00"
+	},
+	{
+		"lat" : "41.7929232",
+		"lon" : "20.9080771",
+		"name" : "Briljantin Zeko",
+		"category" : "jewelry",
+		"addr:city" : "Гостивар",
+		"addr:street" : "Брака Гиноски",
+		"opening_hours" : "Mo-Su 09:00-21:00"
+	},
+	{
+		"lat" : "41.9989344",
+		"lon" : "21.4197418",
+		"name" : "Goblin Games",
+		"category" : "yes",
+		"website" : "https://goblingames.com.mk/",
+		"addr:city" : "Cкoпje",
+		"opening_hours" : "Mo-Sa 09:00-19:30"
+	},
+	{
+		"lat" : "41.7435052",
+		"lon" : "22.1977561",
+		"name" : "Класик Делев Ристо и ДР. Ј.Т.Д.",
+		"category" : "car_parts"
+	},
+	{
+		"lat" : "41.7455906",
+		"lon" : "22.1954545",
+		"name" : "Autoboss #2",
+		"category" : "car_parts"
+	},
+	{
+		"lat" : "41.748492",
+		"lon" : "22.1980528",
+		"name" : "Autoboss #1",
+		"category" : "car_parts"
+	},
+	{
+		"lat" : "41.7492776",
+		"lon" : "22.1993793",
+		"name" : "КАМ маркет",
+		"category" : "supermarket"
+	},
+	{
+		"lat" : "41.7458124",
+		"lon" : "22.1952957",
+		"name" : "Стокомак",
+		"category" : "supermarket"
+	},
+	{
+		"lat" : "41.7499727",
+		"lon" : "22.2011469",
+		"name" : "Хамер",
+		"category" : "car_parts"
+	},
+	{
+		"lat" : "41.7498225",
+		"lon" : "22.2006562",
+		"name" : "Супер - Кид Го",
+		"category" : "supermarket"
+	},
+	{
+		"lat" : "41.7433985",
+		"lon" : "22.1927633",
+		"name" : "Бисоил",
+		"category" : "car_parts"
+	},
+	{
+		"lat" : "41.7511154",
+		"lon" : "22.1975484",
+		"name" : "Тимекс",
+		"category" : "ironworks"
+	},
+	{
+		"lat" : "41.7488109",
+		"lon" : "22.198624",
+		"name" : "Ицо Брицо",
+		"category" : "hairdresser"
+	},
+	{
+		"lat" : "41.7510051",
+		"lon" : "22.2013031",
+		"name" : "Бикче",
+		"category" : "hairdresser"
+	},
+	{
+		"lat" : "41.7481411",
+		"lon" : "22.1943252",
+		"name" : "Пепи",
+		"category" : "hairdresser"
+	},
+	{
+		"lat" : "41.749502",
+		"lon" : "22.2000942",
+		"name" : "Симонче",
+		"category" : "bakery"
+	},
+	{
+		"lat" : "41.7500298",
+		"lon" : "22.2000454",
+		"name" : "Џани",
+		"category" : "bakery"
+	},
+	{
+		"lat" : "41.4374154",
+		"lon" : "22.655681",
+		"name" : "Neotek Systems",
+		"category" : "supermarket",
+		"addr:city" : "Струмица",
+		"addr:street" : "Гоце Делчев",
+		"opening_hours" : "Mo-Fr 09:00-17:00"
+	},
+	{
+		"lat" : "41.9124398",
+		"lon" : "22.408065",
+		"name" : "Spirko Tattoo",
+		"category" : "tattoo",
+		"email" : "spirkox@yahoo.co.uk",
+		"phone" : "+38977898219",
+		"addr:city" : "Kocani",
+		"addr:street" : "8-ми Март",
+		"opening_hours" : "Mo-Sa 10:00-21:00"
+	},
+	{
+		"lat" : "42.0014678",
+		"lon" : "21.4252183",
+		"name" : "MG Tattoo & Piercing Studio",
+		"category" : "tattoo"
+	},
+	{
+		"lat" : "41.4391987",
+		"lon" : "22.6381527",
+		"name" : "Ramstore",
+		"category" : "supermarket",
+		"website" : "http://ramstore.com.mk"
+	},
+	{
+		"lat" : "41.3469593",
+		"lon" : "21.5560579",
+		"name" : "Футура",
+		"category" : "supermarket",
+		"phone" : "+38971213780",
+		"addr:city" : "Прилеп",
+		"addr:street" : "Браќа Ламески"
+	},
+	{
+		"lat" : "41.4837841",
+		"lon" : "20.9236105",
+		"name" : "Данчо ММ",
+		"category" : "convenience"
+	},
+	{
+		"lat" : "41.5076915",
+		"lon" : "20.9546721",
+		"name" : "Атва",
+		"category" : "convenience"
+	},
+	{
+		"lat" : "41.5002712",
+		"lon" : "20.9512603",
+		"name" : "Андроко",
+		"category" : "convenience"
+	},
+	{
+		"lat" : "41.8644102",
+		"lon" : "21.941768",
+		"name" : "Зегин",
+		"category" : "chemist"
+	},
+	{
+		"lat" : "41.8643766",
+		"lon" : "21.9417838",
+		"name" : "Шиткарски",
+		"category" : "bakery"
+	},
+	{
+		"lat" : "41.8650102",
+		"lon" : "21.9423848",
+		"name" : "Астра",
+		"category" : "supermarket"
+	},
+	{
+		"lat" : "41.8632983",
+		"lon" : "21.935983",
+		"name" : "Астра",
+		"category" : "supermarket"
+	},
+	{
+		"lat" : "41.8585522",
+		"lon" : "21.9338929",
+		"name" : "Астра",
+		"category" : "yes"
+	},
+	{
+		"lat" : "41.8673893",
+		"lon" : "21.9372432",
+		"name" : "Пакет Маркет",
+		"category" : "supermarket"
+	},
+	{
+		"lat" : "41.8650078",
+		"lon" : "21.9417171",
+		"name" : "Ан-Да",
+		"category" : "bakery"
+	},
+	{
+		"lat" : "41.866656",
+		"lon" : "21.9312266",
+		"name" : "Астра",
+		"category" : "supermarket"
+	},
+	{
+		"lat" : "41.8648978",
+		"lon" : "21.9426976",
+		"name" : "Сани",
+		"category" : "bakery"
+	},
+	{
+		"lat" : "41.8652057",
+		"lon" : "21.9378498",
+		"name" : "Ива",
+		"category" : "clothes"
+	},
+	{
+		"lat" : "41.8651913",
+		"lon" : "21.9381668",
+		"name" : "Ненко",
+		"category" : "hairdresser"
+	},
+	{
+		"lat" : "42.0383659",
+		"lon" : "21.4517347",
+		"name" : "Кувертира",
+		"category" : "pastry"
+	},
+	{
+		"lat" : "42.0382921",
+		"lon" : "21.4539809",
+		"name" : "Ице Маце",
+		"category" : "car_repair"
+	},
+	{
+		"lat" : "42.0383893",
+		"lon" : "21.4523374",
+		"name" : "Манџар",
+		"category" : "car_repair"
+	},
+	{
+		"lat" : "42.0364195",
+		"lon" : "21.4464861",
+		"name" : "Стокомак",
+		"category" : "supermarket"
+	},
+	{
+		"lat" : "42.0372124",
+		"lon" : "21.4458128",
+		"name" : "Жито Маркет",
+		"category" : "supermarket"
+	},
+	{
+		"lat" : "41.9742729",
+		"lon" : "21.445244",
+		"name" : "Стокомак",
+		"category" : "yes"
+	},
+	{
+		"lat" : "41.9820314",
+		"lon" : "21.4402712",
+		"name" : "Стокомак",
+		"category" : "yes"
+	},
+	{
+		"lat" : "41.8673048",
+		"lon" : "21.942932",
+		"name" : "Зендолино",
+		"category" : "supermarket"
+	},
+	{
+		"lat" : "41.8693536",
+		"lon" : "21.9406323",
+		"name" : "Астра",
+		"category" : "supermarket"
+	},
+	{
+		"lat" : "41.8680406",
+		"lon" : "21.9356826",
+		"name" : "Никола Бошист",
+		"category" : "car_repair"
+	},
+	{
+		"lat" : "41.1501381",
+		"lon" : "20.6506671",
+		"name" : "Market Durim",
+		"category" : "supermarket"
+	},
+	{
+		"lat" : "41.9968481",
+		"lon" : "21.4263263",
+		"name" : "Монистрара Делфина",
+		"category" : "craft"
+	},
+	{
+		"lat" : "41.9999053",
+		"lon" : "21.423653",
+		"name" : "Слаткарница Њујорк",
+		"category" : "pastry",
+		"website" : "http://newyork.mk/"
+	},
+	{
+		"lat" : "41.9980345",
+		"lon" : "21.3981423",
+		"name" : "Ramstore",
+		"category" : "supermarket"
+	},
+	{
+		"lat" : "41.998706",
+		"lon" : "21.3962482",
+		"name" : "Super TINEX",
+		"category" : "supermarket"
+	},
+	{
+		"lat" : "41.3387645",
+		"lon" : "21.5453107",
+		"name" : "Хјундаи (Салат Моторс)",
+		"category" : "car_repair"
+	},
+	{
+		"lat" : "41.7379632",
+		"lon" : "22.1926143",
+		"name" : "Anhoch",
+		"category" : "computer"
+	},
+	{
+		"lat" : "41.025137",
+		"lon" : "21.3329155",
+		"name" : "Liquour boutique",
+		"category" : "alcohol"
+	},
+	{
+		"lat" : "41.0269485",
+		"lon" : "21.333944",
+		"name" : "Office store",
+		"category" : "books"
+	},
+	{
+		"lat" : "41.026783",
+		"lon" : "21.3328136",
+		"name" : "Andzela",
+		"category" : "convenience"
+	},
+	{
+		"lat" : "41.9833319",
+		"lon" : "21.4539407",
+		"name" : "Малони",
+		"category" : "convenience"
+	},
+	{
+		"lat" : "42.0015283",
+		"lon" : "20.995741",
+		"name" : "Univerzal Auto Parts",
+		"category" : "car_parts"
+	},
+	{
+		"lat" : "42.0112712",
+		"lon" : "20.972541",
+		"name" : "Elipso MOTO",
+		"category" : "scooter"
+	},
+	{
+		"lat" : "41.4308037",
+		"lon" : "22.6447518",
+		"name" : "KAM",
+		"category" : "supermarket"
+	},
+	{
+		"lat" : "41.9855334",
+		"lon" : "21.4485408",
+		"name" : "КАМ Маркет",
+		"category" : "supermarket"
+	},
+	{
+		"lat" : "41.0298768",
+		"lon" : "21.3340866",
+		"name" : "Свеќара",
+		"category" : "candles"
+	},
+	{
+		"lat" : "41.0297502",
+		"lon" : "21.3341506",
+		"name" : "Свеќара",
+		"category" : "candles"
+	},
+	{
+		"lat" : "41.026017",
+		"lon" : "21.3143945",
+		"name" : "Свеќара",
+		"category" : "candles"
+	},
+	{
+		"lat" : "42.0110715",
+		"lon" : "21.359839",
+		"name" : "Димче",
+		"category" : "car_repair"
+	},
+	{
+		"lat" : "41.0263282",
+		"lon" : "21.3367935",
+		"name" : "Cacatua",
+		"category" : "clothes"
+	},
+	{
+		"lat" : "41.0262811",
+		"lon" : "21.3367931",
+		"name" : "Optika aura",
+		"category" : "optician"
+	},
+	{
+		"lat" : "41.0261117",
+		"lon" : "21.3367793",
+		"name" : "Teens",
+		"category" : "clothes"
+	},
+	{
+		"lat" : "41.025998",
+		"lon" : "21.3367782",
+		"name" : "Cacatua",
+		"category" : "clothes"
+	},
+	{
+		"lat" : "41.0260563",
+		"lon" : "21.3367783",
+		"name" : "Stil",
+		"category" : "clothes"
+	},
+	{
+		"lat" : "41.0265417",
+		"lon" : "21.3367894",
+		"name" : "Sport life",
+		"category" : "bookmaker"
+	},
+	{
+		"lat" : "41.0264711",
+		"lon" : "21.3367946",
+		"name" : "Ivet",
+		"category" : "clothes"
+	},
+	{
+		"lat" : "41.0266076",
+		"lon" : "21.3366265",
+		"name" : "Урфа",
+		"category" : "convenience"
+	},
+	{
+		"lat" : "41.0282534",
+		"lon" : "21.3372384",
+		"name" : "Евротип",
+		"category" : "bookmaker"
+	},
+	{
+		"lat" : "41.4654804",
+		"lon" : "22.0273325",
+		"name" : "мин-екс",
+		"category" : "convenience"
+	},
+	{
+		"lat" : "41.0310652",
+		"lon" : "21.3332723",
+		"name" : "Фреш",
+		"category" : "bakery"
+	},
+	{
+		"lat" : "41.0313798",
+		"lon" : "21.3328816",
+		"name" : "Коко Натс",
+		"category" : "yes"
+	},
+	{
+		"lat" : "41.0310218",
+		"lon" : "21.3333407",
+		"name" : "Сат Кула",
+		"category" : "money_transfer"
+	},
+	{
+		"lat" : "41.0313492",
+		"lon" : "21.3333036",
+		"name" : "Свеќар кука трејд",
+		"category" : "candles"
+	},
+	{
+		"lat" : "41.0313185",
+		"lon" : "21.3332866",
+		"name" : "GG Computers",
+		"category" : "computer"
+	},
+	{
+		"lat" : "41.1458184",
+		"lon" : "22.5021057",
+		"name" : "Tehnomarket",
+		"category" : "appliance"
+	},
+	{
+		"lat" : "41.1457448",
+		"lon" : "22.501621",
+		"name" : "Tedi tobacco",
+		"category" : "kiosk"
+	},
+	{
+		"lat" : "41.9958942",
+		"lon" : "21.4291795",
+		"name" : "Bottega Del Gusto",
+		"category" : "deli",
+		"website" : "https://www.instagram.com/bdg.skopje/"
+	},
+	{
+		"lat" : "41.1126632",
+		"lon" : "20.8000081",
+		"name" : "Parking payment booth",
+		"category" : "kiosk"
+	},
+	{
+		"lat" : "42.0578416",
+		"lon" : "21.4514677",
+		"name" : "Кипер Маркет",
+		"category" : "supermarket"
+	},
+	{
+		"lat" : "42.0577735",
+		"lon" : "21.4516577",
+		"name" : "Стокомак",
+		"category" : "supermarket"
+	},
+	{
+		"lat" : "41.1392816",
+		"lon" : "22.503093",
+		"name" : "Adziko Home Center",
+		"category" : "supermarket"
+	},
+	{
+		"lat" : "42.0029511",
+		"lon" : "21.401045",
+		"name" : "Студио Ројал Скопје",
+		"category" : "beauty"
+	},
+	{
+		"lat" : "41.0257341",
+		"lon" : "21.3292979",
+		"name" : "Влашето",
+		"category" : "car_repair"
+	},
+	{
+		"lat" : "41.0256459",
+		"lon" : "21.3290581",
+		"name" : "Auto-style",
+		"category" : "car_parts"
+	},
+	{
+		"lat" : "41.3684777",
+		"lon" : "21.248946",
+		"name" : "Prom - 903 Knizharica",
+		"category" : "stationery"
+	},
+	{
+		"lat" : "41.3686145",
+		"lon" : "21.2488684",
+		"name" : "Mesara Pitu Guli",
+		"category" : "butcher"
+	},
+	{
+		"lat" : "41.3717509",
+		"lon" : "21.247311",
+		"name" : "Четворка",
+		"category" : "convenience"
+	},
+	{
+		"lat" : "42.0665981",
+		"lon" : "21.0278571",
+		"name" : "Сувенири",
+		"category" : "gift"
+	},
+	{
+		"lat" : "41.3435846",
+		"lon" : "21.5601296",
+		"name" : "Футура",
+		"category" : "supermarket"
+	},
+	{
+		"lat" : "41.9957375",
+		"lon" : "21.4143191",
+		"name" : "Чудна шума",
+		"category" : "bookmaker",
+		"website" : "https://www.cudnasuma.com/"
+	},
+	{
+		"lat" : "41.0218074",
+		"lon" : "21.3280428",
+		"name" : "Стокомак",
+		"category" : "supermarket"
+	},
+	{
+		"lat" : "41.3490361",
+		"lon" : "21.5532739",
+		"name" : "Футура",
+		"category" : "supermarket"
+	},
+	{
+		"lat" : "41.1162996",
+		"lon" : "20.8016448",
+		"name" : "Fibula",
+		"category" : "travel_agency"
+	},
+	{
+		"lat" : "41.1136023",
+		"lon" : "20.8018613",
+		"name" : "Kipper",
+		"category" : "supermarket"
+	},
+	{
+		"lat" : "41.1153213",
+		"lon" : "20.8002203",
+		"name" : "Ricci",
+		"category" : "clothes"
+	},
+	{
+		"lat" : "41.1132684",
+		"lon" : "20.7939656",
+		"name" : "Papa’s",
+		"category" : "supermarket"
+	},
+	{
+		"lat" : "41.9951581",
+		"lon" : "21.4299481",
+		"name" : "Iveri",
+		"category" : "clothes"
+	},
+	{
+		"lat" : "42.0007979",
+		"lon" : "21.4369355",
+		"name" : "Burek",
+		"category" : "bakery"
+	},
+	{
+		"lat" : "42.0044094",
+		"lon" : "21.4408439",
+		"name" : "Vardar",
+		"category" : "furniture"
+	},
+	{
+		"lat" : "41.9974123",
+		"lon" : "21.4222398",
+		"name" : "Reptil",
+		"category" : "supermarket"
+	},
+	{
+		"lat" : "41.9959161",
+		"lon" : "21.4180198",
+		"name" : "Step",
+		"category" : "supermarket"
+	},
+	{
+		"lat" : "41.9900313",
+		"lon" : "21.4333355",
+		"name" : "Kalina",
+		"category" : "clothes"
+	},
+	{
+		"lat" : "41.9893258",
+		"lon" : "21.4356511",
+		"name" : "Sara fashion",
+		"category" : "clothes"
+	},
+	{
+		"lat" : "41.9873148",
+		"lon" : "21.4776722",
+		"name" : "Alka-U B",
+		"category" : "supermarket"
+	},
+	{
+		"lat" : "41.994636",
+		"lon" : "21.4309955",
+		"name" : "Sara fashion",
+		"category" : "clothes"
+	},
+	{
+		"lat" : "41.9922134",
+		"lon" : "21.4278325",
+		"name" : "Mega fashion",
+		"category" : "clothes"
+	},
+	{
+		"lat" : "41.5068877",
+		"lon" : "20.9521165",
+		"name" : "Kipper",
+		"category" : "supermarket"
+	},
+	{
+		"lat" : "42.0033656",
+		"lon" : "21.437371",
+		"name" : "Farko Kom",
+		"category" : "shoes"
+	},
+	{
+		"lat" : "41.9983774",
+		"lon" : "21.415282",
+		"name" : "Sur",
+		"category" : "supermarket"
+	},
+	{
+		"lat" : "41.9958449",
+		"lon" : "21.4252808",
+		"name" : "Matiza",
+		"category" : "books"
+	},
+	{
+		"lat" : "42.0008854",
+		"lon" : "21.4372163",
+		"name" : "Nexho",
+		"category" : "confectionery"
+	}
+]
