@@ -1,0 +1,6 @@
+{
+  "supermarket": "Маркети",
+  "convenience": "Маркети",
+  "winery": "Винарии",
+
+}
